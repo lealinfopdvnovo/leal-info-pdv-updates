@@ -1,6 +1,6 @@
 {
-    "Notes":  "V10.136: TESTE DE FOGO da atualizaÃ§Ã£o automÃ¡tica.",
-    "PackageUrl":  "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.136/LEAL_INFO_PDV_V10_136_UPDATE.zip",
-    "Version":  "10.136",
-    "Sha256":  ""
+  "Version": "10.137",
+  "Notes": "V10.137: LIA CONVERSACIONAL - conversa natural online com comandos e permissoes do PDV protegidos localmente.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.137/LEAL_INFO_PDV_V10_137_UPDATE.zip",
+  "Sha256": ""
 }
