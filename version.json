@@ -1,6 +1,6 @@
 {
-  "Notes": "V10.147: LIA atende ao ser chamada por LIA e apelidos informais configurados.",
+  "Version": "10.148",
   "Sha256": "",
-  "Version": "10.147",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.147/LEAL_INFO_PDV_V10_147_UPDATE.zip"
+  "Notes": "V10.148: LIA com resposta conversacional mais rápida e direta.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.148/LEAL_INFO_PDV_V10_148_UPDATE.zip"
 }
