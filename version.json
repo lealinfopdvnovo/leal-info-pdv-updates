@@ -1,6 +1,6 @@
 {
-    "mandatory":  false,
-    "message":  "Atualizacao V10.133 disponivel. Novo tema rosa aquarela no botÃ£o STILO.",
-    "version":  "10.133",
-    "downloadUrl":  "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.133/Setup_LEAL_INFO_PDV_V10_133_LIA_FINAL.exe"
+    "Notes":  "Novo tema rosa aquarela e correcao definitiva da atualizacao automatica.",
+    "PackageUrl":  "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.134/Setup_LEAL_INFO_PDV_V10_134_LIA_FINAL.exe",
+    "Version":  "10.134",
+    "Sha256":  ""
 }
