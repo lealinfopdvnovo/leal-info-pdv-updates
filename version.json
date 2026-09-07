@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.142/LEAL_INFO_PDV_V10_142_UPDATE.zip",
-  "Notes": "V10.142: pacote LIA com voz ajustada, comandos naturais, consulta de estoque e atualização automática aprimorada.",
-  "Version": "10.142",
-  "Sha256": ""
+  "Version": "10.143",
+  "Sha256": "",
+  "Notes": "V10.143: correção do reinício automático após atualização.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.143/LEAL_INFO_PDV_V10_143_UPDATE.zip"
 }
