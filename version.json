@@ -1,6 +1,6 @@
 {
   "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.141/LEAL_INFO_PDV_V10_141_UPDATE.zip",
-  "Version": "10.141",
+  "Notes": "V10.141: LIA livre para testes com pesquisa na internet e conversa contextual.",
   "Sha256": "",
-  "Notes": "V10.141: LIA livre para testes com pesquisa na internet e conversa contextual."
+  "Version": "10.141"
 }
