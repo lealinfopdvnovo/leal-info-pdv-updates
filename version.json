@@ -1,6 +1,6 @@
 {
-  "Version": "10.143",
   "Sha256": "",
-  "Notes": "V10.143: correção do reinício automático após atualização.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.143/LEAL_INFO_PDV_V10_143_UPDATE.zip"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.144/LEAL_INFO_PDV_V10_144_UPDATE.zip",
+  "Notes": "V10.144: fala da LIA corrigida e mais natural.",
+  "Version": "10.144"
 }
