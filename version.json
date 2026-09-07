@@ -1,6 +1,6 @@
 {
-    "Notes":  "V10.135: versao atual exibida na tela de login e validacao da atualizacao automatica.",
-    "PackageUrl":  "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.135/Setup_LEAL_INFO_PDV_V10_135_LIA_FINAL.exe",
+    "Notes":  "V10.135: versao atual exibida na tela de login e correcao do pacote da atualizacao automatica.",
+    "PackageUrl":  "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.135/LEAL_INFO_PDV_V10_135_UPDATE.zip",
     "Version":  "10.135",
     "Sha256":  ""
 }
