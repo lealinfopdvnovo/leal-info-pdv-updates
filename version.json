@@ -1,6 +1,6 @@
 {
-  "Version": "10.138",
-  "Sha256": "",
-  "Notes": "V10.138: LIA CONVERSACIONAL - correcao para a conversa online nao congelar a tela do PDV.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.138/LEAL_INFO_PDV_V10_138_UPDATE.zip"
+  "Notes": "V10.139: LIA - escuta continua restaurada e conversa online assincrona sem congelar a tela.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.139/LEAL_INFO_PDV_V10_139_UPDATE.zip",
+  "Version": "10.139",
+  "Sha256": ""
 }
