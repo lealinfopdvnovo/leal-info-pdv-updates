@@ -1,6 +1,6 @@
 {
-  "Sha256": "",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.144/LEAL_INFO_PDV_V10_144_UPDATE.zip",
-  "Notes": "V10.144: fala da LIA corrigida e mais natural.",
-  "Version": "10.144"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.145/LEAL_INFO_PDV_V10_145_UPDATE.zip",
+  "Notes": "V10.145: voz natural da LIA e fala completa, sem cortar frases.",
+  "Version": "10.145",
+  "Sha256": ""
 }
