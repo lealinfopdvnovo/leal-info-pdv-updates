@@ -1,6 +1,6 @@
 {
-  "Sha256": "aafccddeef9c7b22e415a16c2003a373b51daf52d3100d344f79fdf07d5318da",
-  "Version": "10.150",
-  "Notes": "V10.150: LIA mais rápida, interativa e conectada a todos os atalhos superiores do PDV.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.150/LEAL_INFO_PDV_V10_150_UPDATE.zip"
+  "Notes": "V10.151: LIA com Modo Administrador livre para ADMIN autenticado.",
+  "Sha256": "b6a294e51d52c5d7809926868ff3dbd45d9dfc66a18b264b9182940a210e836d",
+  "Version": "10.151",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.151/LEAL_INFO_PDV_V10_151_UPDATE.zip"
 }
