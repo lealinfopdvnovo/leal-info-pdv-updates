@@ -1,6 +1,6 @@
 {
-  "Sha256": "8a788754932353f451dd61bc903b0b1bff09abbf8e88dae1a0c4c88c02c703bd",
-  "Notes": "V10.154: hotfix da abertura Pro; corrige erro de transparência do WebView2.",
-  "Version": "10.154",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.154/LEAL_INFO_PDV_V10_154_UPDATE.zip"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.155/LEAL_INFO_PDV_V10_155_UPDATE.zip",
+  "Sha256": "0e16426ddb36e9a6afa32f753854d8eeff7fdad51b020b712a53c15cd700365f",
+  "Notes": "V10.155: correção definitiva do erro de transparência na abertura Pro.",
+  "Version": "10.155"
 }
