@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.149/LEAL_INFO_PDV_V10_149_UPDATE.zip",
-  "Version": "10.149",
-  "Sha256": "",
-  "Notes": "V10.149: LIA entende comandos naturais com interpretação semântica local mais inteligente."
+  "Sha256": "b63bf3ff47ff3bab354864bdf99dad6f3d72a5966881e0be59a3b401e32534a0",
+  "Version": "10.150",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.150/LEAL_INFO_PDV_V10_150_UPDATE.zip",
+  "Notes": "V10.150: LIA mais rápida, interativa e conectada a todos os atalhos superiores do PDV."
 }
