@@ -1,6 +1,6 @@
 {
-  "Sha256": "4b81e9ce18bc5b17e7f3c98cb6e55e9e6b617c556b1600c138c9adb7c2410dcd",
-  "Notes": "V10.152: LIA com modo conversa e modo trabalho, sem perder a resposta rápida atual.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.152/LEAL_INFO_PDV_V10_152_UPDATE.zip",
-  "Version": "10.152"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.153/LEAL_INFO_PDV_V10_153_UPDATE.zip",
+  "Version": "10.153",
+  "Sha256": "96904a9f5225e1b772af9cfe74985f6e5ee3552be0715d97c43a8c3782f15213",
+  "Notes": "V10.153: abertura Pro com holograma da LIA antes da tela de credenciais."
 }
