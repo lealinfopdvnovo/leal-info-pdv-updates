@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.153/LEAL_INFO_PDV_V10_153_UPDATE.zip",
-  "Version": "10.153",
-  "Sha256": "96904a9f5225e1b772af9cfe74985f6e5ee3552be0715d97c43a8c3782f15213",
-  "Notes": "V10.153: abertura Pro com holograma da LIA antes da tela de credenciais."
+  "Sha256": "8a788754932353f451dd61bc903b0b1bff09abbf8e88dae1a0c4c88c02c703bd",
+  "Notes": "V10.154: hotfix da abertura Pro; corrige erro de transparência do WebView2.",
+  "Version": "10.154",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.154/LEAL_INFO_PDV_V10_154_UPDATE.zip"
 }
