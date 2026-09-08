@@ -1,6 +1,6 @@
 {
-  "Version": "10.148",
+  "Version": "10.149",
   "Sha256": "",
-  "Notes": "V10.148: LIA com resposta conversacional mais rápida e direta.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.148/LEAL_INFO_PDV_V10_148_UPDATE.zip"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.149/LEAL_INFO_PDV_V10_149_UPDATE.zip",
+  "Notes": "V10.149: LIA entende comandos naturais com interpretação semântica local mais inteligente."
 }
