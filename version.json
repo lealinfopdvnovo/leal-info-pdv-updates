@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.155/LEAL_INFO_PDV_V10_155_UPDATE.zip",
-  "Sha256": "0e16426ddb36e9a6afa32f753854d8eeff7fdad51b020b712a53c15cd700365f",
-  "Notes": "V10.155: correção definitiva do erro de transparência na abertura Pro.",
-  "Version": "10.155"
+  "Sha256": "b1b57b7711f0175c9c97499575e21125e509685a1e180b57f775ffbbcaebca42",
+  "Notes": "V10.156: voz feminina oficial da LIA na abertura Pro.",
+  "Version": "10.156",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.156/LEAL_INFO_PDV_V10_156_UPDATE.zip"
 }
