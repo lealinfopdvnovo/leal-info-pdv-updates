@@ -1,6 +1,6 @@
 {
-  "Sha256": "b1b57b7711f0175c9c97499575e21125e509685a1e180b57f775ffbbcaebca42",
-  "Notes": "V10.156: voz feminina oficial da LIA na abertura Pro.",
-  "Version": "10.156",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.156/LEAL_INFO_PDV_V10_156_UPDATE.zip"
+  "Notes": "V10.157: nova abertura cinematografica completa da LIA antes do login.",
+  "Sha256": "8b3e411fef1a296f84dbbdffce98d5fa11a967b76d483930d2e6e6bcdc85eb1a",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.157/LEAL_INFO_PDV_V10_157_UPDATE.zip",
+  "Version": "10.157"
 }
