@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.160/LEAL_INFO_PDV_V10_160_UPDATE.zip",
-  "Notes": "V10.160: video final corrigido da abertura da LIA.",
-  "Version": "10.160",
-  "Sha256": "fe9fc1211dc98f31ad31001e414bce5b4fcb5bea3b245f4be79ee7bf89e6e714"
+  "Version": "10.161",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.161/LEAL_INFO_PDV_V10_161_UPDATE.zip",
+  "Sha256": "8f733e92f99f9eea9bf98a1aaeaecde876e892943564351ffc91595ed5d0b24c",
+  "Notes": "V10.161: botão da LIA agora desliga microfone, voz e orbe por completo. Abertura oficial preservada."
 }
