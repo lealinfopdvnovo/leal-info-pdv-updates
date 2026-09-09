@@ -1,6 +1,6 @@
 {
-  "Version": "10.161",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.161/LEAL_INFO_PDV_V10_161_UPDATE.zip",
-  "Sha256": "8f733e92f99f9eea9bf98a1aaeaecde876e892943564351ffc91595ed5d0b24c",
-  "Notes": "V10.161: botão da LIA agora desliga microfone, voz e orbe por completo. Abertura oficial preservada."
+  "Sha256": "5492b70b2c503a370a06768ad4f5e9cc9973efb4a68ab945532aed56d1da0a06",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.162/LEAL_INFO_PDV_V10_162_UPDATE.zip",
+  "Version": "10.162",
+  "Notes": "V10.162: relógio do PDV sincronizado em tempo real com o horário do computador. Mantida a correção do desligamento completo da LIA e a abertura oficial."
 }
