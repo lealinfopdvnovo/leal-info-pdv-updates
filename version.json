@@ -1,6 +1,6 @@
 {
-  "Sha256": "14214109a877531322213908835c7e9379bdcf667ddffb01fd7a930ec2d8f35b",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.158/LEAL_INFO_PDV_V10_158_UPDATE.zip",
-  "Version": "10.158",
-  "Notes": "V10.158: nova abertura cinematografica definitiva da LIA antes do login."
+  "Notes": "V10.159: abertura da LIA ajustada para executar uma unica vez antes do login.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.159/LEAL_INFO_PDV_V10_159_UPDATE.zip",
+  "Version": "10.159",
+  "Sha256": "2d0358343118887300b3ae43f919a912ebb3b8f1a6405d32db4609f5274ea948"
 }
