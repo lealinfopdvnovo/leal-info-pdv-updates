@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.170/LEAL_INFO_PDV_V10_170_UPDATE.zip",
-  "Version": "10.170",
-  "Sha256": "7b75fc0e510965222d52598094736f279c2a192d0f7dc433dba738949cc8789d",
-  "Notes": "V10.170: LIA e Tutorial agora usam o mesmo ambiente WebView2 e o mesmo perfil em LocalAppData, eliminando a criação concorrente de ambientes incompatíveis que causava 0x8007139F. Instalação limpa, licença mestre e abertura V10.160 preservadas."
+  "Sha256": "b2d54a65bf8193ee5c76b680b6380ffc2fe1c9aa8ae15b02b753d1798cb99271",
+  "Notes": "V10.171: PLUS e PRO passam a exibir somente a LIA, sem o monitor de estoque sobre a tela; STANDARD mantém o monitor e não exibe o botão da LIA. A personagem foi reduzida para evitar invasão da barra superior e melhorar a definição percebida, mantendo voz, abertura V10.160, licenciamento mestre e correção WebView2 da V10.170.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.171/LEAL_INFO_PDV_V10_171_UPDATE.zip",
+  "Version": "10.171"
 }
