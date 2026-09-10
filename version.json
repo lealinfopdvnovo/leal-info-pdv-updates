@@ -1,6 +1,6 @@
 {
-  "Sha256": "5492b70b2c503a370a06768ad4f5e9cc9973efb4a68ab945532aed56d1da0a06",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.162/LEAL_INFO_PDV_V10_162_UPDATE.zip",
-  "Version": "10.162",
-  "Notes": "V10.162: relógio do PDV sincronizado em tempo real com o horário do computador. Mantida a correção do desligamento completo da LIA e a abertura oficial."
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.163/LEAL_INFO_PDV_V10_163_UPDATE.zip",
+  "Sha256": "f1fd03126fd3d0e9237a0302d42e978cd42d9a0dfd2c49350405cdbdced858ee",
+  "Version": "10.163",
+  "Notes": "V10.163: LIA PRO mais rápida e com contexto mais estável; hora, data, fuso e local do PDV sincronizados com Windows/cadastro local; fechamento sem falar versão; melhorias atuais da LIA preservando a abertura oficial."
 }
