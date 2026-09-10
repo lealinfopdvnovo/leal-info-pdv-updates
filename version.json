@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.167/LEAL_INFO_PDV_V10_167_UPDATE.zip",
-  "Sha256": "f3081c7f98e999c39a67b3e3b582d893d7e46d5294526dca27fd489f8bc7942f",
-  "Version": "10.167",
-  "Notes": "V10.167: licenciamento preparado para o gerador mestre definitivo. A nova chave oficial passa a ser aceita sem invalidar seriais antigos; recursos e abertura da V10.166/V10.160 preservados."
+  "Sha256": "90accf681031df102195d51933eeafb974ddf44e7e7850f5f4411c3a4b59e13e",
+  "Version": "10.168",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.168/LEAL_INFO_PDV_V10_168_UPDATE.zip",
+  "Notes": "V10.168: setup e executável agora carregam a versão real 10.168. A publicação só prossegue se um serial emitido pelo gerador mestre for validado pelo mesmo LicenseManager usado pelo PDV. Chave mestre permanente e compatibilidade legada preservadas; abertura oficial V10.160 mantida."
 }
