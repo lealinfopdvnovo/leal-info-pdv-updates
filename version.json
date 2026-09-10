@@ -1,6 +1,6 @@
 {
-  "Sha256": "0a3fd186bdb3795f22c43cb43ebdf6fbae73c7b877e0657d7bd4ccb2a3c4a843",
-  "Notes": "V10.164: LIA não fala mais números de versão antigos no nome das telas ao pedir confirmação de fechamento. Demais melhorias da V10.163 e abertura oficial preservadas.",
-  "Version": "10.164",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.164/LEAL_INFO_PDV_V10_164_UPDATE.zip"
+  "Notes": "V10.165: chamada 'LIA' mais confiável, escuta de voz mais estável, conversa online assíncrona para reduzir travamento/latência e respostas livres menos truncadas e mais coerentes. Correção V10.164 e abertura oficial preservadas.",
+  "Version": "10.165",
+  "Sha256": "26ed98f9cd51c75662e32356316d6551cf00e6662c1b52bfe4dca1d5570942cb",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.165/LEAL_INFO_PDV_V10_165_UPDATE.zip"
 }
