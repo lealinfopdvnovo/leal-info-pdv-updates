@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.171/LEAL_INFO_PDV_V10_171_UPDATE.zip",
-  "Sha256": "8caf63705a3455f7adb86f61b65670a0acc92cefa20268cdc45a2903e546a9e9",
-  "Notes": "V10.171: PLUS e PRO passam a exibir somente a LIA, sem o monitor de estoque sobre a tela; STANDARD mantém o monitor e não exibe o botão da LIA. A personagem foi reduzida para evitar invasão da barra superior e melhorar a definição percebida, mantendo voz, abertura V10.160, licenciamento mestre e correção WebView2 da V10.170.",
-  "Version": "10.171"
+  "Version": "10.172",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.172/LEAL_INFO_PDV_V10_172_UPDATE.zip",
+  "Sha256": "c01933a80cc9b62108be648194f99a9726637aadd274bbb026e26116893aa666",
+  "Notes": "V10.172: corrige o retorno do erro 0x8007139F no Tutorial usando um perfil WebView2 compartilhado novo e exclusivo, evitando reaproveitamento de estado ou locks de perfis anteriores após atualização. Mantém a abertura V10.160, voz da LIA, regras STANDARD/PLUS/PRO, licenciamento mestre e ajustes visuais da V10.171."
 }
