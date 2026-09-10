@@ -1,6 +1,6 @@
 {
-  "Sha256": "90accf681031df102195d51933eeafb974ddf44e7e7850f5f4411c3a4b59e13e",
-  "Version": "10.168",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.168/LEAL_INFO_PDV_V10_168_UPDATE.zip",
-  "Notes": "V10.168: setup e executável agora carregam a versão real 10.168. A publicação só prossegue se um serial emitido pelo gerador mestre for validado pelo mesmo LicenseManager usado pelo PDV. Chave mestre permanente e compatibilidade legada preservadas; abertura oficial V10.160 mantida."
+  "Sha256": "6849b8015fd90daf7b475d533c8bde71817274e3908259c40a5fd4e3672801fe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.169/LEAL_INFO_PDV_V10_169_UPDATE.zip",
+  "Version": "10.169",
+  "Notes": "V10.169: instalação limpa substitui os arquivos antigos do programa, preservando cadastros, licença e backups em LocalAppData. WebView2 passa a gravar em pasta de usuário, eliminando erro de permissão em Program Files. Abertura V10.160 e licenciamento mestre preservados."
 }
