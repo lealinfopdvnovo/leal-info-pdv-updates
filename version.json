@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.163/LEAL_INFO_PDV_V10_163_UPDATE.zip",
-  "Sha256": "f1fd03126fd3d0e9237a0302d42e978cd42d9a0dfd2c49350405cdbdced858ee",
-  "Version": "10.163",
-  "Notes": "V10.163: LIA PRO mais rápida e com contexto mais estável; hora, data, fuso e local do PDV sincronizados com Windows/cadastro local; fechamento sem falar versão; melhorias atuais da LIA preservando a abertura oficial."
+  "Sha256": "0a3fd186bdb3795f22c43cb43ebdf6fbae73c7b877e0657d7bd4ccb2a3c4a843",
+  "Notes": "V10.164: LIA não fala mais números de versão antigos no nome das telas ao pedir confirmação de fechamento. Demais melhorias da V10.163 e abertura oficial preservadas.",
+  "Version": "10.164",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.164/LEAL_INFO_PDV_V10_164_UPDATE.zip"
 }
