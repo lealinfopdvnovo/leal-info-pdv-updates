@@ -1,6 +1,6 @@
 {
-  "Notes": "V10.165: chamada 'LIA' mais confiável, escuta de voz mais estável, conversa online assíncrona para reduzir travamento/latência e respostas livres menos truncadas e mais coerentes. Correção V10.164 e abertura oficial preservadas.",
-  "Version": "10.165",
-  "Sha256": "26ed98f9cd51c75662e32356316d6551cf00e6662c1b52bfe4dca1d5570942cb",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.165/LEAL_INFO_PDV_V10_165_UPDATE.zip"
+  "Notes": "V10.166: novo balão comercial discreto exibido uma vez após o login. STANDARD apresenta o PLUS, PLUS apresenta o PRO e PRO apresenta extensão da LIA. Abertura oficial V10.160 preservada e sem alterações no MainForm.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.166/LEAL_INFO_PDV_V10_166_UPDATE.zip",
+  "Sha256": "8033f2d7759ee6af44fe6bcbe1304422cb4210152282d0dff238da657ccbe819",
+  "Version": "10.166"
 }
