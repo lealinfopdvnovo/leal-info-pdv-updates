@@ -1,6 +1,6 @@
 {
-  "Version": "10.172",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.172/LEAL_INFO_PDV_V10_172_UPDATE.zip",
-  "Notes": "V10.172: corrige o retorno do erro 0x8007139F no Tutorial usando um perfil WebView2 compartilhado novo e exclusivo, evitando reaproveitamento de estado ou locks de perfis anteriores após atualização. Mantém a abertura V10.160, voz da LIA, regras STANDARD/PLUS/PRO, licenciamento mestre e ajustes visuais da V10.171.",
-  "Sha256": "67278b7bab15f71651b7eccda5ef06e3dae1e9d0bbbba845810bd16b3e49e701"
+  "Notes": "V10.173: elimina o painel branco retangular ao redor do botão da LIA com recorte físico do controle.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.173/LEAL_INFO_PDV_V10_173_UPDATE.zip",
+  "Sha256": "f670be4c03f712d2746bae1c9bc996960ce5db035b791379b731bc829f3a0830",
+  "Version": "10.173"
 }
