@@ -1,6 +1,6 @@
 {
-  "Notes": "V10.173: elimina o painel branco retangular ao redor do botão da LIA com recorte físico do controle.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.173/LEAL_INFO_PDV_V10_173_UPDATE.zip",
-  "Sha256": "f670be4c03f712d2746bae1c9bc996960ce5db035b791379b731bc829f3a0830",
-  "Version": "10.173"
+  "Notes": "V10.174: corrige WebView2 0x8007139F com perfil novo por execução, preservando LIA e tutorial no mesmo ambiente da sessão.",
+  "Sha256": "3c62478767297781179fe3981aee8b3faee89c7870f56d7297e039e47705df4b",
+  "Version": "10.174",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.174/LEAL_INFO_PDV_V10_174_UPDATE.zip"
 }
