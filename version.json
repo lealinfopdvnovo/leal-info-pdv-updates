@@ -1,6 +1,6 @@
 {
-  "Notes": "V10.166: novo balão comercial discreto exibido uma vez após o login. STANDARD apresenta o PLUS, PLUS apresenta o PRO e PRO apresenta extensão da LIA. Abertura oficial V10.160 preservada e sem alterações no MainForm.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.166/LEAL_INFO_PDV_V10_166_UPDATE.zip",
-  "Sha256": "8033f2d7759ee6af44fe6bcbe1304422cb4210152282d0dff238da657ccbe819",
-  "Version": "10.166"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.167/LEAL_INFO_PDV_V10_167_UPDATE.zip",
+  "Sha256": "f3081c7f98e999c39a67b3e3b582d893d7e46d5294526dca27fd489f8bc7942f",
+  "Version": "10.167",
+  "Notes": "V10.167: licenciamento preparado para o gerador mestre definitivo. A nova chave oficial passa a ser aceita sem invalidar seriais antigos; recursos e abertura da V10.166/V10.160 preservados."
 }
