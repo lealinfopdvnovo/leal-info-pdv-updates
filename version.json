@@ -1,6 +1,6 @@
 {
-  "Sha256": "b2d54a65bf8193ee5c76b680b6380ffc2fe1c9aa8ae15b02b753d1798cb99271",
-  "Notes": "V10.171: PLUS e PRO passam a exibir somente a LIA, sem o monitor de estoque sobre a tela; STANDARD mantém o monitor e não exibe o botão da LIA. A personagem foi reduzida para evitar invasão da barra superior e melhorar a definição percebida, mantendo voz, abertura V10.160, licenciamento mestre e correção WebView2 da V10.170.",
   "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.171/LEAL_INFO_PDV_V10_171_UPDATE.zip",
+  "Sha256": "8caf63705a3455f7adb86f61b65670a0acc92cefa20268cdc45a2903e546a9e9",
+  "Notes": "V10.171: PLUS e PRO passam a exibir somente a LIA, sem o monitor de estoque sobre a tela; STANDARD mantém o monitor e não exibe o botão da LIA. A personagem foi reduzida para evitar invasão da barra superior e melhorar a definição percebida, mantendo voz, abertura V10.160, licenciamento mestre e correção WebView2 da V10.170.",
   "Version": "10.171"
 }
