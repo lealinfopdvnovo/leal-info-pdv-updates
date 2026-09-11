@@ -1,6 +1,6 @@
 {
-  "Notes": "V10.174: corrige WebView2 0x8007139F com perfil novo por execução, preservando LIA e tutorial no mesmo ambiente da sessão.",
-  "Sha256": "e01752523056e856fbdac2a7c9ce01d589cbddef871a2bbb6bc834e8006ce7d9",
+  "Sha256": "0e0ca5a8b016c2485ccf2e28690a96eb1d9c1bbd30b30285c2c1403848ee8ed3",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.174/LEAL_INFO_PDV_V10_174_UPDATE.zip",
   "Version": "10.174",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.174/LEAL_INFO_PDV_V10_174_UPDATE.zip"
+  "Notes": "V10.174: corrige WebView2 0x8007139F com perfil novo por execução, preservando LIA e tutorial no mesmo ambiente da sessão."
 }
