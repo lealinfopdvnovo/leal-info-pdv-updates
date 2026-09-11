@@ -1,6 +1,6 @@
 {
-  "Sha256": "2eca226106f7def916e61165d2291c797d08bb9c80505cca4e868ce170b31b96",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.176/LEAL_INFO_PDV_V10_176_UPDATE.zip",
-  "Version": "10.176",
-  "Notes": "V10.176 HOTFIX: restaura a inicializacao do PDV apos a V10.175."
+  "Notes": "V10.177: ícones coloridos e novo estilo Verde e Branco marmorizado.",
+  "Version": "10.177",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/LEAL_INFO_PDV_V10_177_UPDATE.zip",
+  "Sha256": "60f5422eb129b715e7c7e1456c2d013383ac596edcd1743e7fc21430331a132d"
 }
