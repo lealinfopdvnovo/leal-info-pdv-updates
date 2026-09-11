@@ -1,6 +1,6 @@
 {
-  "Notes": "V10.174: corrige WebView2 0x8007139F com perfil novo por execução, preservando LIA e tutorial no mesmo ambiente da sessão.",
-  "Sha256": "3c62478767297781179fe3981aee8b3faee89c7870f56d7297e039e47705df4b",
-  "Version": "10.174",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.174/LEAL_INFO_PDV_V10_174_UPDATE.zip"
+  "Version": "10.162",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.162/LEAL_INFO_PDV_V10_162_UPDATE.zip",
+  "Sha256": "b53493e90217085133c087502e4bbbf0f40300d8055e3b74b35ae0cbbc01505e",
+  "Notes": "V10.162: relógio do PDV sincronizado em tempo real com o horário do computador. Mantida a correção do desligamento completo da LIA e a abertura oficial."
 }
