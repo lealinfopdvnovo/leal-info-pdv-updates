@@ -1,6 +1,6 @@
 {
-  "Notes": "V10.181: LIA, temas finais e rótulos completos da barra principal corrigidos.",
-  "Version": "10.181",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.181/LEAL_INFO_PDV_V10_181_UPDATE.zip",
-  "Sha256": "9abf260f9012d9694cda1bf54ae14e5dc5b0579c9ee9599ab0489b7d29fa389b"
+  "Sha256": "0682fe2412be535f0d7596d209b2689ce3b86486cab1c8ff9cbb3153e594e070",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.182/LEAL_INFO_PDV_V10_182_UPDATE.zip",
+  "Version": "10.182",
+  "Notes": "V10.182: correção exclusiva da LIA por voz; restante do sistema preservado."
 }
