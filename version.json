@@ -1,6 +1,6 @@
 {
-  "Sha256": "48612672ecd20809977e96d01650ec0f7b60c39c12fdabd43fec183a7b7fa8b2",
-  "Version": "10.184",
-  "Notes": "V10.184: correção direta do comando de voz Recolher LIA; restante do sistema preservado.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.184/LEAL_INFO_PDV_V10_184_UPDATE.zip"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.185/LEAL_INFO_PDV_V10_185_UPDATE.zip",
+  "Version": "10.185",
+  "Notes": "V10.185: primeira abertura do dia com LIA; demais aberturas com vinheta curta da logo; restante preservado.",
+  "Sha256": "242f9b50bf7f4630fb5f39fc1c19296c118c514734fbb8831809f886d382f337"
 }
