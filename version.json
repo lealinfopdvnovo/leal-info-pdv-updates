@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.185/LEAL_INFO_PDV_V10_185_UPDATE.zip",
-  "Sha256": "f61491724dabf16ea9726dc834fdb6788a59297e44694979b04a38d3181fab03",
-  "Version": "10.185",
-  "Notes": "V10.185: primeira abertura do dia com LIA; demais aberturas com vinheta curta da logo; restante preservado."
+  "Sha256": "b4d1ed57b13ec6a281858bb59fd91b208e735af64c27ccd82341182a9d7606e1",
+  "Notes": "V10.186: primeira abertura do dia com LIA; demais aberturas com o vídeo aprovado antes do login; restante preservado.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.186/LEAL_INFO_PDV_V10_186_UPDATE.zip",
+  "Version": "10.186"
 }
