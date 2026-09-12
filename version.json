@@ -1,6 +1,6 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.179/LEAL_INFO_PDV_V10_179_UPDATE.zip",
-  "Version": "10.179",
-  "Sha256": "b111ee32b580ac528c11db020e0bb1fe1a832885b3ee6e9558ae1545110d1efd",
-  "Notes": "V10.179: correcao da abertura pos-instalacao e estabilizacao da LIA."
+  "Version": "10.180",
+  "Sha256": "82ac4588c2b737447ff0468183770fc0690bc6331a0ee6aeb51b545466a16222",
+  "Notes": "V10.180: LIA corrigida, ícones 55x55 e temas da Tela de Vendas isolados corretamente.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.180/LEAL_INFO_PDV_V10_180_UPDATE.zip"
 }
