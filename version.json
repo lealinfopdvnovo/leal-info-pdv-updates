@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.178/LEAL_INFO_PDV_V10_178_UPDATE.zip",
-  "Notes": "V10.178: animacao inicial do PDV restaurada, mantendo a antiga assistente removida e as demais funcoes preservadas.",
-  "Message": "V10.178: animacao inicial do PDV restaurada, mantendo a antiga assistente removida e as demais funcoes preservadas.",
-  "Version": "10.178",
-  "Sha256": "90828e47cfe2e7e9b08d1c8eeb4dee2d45af6a4b8ab26b91e8c08f27614a32c5",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.178/Setup_LEAL_INFO_PDV_V10_178_FINAL.exe",
-  "Mandatory": false
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.179/LEAL_INFO_PDV_V10_179_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.179/Setup_LEAL_INFO_PDV_V10_179_FINAL.exe",
+  "Notes": "V10.179: abertura correta do PDV restaurada com o video oficial, mantendo a antiga assistente removida e as demais funcoes preservadas.",
+  "Message": "V10.179: abertura correta do PDV restaurada com o video oficial, mantendo a antiga assistente removida e as demais funcoes preservadas.",
+  "Version": "10.179",
+  "Sha256": "86a908bb75016631d8d9a08ff6f0a9b955fbde29fb5f737d4bee0cdc180605dd"
 }
