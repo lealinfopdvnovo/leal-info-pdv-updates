@@ -1,9 +1,9 @@
 {
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.172/LEAL_INFO_PDV_V10_172_UPDATE.zip",
+  "Mandatory": false,
+  "Message": "V10.172: pulsacao holografica mantida somente nos cards Produtos e Tela de Vendas; demais atalhos permanecem estaticos, preservando o visual aprovado da V10.171.",
+  "Sha256": "f590da42d4c99d7690ba91e006bc8832ac3478e62c53f2bdbbf73dd22846e767",
   "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.172/Setup_LEAL_INFO_PDV_V10_172_LIA_FINAL.exe",
   "Notes": "V10.172: pulsacao holografica mantida somente nos cards Produtos e Tela de Vendas; demais atalhos permanecem estaticos, preservando o visual aprovado da V10.171.",
-  "Version": "10.172",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.172/LEAL_INFO_PDV_V10_172_UPDATE.zip",
-  "Sha256": "594b826218035f26a9b20435f8f9677012cb5f8205e579d118afb17944f18063",
-  "Mandatory": false,
-  "Message": "V10.172: pulsacao holografica mantida somente nos cards Produtos e Tela de Vendas; demais atalhos permanecem estaticos, preservando o visual aprovado da V10.171."
+  "Version": "10.172"
 }
