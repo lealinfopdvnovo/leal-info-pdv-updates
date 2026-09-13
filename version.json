@@ -1,6 +1,6 @@
 {
-  "Version": "10.188",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.188/LEAL_INFO_PDV_V10_188_UPDATE.zip",
-  "Sha256": "ba2b47d6f5b6b6e6b9adc5a111e8a4136fb3e31da690ae98a8bdf08b1797eefc",
-  "Notes": "V10.188: remove flash inicial e permite fechar a tela de login com ESC; restante preservado."
+  "Version": "10.162",
+  "Sha256": "84314774a362dad462c8548fe54d4737d703f39d11b7416ba315655f988c120f",
+  "Notes": "V10.162: relógio do PDV sincronizado em tempo real com o horário do computador. Mantida a correção do desligamento completo da LIA e a abertura oficial.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.162/LEAL_INFO_PDV_V10_162_UPDATE.zip"
 }
