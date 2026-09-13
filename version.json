@@ -1,9 +1,9 @@
 {
-  "Sha256": "3920d8c53f68da1cb21620fe733af595988cff68d4b3a6ab7817500281dcd56f",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.176/Setup_LEAL_INFO_PDV_V10_176_LIA_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.176/LEAL_INFO_PDV_V10_176_UPDATE.zip",
-  "Version": "10.176",
   "Mandatory": false,
-  "Message": "V10.176: conversa natural preservada; abrir e fechar PDV agora usam rota local deterministica, com fechar tendo precedencia. Confirmacao curta, sem titulo nem versao da janela.",
-  "Notes": "V10.176: conversa natural preservada; abrir e fechar PDV agora usam rota local deterministica, com fechar tendo precedencia. Confirmacao curta, sem titulo nem versao da janela."
+  "Notes": "V10.177: LIA removida integralmente do produto. Foram retirados voz, orbe, botao, menu, comandos, abertura, midias e codigo dedicado. O PDV permanece com cadastro, vendas, produtos, clientes, financeiro, relatorios, temas e demais funcoes preservadas.",
+  "Sha256": "2c1c39a607494e710365e0ab078a8be692fc9ffb55c978839bde68c49d5424d3",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/LEAL_INFO_PDV_V10_177_UPDATE.zip",
+  "Version": "10.177",
+  "Message": "V10.177: LIA removida integralmente do produto. Foram retirados voz, orbe, botao, menu, comandos, abertura, midias e codigo dedicado. O PDV permanece com cadastro, vendas, produtos, clientes, financeiro, relatorios, temas e demais funcoes preservadas.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/Setup_LEAL_INFO_PDV_V10_177_FINAL.exe"
 }
