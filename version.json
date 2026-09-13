@@ -1,9 +1,9 @@
 {
-  "Message": "V10.173: LIA mais contextual e natural, entende comandos mesmo com girias/palavroes, recolhe o proprio botao de verdade, aceita confirmacoes naturais, informa hora local sem IA, usa primeiro nome e recebe nova voz feminina leve e espontanea inspirada no perfil Viola. Visual aprovado da V10.172 preservado.",
+  "Version": "10.174",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.174/Setup_LEAL_INFO_PDV_V10_174_LIA_FINAL.exe",
+  "Notes": "V10.174: hotfix do atualizador. Remove a falha fatal de inicializacao causada pelo timeout de 15 segundos, amplia o tempo de download e garante que falha de rede nunca derrube o PDV. Inteligencia, voz e visual da LIA V10.173 preservados.",
+  "Sha256": "6337974eb3eb2a52af8480c137c00c16e87a4e1d3a35478437cc1f9992e86b53",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.173/LEAL_INFO_PDV_V10_173_UPDATE.zip",
-  "Version": "10.173",
-  "Sha256": "7c2d9a8f231a87693cd70f9863765100f6869cda56b46fe5a9143cd39b655d71",
-  "Notes": "V10.173: LIA mais contextual e natural, entende comandos mesmo com girias/palavroes, recolhe o proprio botao de verdade, aceita confirmacoes naturais, informa hora local sem IA, usa primeiro nome e recebe nova voz feminina leve e espontanea inspirada no perfil Viola. Visual aprovado da V10.172 preservado.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.173/Setup_LEAL_INFO_PDV_V10_173_LIA_FINAL.exe"
+  "Message": "V10.174: hotfix do atualizador. Remove a falha fatal de inicializacao causada pelo timeout de 15 segundos, amplia o tempo de download e garante que falha de rede nunca derrube o PDV. Inteligencia, voz e visual da LIA V10.173 preservados.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.174/LEAL_INFO_PDV_V10_174_UPDATE.zip"
 }
