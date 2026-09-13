@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.165/Setup_LEAL_INFO_PDV_V10_165_LIA_FINAL.exe",
-  "Sha256": "41ebbd9015f0360d62fcf4ef6129e8a472fdbdf2f51fb15ec7186018c8677898",
-  "Version": "10.165",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.166/LEAL_INFO_PDV_V10_166_UPDATE.zip",
+  "Version": "10.166",
+  "Notes": "V10.166: corrige o travamento da LIA em PENSANDO e restaura o destaque colorido e o tamanho dos atalhos superiores. Mantida a correção do atualizador.",
+  "Message": "V10.166: corrige o travamento da LIA em PENSANDO e restaura o destaque colorido e o tamanho dos atalhos superiores. Mantida a correção do atualizador.",
   "Mandatory": false,
-  "Notes": "V10.165: correção do empacotamento. Setup, executável, atualizador e feed agora usam a mesma versão. Atualização interna por ZIP preservada para versões novas.",
-  "Message": "V10.165: correção do empacotamento. Setup, executável, atualizador e feed agora usam a mesma versão. Atualização interna por ZIP preservada para versões novas.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.165/LEAL_INFO_PDV_V10_165_UPDATE.zip"
+  "Sha256": "a9890dabb0a3cb6da227ebacf55c9501f77ca87a48ea3f1755f1dfb0bb9c2186",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.166/Setup_LEAL_INFO_PDV_V10_166_LIA_FINAL.exe"
 }
