@@ -1,9 +1,9 @@
 {
-  "Sha256": "b389b82c0679f36924ffd00c07470e3462e1690c158dd8e69d15e6ae6f8e6a97",
-  "Notes": "V10.168: refina os ícones dos atalhos no padrão visual holográfico da LIA, preservando os cartões, funções e comportamento estável do PDV.",
-  "Version": "10.168",
   "Mandatory": false,
-  "Message": "V10.168: refina os ícones dos atalhos no padrão visual holográfico da LIA, preservando os cartões, funções e comportamento estável do PDV.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.168/Setup_LEAL_INFO_PDV_V10_168_LIA_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.168/LEAL_INFO_PDV_V10_168_UPDATE.zip"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.169/LEAL_INFO_PDV_V10_169_UPDATE.zip",
+  "Message": "V10.169: atalhos superiores ampliados para preencher praticamente todo o card, com acabamento holográfico inspirado na LIA e nomes integrados no próprio botão.",
+  "Version": "10.169",
+  "Notes": "V10.169: atalhos superiores ampliados para preencher praticamente todo o card, com acabamento holográfico inspirado na LIA e nomes integrados no próprio botão.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.169/Setup_LEAL_INFO_PDV_V10_169_LIA_FINAL.exe",
+  "Sha256": "12aec6ba6cc22dc91776a6e575a28753b533d50c75feef6ce1562a5cd4286996"
 }
