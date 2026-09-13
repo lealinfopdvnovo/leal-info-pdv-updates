@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.181/Setup_LEAL_INFO_PDV_V10_181_FINAL.exe",
-  "Message": "V10.181: download da atualizacao agora mostra progresso visivel ate abrir o instalador; abertura oficial e PDV preservados.",
-  "Notes": "V10.181: download da atualizacao agora mostra progresso visivel ate abrir o instalador; abertura oficial e PDV preservados.",
-  "Version": "10.181",
-  "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.181/LEAL_INFO_PDV_V10_181_UPDATE.zip",
-  "Sha256": "0b5cde97a05c81f854c63f759e229e428d97ed7e2d303e7e6025fb39f3f18eed"
+  "Sha256": "b1aef6ad09d2cee7d2e215410fc4d315ca470a5adeacc1acc0727337f828b57a",
+  "Message": "V10.182: corrigido o travamento do download da atualizacao; progresso permanece responsivo ate abrir o instalador.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.182/LEAL_INFO_PDV_V10_182_UPDATE.zip",
+  "Version": "10.182",
+  "Notes": "V10.182: corrigido o travamento do download da atualizacao; progresso permanece responsivo ate abrir o instalador.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.182/Setup_LEAL_INFO_PDV_V10_182_FINAL.exe",
+  "Mandatory": false
 }
