@@ -1,9 +1,9 @@
 {
-  "Version": "10.180",
-  "Notes": "V10.180: atualizador corrigido para verificar novas versoes antes do login e evitar cache antigo do feed; abertura oficial preservada.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.180/LEAL_INFO_PDV_V10_180_UPDATE.zip",
-  "Sha256": "82054e9a4867102b739af1a65514ffe5eb08e737cbbf0b7c31c6a403dfe2cae9",
-  "Message": "V10.180: atualizador corrigido para verificar novas versoes antes do login e evitar cache antigo do feed; abertura oficial preservada.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.181/Setup_LEAL_INFO_PDV_V10_181_FINAL.exe",
+  "Message": "V10.181: download da atualizacao agora mostra progresso visivel ate abrir o instalador; abertura oficial e PDV preservados.",
+  "Notes": "V10.181: download da atualizacao agora mostra progresso visivel ate abrir o instalador; abertura oficial e PDV preservados.",
+  "Version": "10.181",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.180/Setup_LEAL_INFO_PDV_V10_180_FINAL.exe"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.181/LEAL_INFO_PDV_V10_181_UPDATE.zip",
+  "Sha256": "0b5cde97a05c81f854c63f759e229e428d97ed7e2d303e7e6025fb39f3f18eed"
 }
