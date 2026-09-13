@@ -1,9 +1,9 @@
 {
-  "Sha256": "860f0369f97425be24267f794fbdf008fd7a493c6be4884a3becabc2a5282c38",
-  "Message": "V10.167: nova identidade visual dos atalhos superiores, com símbolos futuristas, coloridos e mais legíveis, mantendo formato, funções, LIA e estrutura estável da V10.166.",
-  "Version": "10.167",
+  "Sha256": "b389b82c0679f36924ffd00c07470e3462e1690c158dd8e69d15e6ae6f8e6a97",
+  "Notes": "V10.168: refina os ícones dos atalhos no padrão visual holográfico da LIA, preservando os cartões, funções e comportamento estável do PDV.",
+  "Version": "10.168",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.167/Setup_LEAL_INFO_PDV_V10_167_LIA_FINAL.exe",
-  "Notes": "V10.167: nova identidade visual dos atalhos superiores, com símbolos futuristas, coloridos e mais legíveis, mantendo formato, funções, LIA e estrutura estável da V10.166.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.167/LEAL_INFO_PDV_V10_167_UPDATE.zip"
+  "Message": "V10.168: refina os ícones dos atalhos no padrão visual holográfico da LIA, preservando os cartões, funções e comportamento estável do PDV.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.168/Setup_LEAL_INFO_PDV_V10_168_LIA_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.168/LEAL_INFO_PDV_V10_168_UPDATE.zip"
 }
