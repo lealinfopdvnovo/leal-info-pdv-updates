@@ -1,9 +1,9 @@
 {
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.169/LEAL_INFO_PDV_V10_169_UPDATE.zip",
-  "Message": "V10.169: atalhos superiores ampliados para preencher praticamente todo o card, com acabamento holográfico inspirado na LIA e nomes integrados no próprio botão.",
-  "Version": "10.169",
-  "Notes": "V10.169: atalhos superiores ampliados para preencher praticamente todo o card, com acabamento holográfico inspirado na LIA e nomes integrados no próprio botão.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.169/Setup_LEAL_INFO_PDV_V10_169_LIA_FINAL.exe",
-  "Sha256": "12aec6ba6cc22dc91776a6e575a28753b533d50c75feef6ce1562a5cd4286996"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.170/Setup_LEAL_INFO_PDV_V10_170_LIA_FINAL.exe",
+  "Notes": "V10.170: sem circulos nos atalhos, nomes centralizados e cards retangulares arredondados com acabamento holografico inspirado na LIA.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.170/LEAL_INFO_PDV_V10_170_UPDATE.zip",
+  "Version": "10.170",
+  "Sha256": "9f7b0d40c4be9bade27440e2065e4a4e1d448417d1ed66dc06e8b02be3f75301",
+  "Message": "V10.170: sem circulos nos atalhos, nomes centralizados e cards retangulares arredondados com acabamento holografico inspirado na LIA."
 }
