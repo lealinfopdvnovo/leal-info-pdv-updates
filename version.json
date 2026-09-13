@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.172/LEAL_INFO_PDV_V10_172_UPDATE.zip",
+  "Message": "V10.173: LIA mais contextual e natural, entende comandos mesmo com girias/palavroes, recolhe o proprio botao de verdade, aceita confirmacoes naturais, informa hora local sem IA, usa primeiro nome e recebe nova voz feminina leve e espontanea inspirada no perfil Viola. Visual aprovado da V10.172 preservado.",
   "Mandatory": false,
-  "Message": "V10.172: pulsacao holografica mantida somente nos cards Produtos e Tela de Vendas; demais atalhos permanecem estaticos, preservando o visual aprovado da V10.171.",
-  "Sha256": "f590da42d4c99d7690ba91e006bc8832ac3478e62c53f2bdbbf73dd22846e767",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.172/Setup_LEAL_INFO_PDV_V10_172_LIA_FINAL.exe",
-  "Notes": "V10.172: pulsacao holografica mantida somente nos cards Produtos e Tela de Vendas; demais atalhos permanecem estaticos, preservando o visual aprovado da V10.171.",
-  "Version": "10.172"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.173/LEAL_INFO_PDV_V10_173_UPDATE.zip",
+  "Version": "10.173",
+  "Sha256": "7c2d9a8f231a87693cd70f9863765100f6869cda56b46fe5a9143cd39b655d71",
+  "Notes": "V10.173: LIA mais contextual e natural, entende comandos mesmo com girias/palavroes, recolhe o proprio botao de verdade, aceita confirmacoes naturais, informa hora local sem IA, usa primeiro nome e recebe nova voz feminina leve e espontanea inspirada no perfil Viola. Visual aprovado da V10.172 preservado.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.173/Setup_LEAL_INFO_PDV_V10_173_LIA_FINAL.exe"
 }
