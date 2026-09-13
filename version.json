@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.175/LEAL_INFO_PDV_V10_175_UPDATE.zip",
-  "Notes": "V10.175: recuperacao definitiva do atualizador antigo. A V10.173 baixa primeiro um bootstrap muito pequeno, que entao baixa e executa o instalador completo sem o limite fatal de 15 segundos. O PDV V10.175 mantem a correcao que impede falhas de rede de derrubarem a inicializacao, alem da inteligencia, voz e visual da LIA ja aprovados.",
+  "Sha256": "3920d8c53f68da1cb21620fe733af595988cff68d4b3a6ab7817500281dcd56f",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.176/Setup_LEAL_INFO_PDV_V10_176_LIA_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.176/LEAL_INFO_PDV_V10_176_UPDATE.zip",
+  "Version": "10.176",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.175/LEAL_INFO_PDV_V10_175_BOOTSTRAP.exe",
-  "Version": "10.175",
-  "Message": "V10.175: recuperacao definitiva do atualizador antigo. A V10.173 baixa primeiro um bootstrap muito pequeno, que entao baixa e executa o instalador completo sem o limite fatal de 15 segundos. O PDV V10.175 mantem a correcao que impede falhas de rede de derrubarem a inicializacao, alem da inteligencia, voz e visual da LIA ja aprovados.",
-  "Sha256": "bb6488756216f4ac705ff90f184a99058a8ce061bf092aaff50a6baa1d0a3a9f"
+  "Message": "V10.176: conversa natural preservada; abrir e fechar PDV agora usam rota local deterministica, com fechar tendo precedencia. Confirmacao curta, sem titulo nem versao da janela.",
+  "Notes": "V10.176: conversa natural preservada; abrir e fechar PDV agora usam rota local deterministica, com fechar tendo precedencia. Confirmacao curta, sem titulo nem versao da janela."
 }
