@@ -1,6 +1,10 @@
 {
-  "Notes": "V10.164: correção do atualizador. A verificação agora consulta primeiro o feed remoto e usa manifesto local apenas como contingência, evitando ficar presa em versão antiga. Mantidas as melhorias da LIA V10.163.",
   "Version": "10.164",
   "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.164/LEAL_INFO_PDV_V10_164_UPDATE.zip",
-  "Sha256": "7040ff6c1c51cd97d31419e6d512d7bf94a2157984d9e396d356afaeb20bfd39"
+  "Sha256": "7040ff6c1c51cd97d31419e6d512d7bf94a2157984d9e396d356afaeb20bfd39",
+  "Notes": "V10.164: correção do atualizador. A verificação agora consulta primeiro o feed remoto e usa manifesto local apenas como contingência, evitando ficar presa em versão antiga. Mantidas as melhorias da LIA V10.163.",
+  "version": "10.164",
+  "downloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.164/Setup_LEAL_INFO_PDV_V10_157_LIA_FINAL.exe",
+  "mandatory": false,
+  "message": "V10.164 disponível. Atualização de compatibilidade do atualizador e melhorias da LIA."
 }
