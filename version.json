@@ -1,9 +1,9 @@
 {
-  "Notes": "V10.171: cards holograficos mais vivos com pulsacao suave, arco residual removido, monitor antigo removido, Verde Texturizado restaurado e PDV Rosa com letras pretas.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.171/Setup_LEAL_INFO_PDV_V10_171_LIA_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.171/LEAL_INFO_PDV_V10_171_UPDATE.zip",
-  "Version": "10.171",
-  "Message": "V10.171: cards holograficos mais vivos com pulsacao suave, arco residual removido, monitor antigo removido, Verde Texturizado restaurado e PDV Rosa com letras pretas.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.172/Setup_LEAL_INFO_PDV_V10_172_LIA_FINAL.exe",
+  "Notes": "V10.172: pulsacao holografica mantida somente nos cards Produtos e Tela de Vendas; demais atalhos permanecem estaticos, preservando o visual aprovado da V10.171.",
+  "Version": "10.172",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.172/LEAL_INFO_PDV_V10_172_UPDATE.zip",
+  "Sha256": "594b826218035f26a9b20435f8f9677012cb5f8205e579d118afb17944f18063",
   "Mandatory": false,
-  "Sha256": "eaa897c42cfc42d2b0bcb90afc6e72ac4b7e1cde7ccec5d23fae453196d090bd"
+  "Message": "V10.172: pulsacao holografica mantida somente nos cards Produtos e Tela de Vendas; demais atalhos permanecem estaticos, preservando o visual aprovado da V10.171."
 }
