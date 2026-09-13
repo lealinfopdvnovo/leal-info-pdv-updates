@@ -1,9 +1,9 @@
 {
-  "Version": "10.177",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/LEAL_INFO_PDV_V10_177_UPDATE.zip",
+  "Notes": "V10.177: base do PDV consolidada e limpa, com cadastro, vendas, produtos, clientes, financeiro, relatorios, temas, atualizador, login e demais funcoes preservadas.",
   "Message": "V10.177: base do PDV consolidada e limpa, com cadastro, vendas, produtos, clientes, financeiro, relatorios, temas, atualizador, login e demais funcoes preservadas.",
+  "Version": "10.177",
   "Mandatory": false,
   "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/Setup_LEAL_INFO_PDV_V10_177_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/LEAL_INFO_PDV_V10_177_UPDATE.zip",
-  "Sha256": "bbb379ef5f738a18ad34b2e355b2b25bcd1173be7e1df68e4c42ec928912067f",
-  "Notes": "V10.177: base do PDV consolidada e limpa, com cadastro, vendas, produtos, clientes, financeiro, relatorios, temas, atualizador, login e demais funcoes preservadas."
+  "Sha256": "3b3fe2bf73393c731fa6998d0ff8e0ec3ee52e42ebfc3a3d271f44a2b84dc0c6"
 }
