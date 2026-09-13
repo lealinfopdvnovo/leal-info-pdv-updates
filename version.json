@@ -1,9 +1,9 @@
 {
+  "Notes": "V10.171: cards holograficos mais vivos com pulsacao suave, arco residual removido, monitor antigo removido, Verde Texturizado restaurado e PDV Rosa com letras pretas.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.171/Setup_LEAL_INFO_PDV_V10_171_LIA_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.171/LEAL_INFO_PDV_V10_171_UPDATE.zip",
+  "Version": "10.171",
+  "Message": "V10.171: cards holograficos mais vivos com pulsacao suave, arco residual removido, monitor antigo removido, Verde Texturizado restaurado e PDV Rosa com letras pretas.",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.170/Setup_LEAL_INFO_PDV_V10_170_LIA_FINAL.exe",
-  "Notes": "V10.170: sem circulos nos atalhos, nomes centralizados e cards retangulares arredondados com acabamento holografico inspirado na LIA.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.170/LEAL_INFO_PDV_V10_170_UPDATE.zip",
-  "Version": "10.170",
-  "Sha256": "9f7b0d40c4be9bade27440e2065e4a4e1d448417d1ed66dc06e8b02be3f75301",
-  "Message": "V10.170: sem circulos nos atalhos, nomes centralizados e cards retangulares arredondados com acabamento holografico inspirado na LIA."
+  "Sha256": "eaa897c42cfc42d2b0bcb90afc6e72ac4b7e1cde7ccec5d23fae453196d090bd"
 }
