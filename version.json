@@ -1,9 +1,9 @@
 {
-  "Version": "10.174",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.174/Setup_LEAL_INFO_PDV_V10_174_LIA_FINAL.exe",
-  "Notes": "V10.174: hotfix do atualizador. Remove a falha fatal de inicializacao causada pelo timeout de 15 segundos, amplia o tempo de download e garante que falha de rede nunca derrube o PDV. Inteligencia, voz e visual da LIA V10.173 preservados.",
-  "Sha256": "6337974eb3eb2a52af8480c137c00c16e87a4e1d3a35478437cc1f9992e86b53",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.175/LEAL_INFO_PDV_V10_175_UPDATE.zip",
+  "Notes": "V10.175: recuperacao definitiva do atualizador antigo. A V10.173 baixa primeiro um bootstrap muito pequeno, que entao baixa e executa o instalador completo sem o limite fatal de 15 segundos. O PDV V10.175 mantem a correcao que impede falhas de rede de derrubarem a inicializacao, alem da inteligencia, voz e visual da LIA ja aprovados.",
   "Mandatory": false,
-  "Message": "V10.174: hotfix do atualizador. Remove a falha fatal de inicializacao causada pelo timeout de 15 segundos, amplia o tempo de download e garante que falha de rede nunca derrube o PDV. Inteligencia, voz e visual da LIA V10.173 preservados.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.174/LEAL_INFO_PDV_V10_174_UPDATE.zip"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.175/LEAL_INFO_PDV_V10_175_BOOTSTRAP.exe",
+  "Version": "10.175",
+  "Message": "V10.175: recuperacao definitiva do atualizador antigo. A V10.173 baixa primeiro um bootstrap muito pequeno, que entao baixa e executa o instalador completo sem o limite fatal de 15 segundos. O PDV V10.175 mantem a correcao que impede falhas de rede de derrubarem a inicializacao, alem da inteligencia, voz e visual da LIA ja aprovados.",
+  "Sha256": "bb6488756216f4ac705ff90f184a99058a8ce061bf092aaff50a6baa1d0a3a9f"
 }
