@@ -1,9 +1,9 @@
 {
+  "Version": "10.180",
+  "Notes": "V10.180: atualizador corrigido para verificar novas versoes antes do login e evitar cache antigo do feed; abertura oficial preservada.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.180/LEAL_INFO_PDV_V10_180_UPDATE.zip",
+  "Sha256": "82054e9a4867102b739af1a65514ffe5eb08e737cbbf0b7c31c6a403dfe2cae9",
+  "Message": "V10.180: atualizador corrigido para verificar novas versoes antes do login e evitar cache antigo do feed; abertura oficial preservada.",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.179/LEAL_INFO_PDV_V10_179_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.179/Setup_LEAL_INFO_PDV_V10_179_FINAL.exe",
-  "Notes": "V10.179: abertura correta do PDV restaurada com o video oficial, mantendo a antiga assistente removida e as demais funcoes preservadas.",
-  "Message": "V10.179: abertura correta do PDV restaurada com o video oficial, mantendo a antiga assistente removida e as demais funcoes preservadas.",
-  "Version": "10.179",
-  "Sha256": "86a908bb75016631d8d9a08ff6f0a9b955fbde29fb5f737d4bee0cdc180605dd"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.180/Setup_LEAL_INFO_PDV_V10_180_FINAL.exe"
 }
