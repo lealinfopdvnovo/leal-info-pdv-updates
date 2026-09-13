@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.166/LEAL_INFO_PDV_V10_166_UPDATE.zip",
-  "Version": "10.166",
-  "Notes": "V10.166: corrige o travamento da LIA em PENSANDO e restaura o destaque colorido e o tamanho dos atalhos superiores. Mantida a correção do atualizador.",
-  "Message": "V10.166: corrige o travamento da LIA em PENSANDO e restaura o destaque colorido e o tamanho dos atalhos superiores. Mantida a correção do atualizador.",
+  "Sha256": "102915fe251bfa2c9d409ce85fc514cc29fb0bc6aa36887f2e7841ee28c842e4",
+  "Version": "10.167",
+  "Notes": "V10.167: nova identidade visual dos atalhos superiores, com símbolos futuristas, coloridos e mais legíveis, mantendo formato, funções, LIA e estrutura estável da V10.166.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.167/Setup_LEAL_INFO_PDV_V10_167_LIA_FINAL.exe",
   "Mandatory": false,
-  "Sha256": "a9890dabb0a3cb6da227ebacf55c9501f77ca87a48ea3f1755f1dfb0bb9c2186",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.166/Setup_LEAL_INFO_PDV_V10_166_LIA_FINAL.exe"
+  "Message": "V10.167: nova identidade visual dos atalhos superiores, com símbolos futuristas, coloridos e mais legíveis, mantendo formato, funções, LIA e estrutura estável da V10.166.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.167/LEAL_INFO_PDV_V10_167_UPDATE.zip"
 }
