@@ -1,9 +1,9 @@
 {
-  "Mandatory": false,
-  "Notes": "V10.177: LIA removida integralmente do produto. Foram retirados voz, orbe, botao, menu, comandos, abertura, midias e codigo dedicado. O PDV permanece com cadastro, vendas, produtos, clientes, financeiro, relatorios, temas e demais funcoes preservadas.",
-  "Sha256": "2c1c39a607494e710365e0ab078a8be692fc9ffb55c978839bde68c49d5424d3",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/LEAL_INFO_PDV_V10_177_UPDATE.zip",
   "Version": "10.177",
-  "Message": "V10.177: LIA removida integralmente do produto. Foram retirados voz, orbe, botao, menu, comandos, abertura, midias e codigo dedicado. O PDV permanece com cadastro, vendas, produtos, clientes, financeiro, relatorios, temas e demais funcoes preservadas.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/Setup_LEAL_INFO_PDV_V10_177_FINAL.exe"
+  "Message": "V10.177: base do PDV consolidada e limpa, com cadastro, vendas, produtos, clientes, financeiro, relatorios, temas, atualizador, login e demais funcoes preservadas.",
+  "Mandatory": false,
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/Setup_LEAL_INFO_PDV_V10_177_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.177/LEAL_INFO_PDV_V10_177_UPDATE.zip",
+  "Sha256": "bbb379ef5f738a18ad34b2e355b2b25bcd1173be7e1df68e4c42ec928912067f",
+  "Notes": "V10.177: base do PDV consolidada e limpa, com cadastro, vendas, produtos, clientes, financeiro, relatorios, temas, atualizador, login e demais funcoes preservadas."
 }
