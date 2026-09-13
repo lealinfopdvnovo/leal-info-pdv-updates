@@ -1,10 +1,9 @@
 {
-  "Version": "10.164",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.164/LEAL_INFO_PDV_V10_164_UPDATE.zip",
-  "Sha256": "7040ff6c1c51cd97d31419e6d512d7bf94a2157984d9e396d356afaeb20bfd39",
-  "Notes": "V10.164: correção do atualizador. A verificação agora consulta primeiro o feed remoto e usa manifesto local apenas como contingência, evitando ficar presa em versão antiga. Mantidas as melhorias da LIA V10.163.",
-  "version": "10.164",
-  "downloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.164/Setup_LEAL_INFO_PDV_V10_157_LIA_FINAL.exe",
-  "mandatory": false,
-  "message": "V10.164 disponível. Atualização de compatibilidade do atualizador e melhorias da LIA."
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.165/Setup_LEAL_INFO_PDV_V10_165_LIA_FINAL.exe",
+  "Message": "V10.165: correção do empacotamento. Setup, executável, atualizador e feed agora usam a mesma versão. Atualização interna por ZIP preservada para versões novas.",
+  "Sha256": "26b5ce833526dea29af8db36a395de386e4046b57e31b8593d72a6969e3363e0",
+  "Notes": "V10.165: correção do empacotamento. Setup, executável, atualizador e feed agora usam a mesma versão. Atualização interna por ZIP preservada para versões novas.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.165/LEAL_INFO_PDV_V10_165_UPDATE.zip",
+  "Version": "10.165",
+  "Mandatory": false
 }
