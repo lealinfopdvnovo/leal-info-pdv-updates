@@ -1,6 +1,6 @@
 {
-  "Sha256": "f122c5d6a6224fce083bf99c0fdb61cc47e4c2adb6e234dd7bfa8aa222c89b22",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.163/LEAL_INFO_PDV_V10_163_UPDATE.zip",
-  "Version": "10.163",
-  "Notes": "V10.163: LIA mais natural e interpretativa, com melhor compreensão de comandos como abrir PDV, fechar/recolher a LIA e variações de linguagem. Melhorias de fluidez e contexto preservando a abertura oficial."
+  "Notes": "V10.164: correção do atualizador. A verificação agora consulta primeiro o feed remoto e usa manifesto local apenas como contingência, evitando ficar presa em versão antiga. Mantidas as melhorias da LIA V10.163.",
+  "Version": "10.164",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.164/LEAL_INFO_PDV_V10_164_UPDATE.zip",
+  "Sha256": "7040ff6c1c51cd97d31419e6d512d7bf94a2157984d9e396d356afaeb20bfd39"
 }
