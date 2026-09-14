@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.192/LEAL_INFO_PDV_V10_192_UPDATE.zip",
-  "Version": "10.192",
-  "Message": "V10.192: coracao LIC AI corrigido, organico, sem moldura, com LIC AI dentro, batimento duplo e centralizado embaixo.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.192/Setup_LEAL_INFO_PDV_V10_192_FINAL.exe",
-  "Sha256": "246a93c977a7f0afa4355bc30bf1ce783949ef505af778a33d38080e58998bb8",
   "Mandatory": false,
-  "Notes": "V10.192: coracao LIC AI corrigido, organico, sem moldura, com LIC AI dentro, batimento duplo e centralizado embaixo."
+  "Version": "10.194",
+  "Notes": "V10.194: coracao LIC AI inspirado na referencia, cheio e organico, sem moldura, com LIC AI dentro e batimento cardiaco natural, centralizado embaixo.",
+  "Sha256": "6e8e4b34951d7daa0b7e95555587d22bb22f3df60565b60a2123ad7b65d02e9a",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.194/Setup_LEAL_INFO_PDV_V10_194_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.194/LEAL_INFO_PDV_V10_194_UPDATE.zip",
+  "Message": "V10.194: coracao LIC AI inspirado na referencia, cheio e organico, sem moldura, com LIC AI dentro e batimento cardiaco natural, centralizado embaixo."
 }
