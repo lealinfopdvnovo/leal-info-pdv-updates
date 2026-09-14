@@ -1,9 +1,9 @@
 {
-  "Sha256": "032cf3cfe62e0ca427cf8fce147bdd0df957ab82797c24cab8f8bd852c97a398",
-  "Notes": "V10.184: abertura corrigida para mostrar somente o primeiro trecho; removidas as duas repeticoes internas antes do login.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.184/LEAL_INFO_PDV_V10_184_UPDATE.zip",
-  "Message": "V10.184: abertura corrigida para mostrar somente o primeiro trecho; removidas as duas repeticoes internas antes do login.",
+  "Sha256": "920adb8a2c85498873a10ced72948a283b375909f2d05b56c000893b9cb859e2",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.185/Setup_LEAL_INFO_PDV_V10_185_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.185/LEAL_INFO_PDV_V10_185_UPDATE.zip",
+  "Notes": "V10.185: LIC AI incluida pela atualizacao do PDV como aplicativo separado, com conversa livre e memoria persistente.",
   "Mandatory": false,
-  "Version": "10.184",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.184/Setup_LEAL_INFO_PDV_V10_184_FINAL.exe"
+  "Message": "V10.185: LIC AI incluida pela atualizacao do PDV como aplicativo separado, com conversa livre e memoria persistente.",
+  "Version": "10.185"
 }
