@@ -1,9 +1,9 @@
 {
-  "Sha256": "b996057cfc444a717566c5f7932a9bad4e0c4eeec4aa5110dd0310796bc30fbc",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv/releases/download/v10.186/Setup_LEAL_INFO_PDV_V10_186_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv/releases/download/v10.186/LEAL_INFO_PDV_V10_186_UPDATE.zip",
-  "Notes": "V10.186: botao LIC AI reposicionado na tela principal em vermelho flamejante pulsante; LIC AI continua separada do PDV.",
-  "Mandatory": false,
-  "Message": "V10.186: botao LIC AI reposicionado na tela principal em vermelho flamejante pulsante; LIC AI continua separada do PDV.",
-  "Version": "10.186"
+  "Sha256": "adea2e238943effa5fd741e10bf50ea924871bff25f1c11e565449d1c4a72106",
+  "Notes": "V10.187: botao LIC AI corrigido com coracoes, vermelho pulsante e reposicionado no canto superior direito.",
+  "Message": "V10.187: botao LIC AI corrigido com coracoes, vermelho pulsante e reposicionado no canto superior direito.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.187/Setup_LEAL_INFO_PDV_V10_187_FINAL.exe",
+  "Version": "10.187",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.187/LEAL_INFO_PDV_V10_187_UPDATE.zip",
+  "Mandatory": false
 }
