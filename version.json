@@ -1,9 +1,9 @@
 {
-  "Notes": "V10.189: LIC AI agora aparece como um unico icone de coracao vermelho com efeito pulsante na barra superior.",
-  "Sha256": "5774c1c06604a730824c726917b30b11c69599ed58007bf9a1f06e6dc3f6ae21",
-  "Message": "V10.189: LIC AI agora aparece como um unico icone de coracao vermelho com efeito pulsante na barra superior.",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.189/Setup_LEAL_INFO_PDV_V10_189_FINAL.exe",
-  "Version": "10.189",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.189/LEAL_INFO_PDV_V10_189_UPDATE.zip"
+  "Version": "10.190",
+  "Sha256": "6cb93307c882e306f65d7e73a9258a92fc392a8ce74ff09e109d52ddb1db70e4",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.190/LEAL_INFO_PDV_V10_190_UPDATE.zip",
+  "Message": "V10.190: removido acesso LIC AI da barra superior; agora somente um coracao vermelho pulsante, sem quadrado ou moldura, no canto inferior esquerdo.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.190/Setup_LEAL_INFO_PDV_V10_190_FINAL.exe",
+  "Notes": "V10.190: removido acesso LIC AI da barra superior; agora somente um coracao vermelho pulsante, sem quadrado ou moldura, no canto inferior esquerdo."
 }
