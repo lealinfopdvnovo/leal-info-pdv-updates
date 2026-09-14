@@ -1,9 +1,9 @@
 {
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.195/Setup_LEAL_INFO_PDV_V10_195_FINAL.exe",
   "Mandatory": false,
-  "Version": "10.194",
-  "Notes": "V10.194: coracao LIC AI inspirado na referencia, cheio e organico, sem moldura, com LIC AI dentro e batimento cardiaco natural, centralizado embaixo.",
-  "Sha256": "6e8e4b34951d7daa0b7e95555587d22bb22f3df60565b60a2123ad7b65d02e9a",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.194/Setup_LEAL_INFO_PDV_V10_194_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.194/LEAL_INFO_PDV_V10_194_UPDATE.zip",
-  "Message": "V10.194: coracao LIC AI inspirado na referencia, cheio e organico, sem moldura, com LIC AI dentro e batimento cardiaco natural, centralizado embaixo."
+  "Notes": "V10.195: botao LIC AI refeito do zero usando a logica do antigo orbe pulsante aprovado, agora em formato de coracao, sem quadrado e com LIC AI no centro.",
+  "Version": "10.195",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.195/LEAL_INFO_PDV_V10_195_UPDATE.zip",
+  "Message": "V10.195: botao LIC AI refeito do zero usando a logica do antigo orbe pulsante aprovado, agora em formato de coracao, sem quadrado e com LIC AI no centro.",
+  "Sha256": "ac7f7e24ef4c933db123d1959f19bb499219d64930edc44dce26561dcd58c049"
 }
