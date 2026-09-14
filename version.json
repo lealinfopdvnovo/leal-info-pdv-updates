@@ -1,9 +1,9 @@
 {
-  "Sha256": "b1aef6ad09d2cee7d2e215410fc4d315ca470a5adeacc1acc0727337f828b57a",
-  "Message": "V10.182: corrigido o travamento do download da atualizacao; progresso permanece responsivo ate abrir o instalador.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.182/LEAL_INFO_PDV_V10_182_UPDATE.zip",
-  "Version": "10.182",
-  "Notes": "V10.182: corrigido o travamento do download da atualizacao; progresso permanece responsivo ate abrir o instalador.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.182/Setup_LEAL_INFO_PDV_V10_182_FINAL.exe",
-  "Mandatory": false
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.183/Setup_LEAL_INFO_PDV_V10_183_FINAL.exe",
+  "Notes": "V10.183: abertura oficial executada uma unica vez antes do login; repeticao bloqueada.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.183/LEAL_INFO_PDV_V10_183_UPDATE.zip",
+  "Mandatory": false,
+  "Version": "10.183",
+  "Sha256": "4f2406700f6bde8bee971cc4c647b15bff0aa61a89b0549cb5772fb8b3359789",
+  "Message": "V10.183: abertura oficial executada uma unica vez antes do login; repeticao bloqueada."
 }
