@@ -1,9 +1,9 @@
 {
-  "Notes": "V10.197: abandona o coracao e aplica botao circular futurista azul LIC AI, com brilho neon e pulsacao suave, sem alterar o restante do PDV.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.197/LEAL_INFO_PDV_V10_197_UPDATE.zip",
-  "Version": "10.197",
-  "Message": "V10.197: abandona o coracao e aplica botao circular futurista azul LIC AI, com brilho neon e pulsacao suave, sem alterar o restante do PDV.",
-  "Sha256": "e4edf78db8da2b9f40421fb70b8dc8e4d7af03fe8f40b25397a6aedc46e23e23",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.197/Setup_LEAL_INFO_PDV_V10_197_FINAL.exe",
-  "Mandatory": false
+  "Mandatory": false,
+  "Version": "10.198",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.198/Setup_LEAL_INFO_PDV_V10_198_FINAL.exe",
+  "Message": "V10.198: corrige acesso negado do WebView2 no Tutorial de Primeiro Acesso usando pasta de dados gravavel do usuario.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.198/LEAL_INFO_PDV_V10_198_UPDATE.zip",
+  "Notes": "V10.198: corrige acesso negado do WebView2 no Tutorial de Primeiro Acesso usando pasta de dados gravavel do usuario.",
+  "Sha256": "17b372bfe88e8a53b4a1c451153ebc3915d061cfb33b0e4c5df3551d248dd052"
 }
