@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.183/Setup_LEAL_INFO_PDV_V10_183_FINAL.exe",
-  "Notes": "V10.183: abertura oficial executada uma unica vez antes do login; repeticao bloqueada.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.183/LEAL_INFO_PDV_V10_183_UPDATE.zip",
+  "Sha256": "032cf3cfe62e0ca427cf8fce147bdd0df957ab82797c24cab8f8bd852c97a398",
+  "Notes": "V10.184: abertura corrigida para mostrar somente o primeiro trecho; removidas as duas repeticoes internas antes do login.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.184/LEAL_INFO_PDV_V10_184_UPDATE.zip",
+  "Message": "V10.184: abertura corrigida para mostrar somente o primeiro trecho; removidas as duas repeticoes internas antes do login.",
   "Mandatory": false,
-  "Version": "10.183",
-  "Sha256": "4f2406700f6bde8bee971cc4c647b15bff0aa61a89b0549cb5772fb8b3359789",
-  "Message": "V10.183: abertura oficial executada uma unica vez antes do login; repeticao bloqueada."
+  "Version": "10.184",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.184/Setup_LEAL_INFO_PDV_V10_184_FINAL.exe"
 }
