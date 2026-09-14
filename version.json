@@ -1,9 +1,9 @@
 {
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.192/LEAL_INFO_PDV_V10_192_UPDATE.zip",
+  "Version": "10.192",
+  "Message": "V10.192: coracao LIC AI corrigido, organico, sem moldura, com LIC AI dentro, batimento duplo e centralizado embaixo.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.192/Setup_LEAL_INFO_PDV_V10_192_FINAL.exe",
+  "Sha256": "246a93c977a7f0afa4355bc30bf1ce783949ef505af778a33d38080e58998bb8",
   "Mandatory": false,
-  "Version": "10.190",
-  "Sha256": "6cb93307c882e306f65d7e73a9258a92fc392a8ce74ff09e109d52ddb1db70e4",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.190/LEAL_INFO_PDV_V10_190_UPDATE.zip",
-  "Message": "V10.190: removido acesso LIC AI da barra superior; agora somente um coracao vermelho pulsante, sem quadrado ou moldura, no canto inferior esquerdo.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.190/Setup_LEAL_INFO_PDV_V10_190_FINAL.exe",
-  "Notes": "V10.190: removido acesso LIC AI da barra superior; agora somente um coracao vermelho pulsante, sem quadrado ou moldura, no canto inferior esquerdo."
+  "Notes": "V10.192: coracao LIC AI corrigido, organico, sem moldura, com LIC AI dentro, batimento duplo e centralizado embaixo."
 }
