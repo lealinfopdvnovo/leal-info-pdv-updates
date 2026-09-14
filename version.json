@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.195/Setup_LEAL_INFO_PDV_V10_195_FINAL.exe",
+  "Sha256": "55c8fc484ff0990084889acf70c6d4322a91c2c5b30b00f0b2a45fe43c8a028c",
+  "Notes": "V10.196: corrige o erro de fundo transparente no botao-coracao LIC AI, mantendo o visual pulsante inspirado no antigo orbe.",
   "Mandatory": false,
-  "Notes": "V10.195: botao LIC AI refeito do zero usando a logica do antigo orbe pulsante aprovado, agora em formato de coracao, sem quadrado e com LIC AI no centro.",
-  "Version": "10.195",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.195/LEAL_INFO_PDV_V10_195_UPDATE.zip",
-  "Message": "V10.195: botao LIC AI refeito do zero usando a logica do antigo orbe pulsante aprovado, agora em formato de coracao, sem quadrado e com LIC AI no centro.",
-  "Sha256": "ac7f7e24ef4c933db123d1959f19bb499219d64930edc44dce26561dcd58c049"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.196/LEAL_INFO_PDV_V10_196_UPDATE.zip",
+  "Message": "V10.196: corrige o erro de fundo transparente no botao-coracao LIC AI, mantendo o visual pulsante inspirado no antigo orbe.",
+  "Version": "10.196",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.196/Setup_LEAL_INFO_PDV_V10_196_FINAL.exe"
 }
