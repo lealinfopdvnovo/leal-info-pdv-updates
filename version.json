@@ -1,9 +1,9 @@
 {
+  "Notes": "V10.199: aplica novo botao LIC AI futurista com fundo transparente, aneis neon e animacao suave; mantem a correcao do tutorial da V10.198.",
+  "Sha256": "89c9266dc409c7173c983bd656f77eb25910871cc04c89e2d9516581b948518e",
+  "Message": "V10.199: aplica novo botao LIC AI futurista com fundo transparente, aneis neon e animacao suave; mantem a correcao do tutorial da V10.198.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.199/LEAL_INFO_PDV_V10_199_UPDATE.zip",
   "Mandatory": false,
-  "Version": "10.198",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.198/Setup_LEAL_INFO_PDV_V10_198_FINAL.exe",
-  "Message": "V10.198: corrige acesso negado do WebView2 no Tutorial de Primeiro Acesso usando pasta de dados gravavel do usuario.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.198/LEAL_INFO_PDV_V10_198_UPDATE.zip",
-  "Notes": "V10.198: corrige acesso negado do WebView2 no Tutorial de Primeiro Acesso usando pasta de dados gravavel do usuario.",
-  "Sha256": "17b372bfe88e8a53b4a1c451153ebc3915d061cfb33b0e4c5df3551d248dd052"
+  "Version": "10.199",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.199/Setup_LEAL_INFO_PDV_V10_199_FINAL.exe"
 }
