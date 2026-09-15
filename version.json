@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.220/Setup_LEAL_INFO_PDV_V10_220_FINAL.exe",
+  "Sha256": "84897555c052622ea8228d5097ac7807384a69c225a8a9282134e8cf564dc5ed",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.221/Setup_LEAL_INFO_PDV_V10_221_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.221/LEAL_INFO_PDV_V10_221_UPDATE.zip",
   "Mandatory": false,
-  "Sha256": "3df231a695bfb46d9d36d897f75a09b83e8a3265d18decf86c7b2e5699a8e40a",
-  "Message": "V10.220: instancia invisivel travada eliminada e ciclo da LIA protegido por timeout.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.220/LEAL_INFO_PDV_V10_220_UPDATE.zip",
-  "Version": "10.220",
-  "Notes": "V10.220: instancia invisivel travada eliminada e ciclo da LIA protegido por timeout."
+  "Message": "V10.221: resposta da LIA acelerada, timeout reduzido e cumprimentos instantaneos.",
+  "Notes": "V10.221: resposta da LIA acelerada, timeout reduzido e cumprimentos instantaneos.",
+  "Version": "10.221"
 }
