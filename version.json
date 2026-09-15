@@ -1,9 +1,9 @@
 {
-  "Version": "10.205",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.205/LEAL_INFO_PDV_V10_205_UPDATE.zip",
-  "Notes": "V10.205: desce o botao LIC AI e o centraliza no espaco entre o nome e a borda inferior.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.205/Setup_LEAL_INFO_PDV_V10_205_FINAL.exe",
+  "Message": "V10.206: adiciona conversa livre por voz na LIC AI, com microfone, resposta falada em portugues e funcionamento sem cobranca por minuto.",
   "Mandatory": false,
-  "Sha256": "a6e487802f854a2956d0624bd4fdd45520b3cd6bf5723ade33d8800ba7b892ca",
-  "Message": "V10.205: desce o botao LIC AI e o centraliza no espaco entre o nome e a borda inferior."
+  "Version": "10.206",
+  "Sha256": "32b0bcdbb0ad3b3767d504214c18ff3bdecb9a392b083f85b0c0b9c150ca9822",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.206/LEAL_INFO_PDV_V10_206_UPDATE.zip",
+  "Notes": "V10.206: adiciona conversa livre por voz na LIC AI, com microfone, resposta falada em portugues e funcionamento sem cobranca por minuto.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.206/Setup_LEAL_INFO_PDV_V10_206_FINAL.exe"
 }
