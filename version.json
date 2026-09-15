@@ -1,9 +1,9 @@
 {
-  "Sha256": "84897555c052622ea8228d5097ac7807384a69c225a8a9282134e8cf564dc5ed",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.221/Setup_LEAL_INFO_PDV_V10_221_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.221/LEAL_INFO_PDV_V10_221_UPDATE.zip",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.222/LEAL_INFO_PDV_V10_222_UPDATE.zip",
+  "Sha256": "f2ecead4b4d82994480a95db0abdb2eaecab10dad68920a884d6326eedcb01a5",
+  "Notes": "V10.222: conversa continua, retorno automatico ao microfone e voz mais rapida.",
+  "Message": "V10.222: conversa continua, retorno automatico ao microfone e voz mais rapida.",
   "Mandatory": false,
-  "Message": "V10.221: resposta da LIA acelerada, timeout reduzido e cumprimentos instantaneos.",
-  "Notes": "V10.221: resposta da LIA acelerada, timeout reduzido e cumprimentos instantaneos.",
-  "Version": "10.221"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.222/Setup_LEAL_INFO_PDV_V10_222_FINAL.exe",
+  "Version": "10.222"
 }
