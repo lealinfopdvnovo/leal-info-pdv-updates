@@ -1,9 +1,9 @@
 {
-  "Message": "V10.217: voz da LIA corrigida com TTS da OpenAI e reprodução direta no alto-falante.",
-  "Notes": "V10.217: voz da LIA corrigida com TTS da OpenAI e reprodução direta no alto-falante.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.217/Setup_LEAL_INFO_PDV_V10_217_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.218/LEAL_INFO_PDV_V10_218_UPDATE.zip",
+  "Notes": "V10.218: reprodução da voz da LIA corrigida com áudio PCM 24 kHz sem cabeçalho WAV.",
+  "Version": "10.218",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.217/LEAL_INFO_PDV_V10_217_UPDATE.zip",
-  "Sha256": "a32e69c9c6a6096694b8602fc98a951fcf6eac3940486b9e20255a93ca9bce7c",
-  "Version": "10.217"
+  "Message": "V10.218: reprodução da voz da LIA corrigida com áudio PCM 24 kHz sem cabeçalho WAV.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.218/Setup_LEAL_INFO_PDV_V10_218_FINAL.exe",
+  "Sha256": "ababea42c8e7bc5baec8f0983884b25c9073fb3f2c26fa5ec2d5dd7b490c44d6"
 }
