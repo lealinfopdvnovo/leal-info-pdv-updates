@@ -1,9 +1,9 @@
 {
-  "Message": "V10.206: adiciona conversa livre por voz na LIC AI, com microfone, resposta falada em portugues e funcionamento sem cobranca por minuto.",
   "Mandatory": false,
-  "Version": "10.206",
-  "Sha256": "32b0bcdbb0ad3b3767d504214c18ff3bdecb9a392b083f85b0c0b9c150ca9822",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.206/LEAL_INFO_PDV_V10_206_UPDATE.zip",
-  "Notes": "V10.206: adiciona conversa livre por voz na LIC AI, com microfone, resposta falada em portugues e funcionamento sem cobranca por minuto.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.206/Setup_LEAL_INFO_PDV_V10_206_FINAL.exe"
+  "Sha256": "03e4f800f162f259e055f3c878af4353a2158ef676955d126c681f1efbef6433",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.207/Setup_LEAL_INFO_PDV_V10_207_FINAL.exe",
+  "Message": "V10.207: corrige chave com quebra de linha e adiciona reconhecimento de voz gratuito independente do pacote de idioma do Windows.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.207/LEAL_INFO_PDV_V10_207_UPDATE.zip",
+  "Version": "10.207",
+  "Notes": "V10.207: corrige chave com quebra de linha e adiciona reconhecimento de voz gratuito independente do pacote de idioma do Windows."
 }
