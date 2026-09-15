@@ -1,9 +1,9 @@
 {
-  "Version": "10.209",
-  "Message": "V10.209: adiciona o assistente de navegacao e explicacao de telas com gpt-4o-mini, resposta JSON segura e abertura automatica das telas do PDV.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.209/LEAL_INFO_PDV_V10_209_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.209/Setup_LEAL_INFO_PDV_V10_209_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.210/LEAL_INFO_PDV_V10_210_UPDATE.zip",
   "Mandatory": false,
-  "Sha256": "c3b99cec17baac36f6b8dcb5b7ef5ef2b6b5362d12e4e84972832058325d9717",
-  "Notes": "V10.209: adiciona o assistente de navegacao e explicacao de telas com gpt-4o-mini, resposta JSON segura e abertura automatica das telas do PDV."
+  "Message": "V10.210: LIC ASSISTENTE AI com conversa continua, deteccao de silencio, Whisper, voz, esfera azul ao ouvir e vermelho pulsante ao responder, navegacao automatica e diagnostico de microfone.",
+  "Version": "10.210",
+  "Sha256": "36721481a869e563025a6eae885edffb2f860a7ac82e9cacec3f06c6a59604ec",
+  "Notes": "V10.210: LIC ASSISTENTE AI com conversa continua, deteccao de silencio, Whisper, voz, esfera azul ao ouvir e vermelho pulsante ao responder, navegacao automatica e diagnostico de microfone.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.210/Setup_LEAL_INFO_PDV_V10_210_FINAL.exe"
 }
