@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.208/Setup_LEAL_INFO_PDV_V10_208_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.208/LEAL_INFO_PDV_V10_208_UPDATE.zip",
-  "Sha256": "72099498cdaf159216b54955bf5837a6ddd00aa396fdcc2fa8b66c1688df4020",
-  "Message": "V10.208: clicar na esfera inicia conversa por voz em segundo plano, sem abrir janela de chat, usando a chave e os creditos da OpenAI.",
+  "Mandatory": false,
   "Version": "10.208",
-  "Notes": "V10.208: clicar na esfera inicia conversa por voz em segundo plano, sem abrir janela de chat, usando a chave e os creditos da OpenAI.",
-  "Mandatory": false
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.208/LEAL_INFO_PDV_V10_208_UPDATE.zip",
+  "Message": "V10.208: clicar na esfera inicia conversa por voz em segundo plano, sem abrir janela de chat, usando a chave e os creditos da OpenAI.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.208/Setup_LEAL_INFO_PDV_V10_208_FINAL.exe",
+  "Sha256": "cc54a175fbf545c666389b38b27c22d22294415f46e98d6ec4cb33a1cb5fcfa4",
+  "Notes": "V10.208: clicar na esfera inicia conversa por voz em segundo plano, sem abrir janela de chat, usando a chave e os creditos da OpenAI."
 }
