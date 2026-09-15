@@ -1,9 +1,9 @@
 {
+  "Sha256": "010ef0ac4182aa3f663806c32bf60e575d77a8a26c676653f3fe271214ee2db7",
   "Mandatory": false,
-  "Sha256": "03e4f800f162f259e055f3c878af4353a2158ef676955d126c681f1efbef6433",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.207/Setup_LEAL_INFO_PDV_V10_207_FINAL.exe",
+  "Notes": "V10.207: corrige chave com quebra de linha e adiciona reconhecimento de voz gratuito independente do pacote de idioma do Windows.",
   "Message": "V10.207: corrige chave com quebra de linha e adiciona reconhecimento de voz gratuito independente do pacote de idioma do Windows.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.207/LEAL_INFO_PDV_V10_207_UPDATE.zip",
   "Version": "10.207",
-  "Notes": "V10.207: corrige chave com quebra de linha e adiciona reconhecimento de voz gratuito independente do pacote de idioma do Windows."
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.207/Setup_LEAL_INFO_PDV_V10_207_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.207/LEAL_INFO_PDV_V10_207_UPDATE.zip"
 }
