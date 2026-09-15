@@ -1,9 +1,9 @@
 {
+  "Version": "10.209",
+  "Message": "V10.209: adiciona o assistente de navegacao e explicacao de telas com gpt-4o-mini, resposta JSON segura e abertura automatica das telas do PDV.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.209/LEAL_INFO_PDV_V10_209_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.209/Setup_LEAL_INFO_PDV_V10_209_FINAL.exe",
   "Mandatory": false,
-  "Version": "10.208",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.208/LEAL_INFO_PDV_V10_208_UPDATE.zip",
-  "Message": "V10.208: clicar na esfera inicia conversa por voz em segundo plano, sem abrir janela de chat, usando a chave e os creditos da OpenAI.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.208/Setup_LEAL_INFO_PDV_V10_208_FINAL.exe",
-  "Sha256": "cc54a175fbf545c666389b38b27c22d22294415f46e98d6ec4cb33a1cb5fcfa4",
-  "Notes": "V10.208: clicar na esfera inicia conversa por voz em segundo plano, sem abrir janela de chat, usando a chave e os creditos da OpenAI."
+  "Sha256": "c3b99cec17baac36f6b8dcb5b7ef5ef2b6b5362d12e4e84972832058325d9717",
+  "Notes": "V10.209: adiciona o assistente de navegacao e explicacao de telas com gpt-4o-mini, resposta JSON segura e abertura automatica das telas do PDV."
 }
