@@ -1,9 +1,9 @@
 {
-  "Notes": "V10.201: aplica novo botao LIC AI futurista com fundo transparente, aneis neon e animacao suave; mantem a correcao do tutorial da V10.198.",
-  "Version": "10.201",
-  "Sha256": "bcfe9aed195514d9223953542ae863c6e438b6c91285254875cde0b16273d79b",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.201/LEAL_INFO_PDV_V10_201_UPDATE.zip",
+  "Message": "V10.202: centraliza o botao LIC AI, afasta da borda inferior e remove o fundo retangular.",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.201/Setup_LEAL_INFO_PDV_V10_201_FINAL.exe",
-  "Message": "V10.201: aplica novo botao LIC AI futurista com fundo transparente, aneis neon e animacao suave; mantem a correcao do tutorial da V10.198."
+  "Version": "10.202",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.202/LEAL_INFO_PDV_V10_202_UPDATE.zip",
+  "Notes": "V10.202: centraliza o botao LIC AI, afasta da borda inferior e remove o fundo retangular.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.202/Setup_LEAL_INFO_PDV_V10_202_FINAL.exe",
+  "Sha256": "b586c2cebeea40b53cff0ac3c3f868c996fcbfecdd5581f0fda1b764d5f705e8"
 }
