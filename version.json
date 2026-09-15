@@ -1,9 +1,9 @@
 {
-  "Message": "V10.203: novo botao LIC AI circular holografico com aneis tecnologicos azuis, inspirado no modelo enviado.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.203/Setup_LEAL_INFO_PDV_V10_203_FINAL.exe",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.204/Setup_LEAL_INFO_PDV_V10_204_FINAL.exe",
+  "Version": "10.204",
+  "Notes": "V10.204: organiza LIC, ASSISTENTE e AI em tres linhas centralizadas, sem sobreposicao.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.204/LEAL_INFO_PDV_V10_204_UPDATE.zip",
   "Mandatory": false,
-  "Notes": "V10.203: novo botao LIC AI circular holografico com aneis tecnologicos azuis, inspirado no modelo enviado.",
-  "Sha256": "d3ee0a60213f70e69ea1193d44a5500e8192538f79a5453586a345128035bb3b",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.203/LEAL_INFO_PDV_V10_203_UPDATE.zip",
-  "Version": "10.203"
+  "Sha256": "4f9fe34aacafe570ff44a5277661388e0504d06da328ab8994ef6acd4ba30a90",
+  "Message": "V10.204: organiza LIC, ASSISTENTE e AI em tres linhas centralizadas, sem sobreposicao."
 }
