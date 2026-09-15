@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.219/Setup_LEAL_INFO_PDV_V10_219_FINAL.exe",
-  "Message": "V10.219: voz da LIA reproduzida pelo áudio nativo do Windows e botão bloqueado durante a conversa.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.219/LEAL_INFO_PDV_V10_219_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.220/Setup_LEAL_INFO_PDV_V10_220_FINAL.exe",
   "Mandatory": false,
-  "Version": "10.219",
-  "Notes": "V10.219: voz da LIA reproduzida pelo áudio nativo do Windows e botão bloqueado durante a conversa.",
-  "Sha256": "50f8c6f901626c114cf4eceba599cc689240facafdfe22344c4685b6363d62f6"
+  "Sha256": "3df231a695bfb46d9d36d897f75a09b83e8a3265d18decf86c7b2e5699a8e40a",
+  "Message": "V10.220: instancia invisivel travada eliminada e ciclo da LIA protegido por timeout.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.220/LEAL_INFO_PDV_V10_220_UPDATE.zip",
+  "Version": "10.220",
+  "Notes": "V10.220: instancia invisivel travada eliminada e ciclo da LIA protegido por timeout."
 }
