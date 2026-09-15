@@ -1,9 +1,9 @@
 {
-  "Message": "V10.227: central de Configuracoes com dados da empresa, sistema, seguranca e manutencao.",
-  "Sha256": "38b09817f04490ebb843ac8008ba13c2f7e89b6bd6cbb708e0c3c7256a969f66",
+  "Sha256": "7543819ddb18a1d836d4a5896ad78e76d4b319c4a91ae6b03ea688023852f8a8",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.228/LEAL_INFO_PDV_V10_228_UPDATE.zip",
+  "Version": "10.228",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.228/Setup_LEAL_INFO_PDV_V10_228_FINAL.exe",
+  "Notes": "V10.228: radio online independente, controle Musica, pausa durante o microfone, esfera compacta e despedida inteligente da LIA.",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.227/Setup_LEAL_INFO_PDV_V10_227_FINAL.exe",
-  "Notes": "V10.227: central de Configuracoes com dados da empresa, sistema, seguranca e manutencao.",
-  "Version": "10.227",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.227/LEAL_INFO_PDV_V10_227_UPDATE.zip"
+  "Message": "V10.228: radio online independente, controle Musica, pausa durante o microfone, esfera compacta e despedida inteligente da LIA."
 }
