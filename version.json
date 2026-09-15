@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.218/LEAL_INFO_PDV_V10_218_UPDATE.zip",
-  "Notes": "V10.218: reprodução da voz da LIA corrigida com áudio PCM 24 kHz sem cabeçalho WAV.",
-  "Version": "10.218",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.219/Setup_LEAL_INFO_PDV_V10_219_FINAL.exe",
+  "Message": "V10.219: voz da LIA reproduzida pelo áudio nativo do Windows e botão bloqueado durante a conversa.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.219/LEAL_INFO_PDV_V10_219_UPDATE.zip",
   "Mandatory": false,
-  "Message": "V10.218: reprodução da voz da LIA corrigida com áudio PCM 24 kHz sem cabeçalho WAV.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.218/Setup_LEAL_INFO_PDV_V10_218_FINAL.exe",
-  "Sha256": "ababea42c8e7bc5baec8f0983884b25c9073fb3f2c26fa5ec2d5dd7b490c44d6"
+  "Version": "10.219",
+  "Notes": "V10.219: voz da LIA reproduzida pelo áudio nativo do Windows e botão bloqueado durante a conversa.",
+  "Sha256": "50f8c6f901626c114cf4eceba599cc689240facafdfe22344c4685b6363d62f6"
 }
