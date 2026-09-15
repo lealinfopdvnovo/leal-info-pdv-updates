@@ -1,9 +1,9 @@
 {
-  "Sha256": "41e161f339d0882ab78ce14535b5188ab69e67aa49d1e1abd9c05607e9de4dd2",
-  "Notes": "V10.215: reconhecimento e fala da LIA corrigidos; azul pulsante ao ouvir, vermelho pulsante ao responder e repouso ao finalizar.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.216/LEAL_INFO_PDV_V10_216_UPDATE.zip",
+  "Sha256": "d921bd417c60c841a16a9a1f4c83b36584393cd1d3f676a088aec9bdd7addd87",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.215/LEAL_INFO_PDV_V10_215_UPDATE.zip",
-  "Message": "V10.215: reconhecimento e fala da LIA corrigidos; azul pulsante ao ouvir, vermelho pulsante ao responder e repouso ao finalizar.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.215/Setup_LEAL_INFO_PDV_V10_215_FINAL.exe",
-  "Version": "10.215"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.216/Setup_LEAL_INFO_PDV_V10_216_FINAL.exe",
+  "Version": "10.216",
+  "Message": "V10.216: backup ZIP por e-mail, restauração validada e backup automático ao sair.",
+  "Notes": "V10.216: backup ZIP por e-mail, restauração validada e backup automático ao sair."
 }
