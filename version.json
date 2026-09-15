@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.216/LEAL_INFO_PDV_V10_216_UPDATE.zip",
-  "Sha256": "d921bd417c60c841a16a9a1f4c83b36584393cd1d3f676a088aec9bdd7addd87",
+  "Message": "V10.217: voz da LIA corrigida com TTS da OpenAI e reprodução direta no alto-falante.",
+  "Notes": "V10.217: voz da LIA corrigida com TTS da OpenAI e reprodução direta no alto-falante.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.217/Setup_LEAL_INFO_PDV_V10_217_FINAL.exe",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.216/Setup_LEAL_INFO_PDV_V10_216_FINAL.exe",
-  "Version": "10.216",
-  "Message": "V10.216: backup ZIP por e-mail, restauração validada e backup automático ao sair.",
-  "Notes": "V10.216: backup ZIP por e-mail, restauração validada e backup automático ao sair."
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.217/LEAL_INFO_PDV_V10_217_UPDATE.zip",
+  "Sha256": "a32e69c9c6a6096694b8602fc98a951fcf6eac3940486b9e20255a93ca9bce7c",
+  "Version": "10.217"
 }
