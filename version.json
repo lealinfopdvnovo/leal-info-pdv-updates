@@ -1,9 +1,9 @@
 {
+  "Version": "10.212",
+  "Sha256": "a926b90753bb8df5d8911c94bcf23af42c2ec4adb89a2b6c7dce328503b70715",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.212/Setup_LEAL_INFO_PDV_V10_212_FINAL.exe",
+  "Message": "V10.212: LIC ASSISTENTE AI com voz continua, UTF-8, diagnostico de microfone e estados dinamicos da esfera.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.212/LEAL_INFO_PDV_V10_212_UPDATE.zip",
   "Mandatory": false,
-  "Message": "V10.211: correcao do clique da LIC ASSISTENTE AI com diagnostico visual e inicializacao da assistente por voz.",
-  "Sha256": "c3e12ae7303b39c85b5a91cb028864d06012ffa35338aa7d706c41a0d1e6d12b",
-  "Version": "10.211",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.211/LEAL_INFO_PDV_V10_211_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.211/Setup_LEAL_INFO_PDV_V10_211_FINAL.exe",
-  "Notes": "V10.211: correcao do clique da LIC ASSISTENTE AI com diagnostico visual e inicializacao da assistente por voz."
+  "Notes": "V10.212: LIC ASSISTENTE AI com voz continua, UTF-8, diagnostico de microfone e estados dinamicos da esfera."
 }
