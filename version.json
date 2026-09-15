@@ -1,9 +1,9 @@
 {
-  "Sha256": "010ef0ac4182aa3f663806c32bf60e575d77a8a26c676653f3fe271214ee2db7",
-  "Mandatory": false,
-  "Notes": "V10.207: corrige chave com quebra de linha e adiciona reconhecimento de voz gratuito independente do pacote de idioma do Windows.",
-  "Message": "V10.207: corrige chave com quebra de linha e adiciona reconhecimento de voz gratuito independente do pacote de idioma do Windows.",
-  "Version": "10.207",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.207/Setup_LEAL_INFO_PDV_V10_207_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.207/LEAL_INFO_PDV_V10_207_UPDATE.zip"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.208/Setup_LEAL_INFO_PDV_V10_208_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.208/LEAL_INFO_PDV_V10_208_UPDATE.zip",
+  "Sha256": "72099498cdaf159216b54955bf5837a6ddd00aa396fdcc2fa8b66c1688df4020",
+  "Message": "V10.208: clicar na esfera inicia conversa por voz em segundo plano, sem abrir janela de chat, usando a chave e os creditos da OpenAI.",
+  "Version": "10.208",
+  "Notes": "V10.208: clicar na esfera inicia conversa por voz em segundo plano, sem abrir janela de chat, usando a chave e os creditos da OpenAI.",
+  "Mandatory": false
 }
