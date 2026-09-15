@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.204/Setup_LEAL_INFO_PDV_V10_204_FINAL.exe",
-  "Version": "10.204",
-  "Notes": "V10.204: organiza LIC, ASSISTENTE e AI em tres linhas centralizadas, sem sobreposicao.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.204/LEAL_INFO_PDV_V10_204_UPDATE.zip",
+  "Version": "10.205",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.205/LEAL_INFO_PDV_V10_205_UPDATE.zip",
+  "Notes": "V10.205: desce o botao LIC AI e o centraliza no espaco entre o nome e a borda inferior.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.205/Setup_LEAL_INFO_PDV_V10_205_FINAL.exe",
   "Mandatory": false,
-  "Sha256": "4f9fe34aacafe570ff44a5277661388e0504d06da328ab8994ef6acd4ba30a90",
-  "Message": "V10.204: organiza LIC, ASSISTENTE e AI em tres linhas centralizadas, sem sobreposicao."
+  "Sha256": "a6e487802f854a2956d0624bd4fdd45520b3cd6bf5723ade33d8800ba7b892ca",
+  "Message": "V10.205: desce o botao LIC AI e o centraliza no espaco entre o nome e a borda inferior."
 }
