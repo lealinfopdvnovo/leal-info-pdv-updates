@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.222/LEAL_INFO_PDV_V10_222_UPDATE.zip",
-  "Sha256": "f2ecead4b4d82994480a95db0abdb2eaecab10dad68920a884d6326eedcb01a5",
-  "Notes": "V10.222: conversa continua, retorno automatico ao microfone e voz mais rapida.",
-  "Message": "V10.222: conversa continua, retorno automatico ao microfone e voz mais rapida.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.223/Setup_LEAL_INFO_PDV_V10_223_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.223/LEAL_INFO_PDV_V10_223_UPDATE.zip",
+  "Sha256": "53866f702b76c297d9d364084e8cc41aa3a2e30b18adbabe9151ce296bc27be5",
+  "Notes": "V10.223: a LIA e o audio agora encerram imediatamente junto com o PDV.",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.222/Setup_LEAL_INFO_PDV_V10_222_FINAL.exe",
-  "Version": "10.222"
+  "Version": "10.223",
+  "Message": "V10.223: a LIA e o audio agora encerram imediatamente junto com o PDV."
 }
