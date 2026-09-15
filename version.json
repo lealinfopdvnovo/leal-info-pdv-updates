@@ -1,9 +1,9 @@
 {
-  "Notes": "V10.199: aplica novo botao LIC AI futurista com fundo transparente, aneis neon e animacao suave; mantem a correcao do tutorial da V10.198.",
-  "Sha256": "89c9266dc409c7173c983bd656f77eb25910871cc04c89e2d9516581b948518e",
-  "Message": "V10.199: aplica novo botao LIC AI futurista com fundo transparente, aneis neon e animacao suave; mantem a correcao do tutorial da V10.198.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.199/LEAL_INFO_PDV_V10_199_UPDATE.zip",
+  "Notes": "V10.200: aplica novo botao LIC AI futurista com fundo transparente, aneis neon e animacao suave; mantem a correcao do tutorial da V10.198.",
+  "Message": "V10.200: aplica novo botao LIC AI futurista com fundo transparente, aneis neon e animacao suave; mantem a correcao do tutorial da V10.198.",
+  "Sha256": "f89b0bde57bfe60c58a85a79ece2f0ecb9be72d4252e320ae6a23c958603f938",
+  "Version": "10.200",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.200/Setup_LEAL_INFO_PDV_V10_200_FINAL.exe",
   "Mandatory": false,
-  "Version": "10.199",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.199/Setup_LEAL_INFO_PDV_V10_199_FINAL.exe"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.200/LEAL_INFO_PDV_V10_200_UPDATE.zip"
 }
