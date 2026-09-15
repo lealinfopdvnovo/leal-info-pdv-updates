@@ -1,9 +1,9 @@
 {
+  "Sha256": "41e161f339d0882ab78ce14535b5188ab69e67aa49d1e1abd9c05607e9de4dd2",
+  "Notes": "V10.215: reconhecimento e fala da LIA corrigidos; azul pulsante ao ouvir, vermelho pulsante ao responder e repouso ao finalizar.",
   "Mandatory": false,
-  "Sha256": "d011cc55d4a4d4e2fce4301e26e9019161180108fc4ba10a85b04cc682191b2e",
-  "Version": "10.214",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.214/LEAL_INFO_PDV_V10_214_UPDATE.zip",
-  "Notes": "V10.214: microfone da LIC AI corrigido, captura de voz ativada e aviso de teste removido.",
-  "Message": "V10.214: microfone da LIC AI corrigido, captura de voz ativada e aviso de teste removido.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.214/Setup_LEAL_INFO_PDV_V10_214_FINAL.exe"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.215/LEAL_INFO_PDV_V10_215_UPDATE.zip",
+  "Message": "V10.215: reconhecimento e fala da LIA corrigidos; azul pulsante ao ouvir, vermelho pulsante ao responder e repouso ao finalizar.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.215/Setup_LEAL_INFO_PDV_V10_215_FINAL.exe",
+  "Version": "10.215"
 }
