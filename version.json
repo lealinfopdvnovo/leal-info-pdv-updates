@@ -1,9 +1,9 @@
 {
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.211/LEAL_INFO_PDV_V10_211_UPDATE.zip",
   "Mandatory": false,
-  "Version": "10.210",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.210/Setup_LEAL_INFO_PDV_V10_210_FINAL.exe",
-  "Message": "V10.210: LIC ASSISTENTE AI com conversa continua, deteccao de silencio, Whisper, voz, esfera azul ao ouvir e vermelho pulsante ao responder, navegacao automatica e diagnostico de microfone.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.210/LEAL_INFO_PDV_V10_210_UPDATE.zip",
-  "Notes": "V10.210: LIC ASSISTENTE AI com conversa continua, deteccao de silencio, Whisper, voz, esfera azul ao ouvir e vermelho pulsante ao responder, navegacao automatica e diagnostico de microfone.",
-  "Sha256": "046db8936c711ffbc6053e353c8dc603ea9c28bddd22dcde1daa72663030ba24"
+  "Notes": "V10.211: correcao do clique da LIC ASSISTENTE AI com diagnostico visual e inicializacao da assistente por voz.",
+  "Sha256": "26c066672188a77b0b6a3a6bf9b59efbd9b6d18c8fd7ff0b2639dc658262edb9",
+  "Message": "V10.211: correcao do clique da LIC ASSISTENTE AI com diagnostico visual e inicializacao da assistente por voz.",
+  "Version": "10.211",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.211/Setup_LEAL_INFO_PDV_V10_211_FINAL.exe"
 }
