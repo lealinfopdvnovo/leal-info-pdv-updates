@@ -1,9 +1,9 @@
 {
-  "Message": "V10.226: impede telas duplicadas e repete comandos apenas quando solicitado explicitamente.",
-  "Notes": "V10.226: impede telas duplicadas e repete comandos apenas quando solicitado explicitamente.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.226/Setup_LEAL_INFO_PDV_V10_226_FINAL.exe",
-  "Version": "10.226",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.226/LEAL_INFO_PDV_V10_226_UPDATE.zip",
+  "Message": "V10.227: central de Configuracoes com dados da empresa, sistema, seguranca e manutencao.",
+  "Sha256": "38b09817f04490ebb843ac8008ba13c2f7e89b6bd6cbb708e0c3c7256a969f66",
   "Mandatory": false,
-  "Sha256": "3ff4ef7ed4c78696d023b8cb63c0ee46c1b249712d2711552917121573d8f756"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.227/Setup_LEAL_INFO_PDV_V10_227_FINAL.exe",
+  "Notes": "V10.227: central de Configuracoes com dados da empresa, sistema, seguranca e manutencao.",
+  "Version": "10.227",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.227/LEAL_INFO_PDV_V10_227_UPDATE.zip"
 }
