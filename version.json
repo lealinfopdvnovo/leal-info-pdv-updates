@@ -1,9 +1,9 @@
 {
-  "Notes": "V10.224: LIA mais rapida, informal, amigavel e com conversa livre.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.224/LEAL_INFO_PDV_V10_224_UPDATE.zip",
-  "Message": "V10.224: LIA mais rapida, informal, amigavel e com conversa livre.",
-  "Sha256": "f988acfac85c8b55c704a068e0e534242391effdaca8ad1032758248ee78d176",
-  "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.224/Setup_LEAL_INFO_PDV_V10_224_FINAL.exe",
-  "Version": "10.224"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.225/Setup_LEAL_INFO_PDV_V10_225_FINAL.exe",
+  "Message": "V10.225: conhecimento completo do PDV, data e hora em tempo real, conversa livre e pesquisa externa.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.225/LEAL_INFO_PDV_V10_225_UPDATE.zip",
+  "Sha256": "58dc69c27e90fa2def0984dcd03e537d8e05d0b70a328d6850086d976aabf567",
+  "Notes": "V10.225: conhecimento completo do PDV, data e hora em tempo real, conversa livre e pesquisa externa.",
+  "Version": "10.225",
+  "Mandatory": false
 }
