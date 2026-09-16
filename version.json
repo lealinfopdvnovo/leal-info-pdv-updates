@@ -1,9 +1,9 @@
 {
-  "Sha256": "76a1063667ef1fd9dbf7391aeba2c57d43b0902caf921d92d4660642e7aecba6",
-  "Version": "10.232",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.232/Setup_LEAL_INFO_PDV_V10_232_FINAL.exe",
-  "Notes": "V10.232: corrige espera do driver de audio que mantinha a esfera azul sem enviar a fala.",
-  "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.232/LEAL_INFO_PDV_V10_232_UPDATE.zip",
-  "Message": "V10.232: corrige espera do driver de audio que mantinha a esfera azul sem enviar a fala."
+  "Version": "10.233",
+  "Message": "V10.233: processa a fala em ate 8 segundos mesmo sem deteccao de silencio do driver.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.233/Setup_LEAL_INFO_PDV_V10_233_FINAL.exe",
+  "Notes": "V10.233: processa a fala em ate 8 segundos mesmo sem deteccao de silencio do driver.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.233/LEAL_INFO_PDV_V10_233_UPDATE.zip",
+  "Sha256": "815fe49dc6975309f14ccb266b30edc97152a1fa4ee07b57d3bf811b49cd88c4",
+  "Mandatory": false
 }
