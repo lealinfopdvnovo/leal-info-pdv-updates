@@ -1,9 +1,9 @@
 {
-  "Version": "10.233",
-  "Message": "V10.233: processa a fala em ate 8 segundos mesmo sem deteccao de silencio do driver.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.233/Setup_LEAL_INFO_PDV_V10_233_FINAL.exe",
-  "Notes": "V10.233: processa a fala em ate 8 segundos mesmo sem deteccao de silencio do driver.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.233/LEAL_INFO_PDV_V10_233_UPDATE.zip",
-  "Sha256": "815fe49dc6975309f14ccb266b30edc97152a1fa4ee07b57d3bf811b49cd88c4",
-  "Mandatory": false
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.234/LEAL_INFO_PDV_V10_234_UPDATE.zip",
+  "Sha256": "2f8c3870aa37672661d99cc6ab86b205346a7f36145beb90bacd46c25e5529d3",
+  "Message": "V10.234: versao de recuperacao da LIA, restaurada ao ultimo ciclo de voz comprovadamente funcional.",
+  "Mandatory": false,
+  "Version": "10.234",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.234/Setup_LEAL_INFO_PDV_V10_234_FINAL.exe",
+  "Notes": "V10.234: versao de recuperacao da LIA, restaurada ao ultimo ciclo de voz comprovadamente funcional."
 }
