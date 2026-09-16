@@ -1,9 +1,9 @@
 {
   "Mandatory": false,
-  "Version": "10.238",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.238/LEAL_INFO_PDV_V10_238_UPDATE.zip",
-  "Notes": "V10.238: novo conjunto de icones 3D integrado ao menu principal do PDV.",
-  "Message": "V10.238: novo conjunto de icones 3D integrado ao menu principal do PDV.",
-  "Sha256": "464a18e2aa77b729cf23a99c1e685c16153bb22c80a06bb6f3ea078d25d5c2b1",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.238/Setup_LEAL_INFO_PDV_V10_238_FINAL.exe"
+  "Sha256": "abcc37af53131db8143e1b548db84b4e3bbcb9702b49c61b6f39ef1dd20a31e9",
+  "Message": "V10.239: corrige o clique da LIC AI, evita bloqueio da interface e exibe diagnostico completo de inicializacao.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.239/Setup_LEAL_INFO_PDV_V10_239_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.239/LEAL_INFO_PDV_V10_239_UPDATE.zip",
+  "Notes": "V10.239: corrige o clique da LIC AI, evita bloqueio da interface e exibe diagnostico completo de inicializacao.",
+  "Version": "10.239"
 }
