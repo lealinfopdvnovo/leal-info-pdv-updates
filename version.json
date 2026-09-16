@@ -1,9 +1,9 @@
 {
-  "Sha256": "e7e28c0726e315c4326ede5e6cc194919cbe0212643f479f341fed80050aa901",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.237/Setup_LEAL_INFO_PDV_V10_237_FINAL.exe",
-  "Notes": "V10.237: corrige conflito de patches e garante OpenAI tts-1/nova como voz final da LIA.",
-  "Message": "V10.237: corrige conflito de patches e garante OpenAI tts-1/nova como voz final da LIA.",
-  "Version": "10.237",
+  "Sha256": "ff8b3ce82cdc1692a093fff8c7c83c9989f37145a94adcc39aeb5d11c6e9c786",
+  "Message": "V10.238: novo conjunto de icones 3D integrado ao menu principal do PDV.",
+  "Version": "10.238",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.238/Setup_LEAL_INFO_PDV_V10_238_FINAL.exe",
+  "Notes": "V10.238: novo conjunto de icones 3D integrado ao menu principal do PDV.",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.237/LEAL_INFO_PDV_V10_237_UPDATE.zip"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.238/LEAL_INFO_PDV_V10_238_UPDATE.zip"
 }
