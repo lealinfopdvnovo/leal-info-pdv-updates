@@ -1,9 +1,9 @@
 {
-  "Notes": "V10.230: inicializacao confiavel da LIA com confirmacao visual e diagnostico do microfone.",
-  "Sha256": "562dbbb2f662409b14cf170c7c471eb56f636448b1d70f7c4e1d1eaddcd7918b",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.230/LEAL_INFO_PDV_V10_230_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.230/Setup_LEAL_INFO_PDV_V10_230_FINAL.exe",
-  "Message": "V10.230: inicializacao confiavel da LIA com confirmacao visual e diagnostico do microfone.",
-  "Version": "10.230",
-  "Mandatory": false
+  "Version": "10.231",
+  "Sha256": "82146e45d6a8de353db396fa7e8023aade2ce19381d7c3d2436bb6fe02fce377",
+  "Message": "V10.231: remove encerramento prematuro e permite a LIA concluir a captura e responder.",
+  "Mandatory": false,
+  "Notes": "V10.231: remove encerramento prematuro e permite a LIA concluir a captura e responder.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.231/LEAL_INFO_PDV_V10_231_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.231/Setup_LEAL_INFO_PDV_V10_231_FINAL.exe"
 }
