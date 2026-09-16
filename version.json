@@ -1,9 +1,9 @@
 {
-  "Sha256": "7543819ddb18a1d836d4a5896ad78e76d4b319c4a91ae6b03ea688023852f8a8",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.228/LEAL_INFO_PDV_V10_228_UPDATE.zip",
-  "Version": "10.228",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.228/Setup_LEAL_INFO_PDV_V10_228_FINAL.exe",
-  "Notes": "V10.228: radio online independente, controle Musica, pausa durante o microfone, esfera compacta e despedida inteligente da LIA.",
-  "Mandatory": false,
-  "Message": "V10.228: radio online independente, controle Musica, pausa durante o microfone, esfera compacta e despedida inteligente da LIA."
+  "Sha256": "c0270aecd07f856468244278ae9d3f2ce9c8e80afa37bb7826b48de126ec50fb",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.229/Setup_LEAL_INFO_PDV_V10_229_FINAL.exe",
+  "Notes": "V10.229: hotfix de inicializacao da LIA sem bloquear a interface do PDV.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.229/LEAL_INFO_PDV_V10_229_UPDATE.zip",
+  "Version": "10.229",
+  "Message": "V10.229: hotfix de inicializacao da LIA sem bloquear a interface do PDV.",
+  "Mandatory": false
 }
