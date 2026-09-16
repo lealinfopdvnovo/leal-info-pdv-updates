@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.243/LEAL_INFO_PDV_V10_243_UPDATE.zip",
-  "Message": "V10.243: nova LIA por voz em tempo real, resposta por streaming, microfone PCM 24 kHz e interrupcao instantanea da fala.",
-  "Version": "10.243",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.243/Setup_LEAL_INFO_PDV_V10_243_FINAL.exe",
-  "Notes": "V10.243: nova LIA por voz em tempo real, resposta por streaming, microfone PCM 24 kHz e interrupcao instantanea da fala.",
-  "Sha256": "b15cb79b3743663932758ce81c4207aad3a21b8c42f1038e48562dd7431d11b0",
-  "Mandatory": false
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.244/Setup_LEAL_INFO_PDV_V10_244_FINAL.exe",
+  "Notes": "V10.244: LIA migrada para a OpenAI Realtime API GA, sem o protocolo Beta desativado.",
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.244/LEAL_INFO_PDV_V10_244_UPDATE.zip",
+  "Version": "10.244",
+  "Message": "V10.244: LIA migrada para a OpenAI Realtime API GA, sem o protocolo Beta desativado.",
+  "Sha256": "6a28aab8ad6328c3bfa5851ee54c1e69c2fb50826100b88b391b15a59f4dd03b"
 }
