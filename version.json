@@ -1,9 +1,9 @@
 {
-  "Sha256": "a9ffc6c211b62644566a7bfccb3a00304d2e507651b746562c21fb97c5a4d123",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.245/Setup_LEAL_INFO_PDV_V10_245_FINAL.exe",
+  "Version": "10.246",
+  "Message": "V10.246: corrige os botoes Cadastro e Tela de Vendas para abertura direta.",
+  "Sha256": "fe5c2c0ef85e5e29cd8905ada5549ff8d9eb7beccd8443d1238061796d3c0607",
   "Mandatory": false,
-  "Version": "10.245",
-  "Message": "V10.245: elimina a repeticao da LIA bloqueando o retorno do alto-falante no microfone.",
-  "Notes": "V10.245: elimina a repeticao da LIA bloqueando o retorno do alto-falante no microfone.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.245/LEAL_INFO_PDV_V10_245_UPDATE.zip"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.246/Setup_LEAL_INFO_PDV_V10_246_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.246/LEAL_INFO_PDV_V10_246_UPDATE.zip",
+  "Notes": "V10.246: corrige os botoes Cadastro e Tela de Vendas para abertura direta."
 }
