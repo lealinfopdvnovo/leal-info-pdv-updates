@@ -1,9 +1,9 @@
 {
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.240/Setup_LEAL_INFO_PDV_V10_240_FINAL.exe",
+  "Sha256": "034b30cd3f2a2e9813189178d3f2fdab6c228c755e58eea4ec1a251a8ba9f0b4",
+  "Notes": "V10.240: impede que a LIC AI fique ouvindo indefinidamente e forca o processamento da fala em oito segundos.",
+  "Version": "10.240",
+  "Message": "V10.240: impede que a LIC AI fique ouvindo indefinidamente e forca o processamento da fala em oito segundos.",
   "Mandatory": false,
-  "Sha256": "abcc37af53131db8143e1b548db84b4e3bbcb9702b49c61b6f39ef1dd20a31e9",
-  "Message": "V10.239: corrige o clique da LIC AI, evita bloqueio da interface e exibe diagnostico completo de inicializacao.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.239/Setup_LEAL_INFO_PDV_V10_239_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.239/LEAL_INFO_PDV_V10_239_UPDATE.zip",
-  "Notes": "V10.239: corrige o clique da LIC AI, evita bloqueio da interface e exibe diagnostico completo de inicializacao.",
-  "Version": "10.239"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.240/LEAL_INFO_PDV_V10_240_UPDATE.zip"
 }
