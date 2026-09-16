@@ -1,9 +1,9 @@
 {
-  "Mandatory": false,
-  "Version": "10.247",
-  "Message": "V10.247: ajusta o menu superior para qualquer resolucao e restaura os nomes completos dos botoes.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.247/LEAL_INFO_PDV_V10_247_UPDATE.zip",
-  "Sha256": "771a59808e86a78139ce83f5268d0fa4721f40a5da7f3fbf9f513425754db5f2",
-  "Notes": "V10.247: ajusta o menu superior para qualquer resolucao e restaura os nomes completos dos botoes.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.247/Setup_LEAL_INFO_PDV_V10_247_FINAL.exe"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.248/Setup_LEAL_INFO_PDV_V10_248_FINAL.exe",
+  "Version": "10.248",
+  "Sha256": "14158d65a41c9f83ae6dd5398fc2e90d4579423b144b7b98f824d5801f705720",
+  "Message": "V10.248: remove a pulsacao descontrolada de Cadastro e Tela de Vendas e normaliza a animacao.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.248/LEAL_INFO_PDV_V10_248_UPDATE.zip",
+  "Notes": "V10.248: remove a pulsacao descontrolada de Cadastro e Tela de Vendas e normaliza a animacao.",
+  "Mandatory": false
 }
