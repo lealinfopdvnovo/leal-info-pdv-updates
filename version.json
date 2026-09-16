@@ -1,9 +1,9 @@
 {
-  "Sha256": "ff8b3ce82cdc1692a093fff8c7c83c9989f37145a94adcc39aeb5d11c6e9c786",
-  "Message": "V10.238: novo conjunto de icones 3D integrado ao menu principal do PDV.",
-  "Version": "10.238",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.238/Setup_LEAL_INFO_PDV_V10_238_FINAL.exe",
-  "Notes": "V10.238: novo conjunto de icones 3D integrado ao menu principal do PDV.",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.238/LEAL_INFO_PDV_V10_238_UPDATE.zip"
+  "Version": "10.238",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.238/LEAL_INFO_PDV_V10_238_UPDATE.zip",
+  "Notes": "V10.238: novo conjunto de icones 3D integrado ao menu principal do PDV.",
+  "Message": "V10.238: novo conjunto de icones 3D integrado ao menu principal do PDV.",
+  "Sha256": "464a18e2aa77b729cf23a99c1e685c16153bb22c80a06bb6f3ea078d25d5c2b1",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.238/Setup_LEAL_INFO_PDV_V10_238_FINAL.exe"
 }
