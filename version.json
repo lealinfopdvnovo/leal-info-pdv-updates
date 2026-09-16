@@ -1,9 +1,9 @@
 {
-  "Version": "10.246",
-  "Message": "V10.246: corrige os botoes Cadastro e Tela de Vendas para abertura direta.",
-  "Sha256": "fe5c2c0ef85e5e29cd8905ada5549ff8d9eb7beccd8443d1238061796d3c0607",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.246/Setup_LEAL_INFO_PDV_V10_246_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.246/LEAL_INFO_PDV_V10_246_UPDATE.zip",
-  "Notes": "V10.246: corrige os botoes Cadastro e Tela de Vendas para abertura direta."
+  "Version": "10.247",
+  "Message": "V10.247: ajusta o menu superior para qualquer resolucao e restaura os nomes completos dos botoes.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.247/LEAL_INFO_PDV_V10_247_UPDATE.zip",
+  "Sha256": "771a59808e86a78139ce83f5268d0fa4721f40a5da7f3fbf9f513425754db5f2",
+  "Notes": "V10.247: ajusta o menu superior para qualquer resolucao e restaura os nomes completos dos botoes.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.247/Setup_LEAL_INFO_PDV_V10_247_FINAL.exe"
 }
