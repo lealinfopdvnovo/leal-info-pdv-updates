@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.248/Setup_LEAL_INFO_PDV_V10_248_FINAL.exe",
-  "Version": "10.248",
-  "Sha256": "14158d65a41c9f83ae6dd5398fc2e90d4579423b144b7b98f824d5801f705720",
-  "Message": "V10.248: remove a pulsacao descontrolada de Cadastro e Tela de Vendas e normaliza a animacao.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.248/LEAL_INFO_PDV_V10_248_UPDATE.zip",
-  "Notes": "V10.248: remove a pulsacao descontrolada de Cadastro e Tela de Vendas e normaliza a animacao.",
-  "Mandatory": false
+  "Message": "V10.249: estabiliza a reproducao da voz da LIA em respostas longas, preservando conversa, personalidade e demais funcoes.",
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.249/LEAL_INFO_PDV_V10_249_UPDATE.zip",
+  "Version": "10.249",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.249/Setup_LEAL_INFO_PDV_V10_249_FINAL.exe",
+  "Notes": "V10.249: estabiliza a reproducao da voz da LIA em respostas longas, preservando conversa, personalidade e demais funcoes.",
+  "Sha256": "8fa9d104a2ce28e9e07d7647b8daf9a53f2fbaa1fc9a724c64729e2e454dae81"
 }
