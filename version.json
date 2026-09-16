@@ -1,9 +1,9 @@
 {
-  "Message": "V10.241: reduz a latencia da LIC AI com captura de quatro segundos, gpt-4o-mini-transcribe, respostas curtas e indicador Pensando.",
-  "Notes": "V10.241: reduz a latencia da LIC AI com captura de quatro segundos, gpt-4o-mini-transcribe, respostas curtas e indicador Pensando.",
-  "Version": "10.241",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.241/LEAL_INFO_PDV_V10_241_UPDATE.zip",
-  "Sha256": "401f811618f739ca8674be29f72e4225585277dfba8fe10485f8bb30561c2eb4",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.241/Setup_LEAL_INFO_PDV_V10_241_FINAL.exe",
-  "Mandatory": false
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.242/LEAL_INFO_PDV_V10_242_UPDATE.zip",
+  "Version": "10.242",
+  "Sha256": "67c17d5992ff042e9256b076771a30a18f95a08083f5bc3bf6a7c96777cfc0c0",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.242/Setup_LEAL_INFO_PDV_V10_242_FINAL.exe",
+  "Message": "V10.242: limita a resposta da LIC AI a tres segundos, usa temperatura 0.2 e respostas de uma frase.",
+  "Mandatory": false,
+  "Notes": "V10.242: limita a resposta da LIC AI a tres segundos, usa temperatura 0.2 e respostas de uma frase."
 }
