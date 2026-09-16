@@ -1,9 +1,9 @@
 {
-  "Sha256": "c0270aecd07f856468244278ae9d3f2ce9c8e80afa37bb7826b48de126ec50fb",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.229/Setup_LEAL_INFO_PDV_V10_229_FINAL.exe",
-  "Notes": "V10.229: hotfix de inicializacao da LIA sem bloquear a interface do PDV.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.229/LEAL_INFO_PDV_V10_229_UPDATE.zip",
-  "Version": "10.229",
-  "Message": "V10.229: hotfix de inicializacao da LIA sem bloquear a interface do PDV.",
+  "Notes": "V10.230: inicializacao confiavel da LIA com confirmacao visual e diagnostico do microfone.",
+  "Sha256": "562dbbb2f662409b14cf170c7c471eb56f636448b1d70f7c4e1d1eaddcd7918b",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.230/LEAL_INFO_PDV_V10_230_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.230/Setup_LEAL_INFO_PDV_V10_230_FINAL.exe",
+  "Message": "V10.230: inicializacao confiavel da LIA com confirmacao visual e diagnostico do microfone.",
+  "Version": "10.230",
   "Mandatory": false
 }
