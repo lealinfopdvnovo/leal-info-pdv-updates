@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.242/LEAL_INFO_PDV_V10_242_UPDATE.zip",
-  "Version": "10.242",
-  "Sha256": "67c17d5992ff042e9256b076771a30a18f95a08083f5bc3bf6a7c96777cfc0c0",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.242/Setup_LEAL_INFO_PDV_V10_242_FINAL.exe",
-  "Message": "V10.242: limita a resposta da LIC AI a tres segundos, usa temperatura 0.2 e respostas de uma frase.",
-  "Mandatory": false,
-  "Notes": "V10.242: limita a resposta da LIC AI a tres segundos, usa temperatura 0.2 e respostas de uma frase."
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.243/LEAL_INFO_PDV_V10_243_UPDATE.zip",
+  "Message": "V10.243: nova LIA por voz em tempo real, resposta por streaming, microfone PCM 24 kHz e interrupcao instantanea da fala.",
+  "Version": "10.243",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.243/Setup_LEAL_INFO_PDV_V10_243_FINAL.exe",
+  "Notes": "V10.243: nova LIA por voz em tempo real, resposta por streaming, microfone PCM 24 kHz e interrupcao instantanea da fala.",
+  "Sha256": "b15cb79b3743663932758ce81c4207aad3a21b8c42f1038e48562dd7431d11b0",
+  "Mandatory": false
 }
