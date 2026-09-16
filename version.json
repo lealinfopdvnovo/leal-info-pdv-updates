@@ -1,9 +1,9 @@
 {
-  "Message": "V10.235: diagnostico global do LicAi.exe para revelar falhas ocultas de inicializacao.",
-  "Notes": "V10.235: diagnostico global do LicAi.exe para revelar falhas ocultas de inicializacao.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.235/Setup_LEAL_INFO_PDV_V10_235_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.235/LEAL_INFO_PDV_V10_235_UPDATE.zip",
-  "Version": "10.235",
-  "Sha256": "aeb41e0dcade0041580d28b671ba4065ae59df620e7dc433c27c37864b8e7ad4",
-  "Mandatory": false
+  "Version": "10.236",
+  "Sha256": "367b3936955cc5eea40fcb4dbc4fb5d6be35992f853a6fd2b8a786f8cf49fdb6",
+  "Message": "V10.236: LIA com voz natural OpenAI tts-1/nova, reproducao NAudio assincrona e respostas curtas.",
+  "Notes": "V10.236: LIA com voz natural OpenAI tts-1/nova, reproducao NAudio assincrona e respostas curtas.",
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.236/LEAL_INFO_PDV_V10_236_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.236/Setup_LEAL_INFO_PDV_V10_236_FINAL.exe"
 }
