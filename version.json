@@ -1,9 +1,9 @@
 {
-  "Version": "10.236",
-  "Sha256": "367b3936955cc5eea40fcb4dbc4fb5d6be35992f853a6fd2b8a786f8cf49fdb6",
-  "Message": "V10.236: LIA com voz natural OpenAI tts-1/nova, reproducao NAudio assincrona e respostas curtas.",
-  "Notes": "V10.236: LIA com voz natural OpenAI tts-1/nova, reproducao NAudio assincrona e respostas curtas.",
+  "Sha256": "e7e28c0726e315c4326ede5e6cc194919cbe0212643f479f341fed80050aa901",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.237/Setup_LEAL_INFO_PDV_V10_237_FINAL.exe",
+  "Notes": "V10.237: corrige conflito de patches e garante OpenAI tts-1/nova como voz final da LIA.",
+  "Message": "V10.237: corrige conflito de patches e garante OpenAI tts-1/nova como voz final da LIA.",
+  "Version": "10.237",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.236/LEAL_INFO_PDV_V10_236_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.236/Setup_LEAL_INFO_PDV_V10_236_FINAL.exe"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.237/LEAL_INFO_PDV_V10_237_UPDATE.zip"
 }
