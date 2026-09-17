@@ -1,9 +1,9 @@
 {
-  "Sha256": "820133cbd33362c700c64ad9345f0eb674357a133f58b5473748b778a381cb41",
-  "Version": "10.264",
-  "Notes": "V10.264: atualizador via GitHub Latest Release e publicacao atomica; login GDI+ preservado.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.264/LEAL_INFO_PDV_V10_264_UPDATE.zip",
-  "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.264/Setup_LEAL_INFO_PDV_V10_264_FINAL.exe",
-  "Message": "V10.264: atualizador via GitHub Latest Release e publicacao atomica; login GDI+ preservado."
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.265/LEAL_INFO_PDV_V10_265_UPDATE.zip",
+  "Notes": "V10.265: login 900x500 centralizado explicitamente no monitor; atualizador seguro via GitHub Latest Release.",
+  "Message": "V10.265: login 900x500 centralizado explicitamente no monitor; atualizador seguro via GitHub Latest Release.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.265/Setup_LEAL_INFO_PDV_V10_265_FINAL.exe",
+  "Sha256": "e7f0b01e1d536aad88b590a4f75f122d88d6c829a8b71fbd50b171466a4c31cf",
+  "Version": "10.265",
+  "Mandatory": false
 }
