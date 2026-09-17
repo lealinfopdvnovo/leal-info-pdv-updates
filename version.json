@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.255/Setup_LEAL_INFO_PDV_V10_255_FINAL.exe",
-  "Mandatory": false,
-  "Message": "V10.255: elimina voz acelerada e cortes da LIA com fila FIFO sem descarte e reproducao PCM em velocidade natural 1x.",
-  "Version": "10.255",
-  "Sha256": "82ed730e0d0b502405d379994c94f0259aad4ffacba9da4842f794b1be161f19",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.255/LEAL_INFO_PDV_V10_255_UPDATE.zip",
-  "Notes": "V10.255: elimina voz acelerada e cortes da LIA com fila FIFO sem descarte e reproducao PCM em velocidade natural 1x."
+  "Notes": "V10.256: fecha janelas sobrepostas uma por vez, da frente para tras, com confirmacao falada.",
+  "Sha256": "0853058e3a7be48024d5e6fb2a809ca7cba1bd844db82ced7406ae30f3bcebc4",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.256/Setup_LEAL_INFO_PDV_V10_256_FINAL.exe",
+  "Message": "V10.256: fecha janelas sobrepostas uma por vez, da frente para tras, com confirmacao falada.",
+  "Version": "10.256",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.256/LEAL_INFO_PDV_V10_256_UPDATE.zip",
+  "Mandatory": false
 }
