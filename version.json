@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.261/Setup_LEAL_INFO_PDV_V10_261_FINAL.exe",
+  "Notes": "V10.262: login em janela flutuante 900x500 perfeitamente centralizada, mantendo o acabamento premium e as funcoes existentes.",
+  "Message": "V10.262: login em janela flutuante 900x500 perfeitamente centralizada, mantendo o acabamento premium e as funcoes existentes.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.262/Setup_LEAL_INFO_PDV_V10_262_FINAL.exe",
   "Mandatory": false,
-  "Version": "10.261",
-  "Sha256": "0d8e18a0927d501115f1f5f8162985d935f319ee5adfb7b92237f859f95d622a",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.261/LEAL_INFO_PDV_V10_261_UPDATE.zip",
-  "Notes": "V10.261: refatoracao visual profunda e exclusiva da tela de login com vidro, neon, cromo 3D, cantos arredondados e inputs minimalistas; logica funcional preservada.",
-  "Message": "V10.261: refatoracao visual profunda e exclusiva da tela de login com vidro, neon, cromo 3D, cantos arredondados e inputs minimalistas; logica funcional preservada."
+  "Sha256": "a291ccf1674e333a7f9844f24c7b4ec5f65195b728cae9baa3c71f91c9966cee",
+  "Version": "10.262",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.262/LEAL_INFO_PDV_V10_262_UPDATE.zip"
 }
