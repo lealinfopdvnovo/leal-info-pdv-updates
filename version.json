@@ -1,9 +1,9 @@
 {
-  "Message": "V10.252: corrige a continuidade do audio da LIA com fila FIFO sequencial, sem descarte de chunks e sem alterar personalidade, modelo ou comandos.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.252/Setup_LEAL_INFO_PDV_V10_252_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.252/LEAL_INFO_PDV_V10_252_UPDATE.zip",
-  "Sha256": "3ece51797c95c893ce3e0169c3b4254a745c38f66ec187437d66fe17984a3395",
+  "Message": "V10.253: corrige somente a falha da protecao legada da LIA; mantem integralmente a fila FIFO de audio V10.252, velocidade 1x, personalidade, modelo, reconhecimento e comandos.",
+  "Notes": "V10.253: corrige somente a falha da protecao legada da LIA; mantem integralmente a fila FIFO de audio V10.252, velocidade 1x, personalidade, modelo, reconhecimento e comandos.",
+  "Sha256": "8e1dac508757e5941e0f72a08797746186d60c8a1b4b9667d2985b61577922ec",
   "Mandatory": false,
-  "Version": "10.252",
-  "Notes": "V10.252: corrige a continuidade do audio da LIA com fila FIFO sequencial, sem descarte de chunks e sem alterar personalidade, modelo ou comandos."
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.253/LEAL_INFO_PDV_V10_253_UPDATE.zip",
+  "Version": "10.253",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.253/Setup_LEAL_INFO_PDV_V10_253_FINAL.exe"
 }
