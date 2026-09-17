@@ -1,9 +1,9 @@
 {
-  "Notes": "V10.256: fecha janelas sobrepostas uma por vez, da frente para tras, com confirmacao falada.",
-  "Sha256": "0853058e3a7be48024d5e6fb2a809ca7cba1bd844db82ced7406ae30f3bcebc4",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.256/Setup_LEAL_INFO_PDV_V10_256_FINAL.exe",
-  "Message": "V10.256: fecha janelas sobrepostas uma por vez, da frente para tras, com confirmacao falada.",
-  "Version": "10.256",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.256/LEAL_INFO_PDV_V10_256_UPDATE.zip",
-  "Mandatory": false
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.257/LEAL_INFO_PDV_V10_257_UPDATE.zip",
+  "Version": "10.257",
+  "Message": "V10.257: estabiliza a voz da LIA em 1x com audio PCM 24 kHz e buffer de latencia de 300 ms.",
+  "Sha256": "b4be47b0538bcc441ad443ca9b225f41aacd1f25a78473f3652d643849ca577a",
+  "Notes": "V10.257: estabiliza a voz da LIA em 1x com audio PCM 24 kHz e buffer de latencia de 300 ms.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.257/Setup_LEAL_INFO_PDV_V10_257_FINAL.exe"
 }
