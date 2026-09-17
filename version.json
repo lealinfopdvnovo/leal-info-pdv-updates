@@ -1,9 +1,9 @@
 {
-  "Message": "V10.260: acabamento premium de vidro, neon e cromo aplicado exclusivamente a tela de login; caracteres corrigidos e demais funcoes preservadas.",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.260/Setup_LEAL_INFO_PDV_V10_260_FINAL.exe",
-  "Sha256": "9a50cf4d5db73246de04cdbd60253536082601fabd5ba8b72a7cd6076c7122b8",
-  "Version": "10.260",
-  "Notes": "V10.260: acabamento premium de vidro, neon e cromo aplicado exclusivamente a tela de login; caracteres corrigidos e demais funcoes preservadas.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.260/LEAL_INFO_PDV_V10_260_UPDATE.zip"
+  "Version": "10.261",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.261/LEAL_INFO_PDV_V10_261_UPDATE.zip",
+  "Sha256": "f46faeb705301aecef5973211556048a2364caf9948f40c4220d1d935544dfe4",
+  "Message": "V10.261: refatoracao visual profunda e exclusiva da tela de login com vidro, neon, cromo 3D, cantos arredondados e inputs minimalistas; logica funcional preservada.",
+  "Notes": "V10.261: refatoracao visual profunda e exclusiva da tela de login com vidro, neon, cromo 3D, cantos arredondados e inputs minimalistas; logica funcional preservada.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.261/Setup_LEAL_INFO_PDV_V10_261_FINAL.exe"
 }
