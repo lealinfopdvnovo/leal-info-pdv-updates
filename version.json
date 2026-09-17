@@ -1,9 +1,9 @@
 {
+  "Notes": "V10.258: reativa automaticamente a saida de audio da LIA antes de cada bloco de voz.",
+  "Message": "V10.258: reativa automaticamente a saida de audio da LIA antes de cada bloco de voz.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.258/Setup_LEAL_INFO_PDV_V10_258_FINAL.exe",
+  "Sha256": "f0a46afb1bda7a13d22d875539158b119586014deec2aaa3d1a4362a0f586723",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.257/LEAL_INFO_PDV_V10_257_UPDATE.zip",
-  "Version": "10.257",
-  "Message": "V10.257: estabiliza a voz da LIA em 1x com audio PCM 24 kHz e buffer de latencia de 300 ms.",
-  "Sha256": "b4be47b0538bcc441ad443ca9b225f41aacd1f25a78473f3652d643849ca577a",
-  "Notes": "V10.257: estabiliza a voz da LIA em 1x com audio PCM 24 kHz e buffer de latencia de 300 ms.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.257/Setup_LEAL_INFO_PDV_V10_257_FINAL.exe"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.258/LEAL_INFO_PDV_V10_258_UPDATE.zip",
+  "Version": "10.258"
 }
