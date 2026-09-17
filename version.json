@@ -1,9 +1,8 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.265/LEAL_INFO_PDV_V10_265_UPDATE.zip",
-  "Notes": "V10.265: login 900x500 centralizado explicitamente no monitor; atualizador seguro via GitHub Latest Release.",
-  "Message": "V10.265: login 900x500 centralizado explicitamente no monitor; atualizador seguro via GitHub Latest Release.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.265/Setup_LEAL_INFO_PDV_V10_265_FINAL.exe",
-  "Sha256": "e7f0b01e1d536aad88b590a4f75f122d88d6c829a8b71fbd50b171466a4c31cf",
-  "Version": "10.265",
-  "Mandatory": false
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.267/Setup_LEAL_INFO_PDV_V10_267_FINAL.exe",
+  "Notes": "V10.267: somente centralizacao nativa da janela de login; demais funcoes preservadas.",
+  "Version": "10.267",
+  "Sha256": "cf718fde12b769c1037d98aa2249d5c642eb6bd5394d18d8567a95e881da7214",
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.267/LEAL_INFO_PDV_V10_267_UPDATE.zip"
 }
