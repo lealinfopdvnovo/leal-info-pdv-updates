@@ -1,9 +1,9 @@
 {
-  "Message": "V10.253: corrige somente a falha da protecao legada da LIA; mantem integralmente a fila FIFO de audio V10.252, velocidade 1x, personalidade, modelo, reconhecimento e comandos.",
-  "Notes": "V10.253: corrige somente a falha da protecao legada da LIA; mantem integralmente a fila FIFO de audio V10.252, velocidade 1x, personalidade, modelo, reconhecimento e comandos.",
-  "Sha256": "8e1dac508757e5941e0f72a08797746186d60c8a1b4b9667d2985b61577922ec",
-  "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.253/LEAL_INFO_PDV_V10_253_UPDATE.zip",
-  "Version": "10.253",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.253/Setup_LEAL_INFO_PDV_V10_253_FINAL.exe"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.249/Setup_LEAL_INFO_PDV_V10_249_FINAL.exe",
+  "Version": "10.249",
+  "Notes": "V10.249: corrige a protecao antieco da LIA e impede janelas de erro repetidas.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.249/LEAL_INFO_PDV_V10_249_UPDATE.zip",
+  "Sha256": "05b934e4d54bbc865822775491e2dc4a8353f953cbbb33f0b6e4cc462f922f8f",
+  "Message": "V10.249: corrige a protecao antieco da LIA e impede janelas de erro repetidas.",
+  "Mandatory": false
 }
