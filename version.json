@@ -1,9 +1,9 @@
 {
-  "Notes": "V10.258: reativa automaticamente a saida de audio da LIA antes de cada bloco de voz.",
-  "Message": "V10.258: reativa automaticamente a saida de audio da LIA antes de cada bloco de voz.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.258/Setup_LEAL_INFO_PDV_V10_258_FINAL.exe",
-  "Sha256": "f0a46afb1bda7a13d22d875539158b119586014deec2aaa3d1a4362a0f586723",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.258/LEAL_INFO_PDV_V10_258_UPDATE.zip",
-  "Version": "10.258"
+  "Message": "V10.259: novo visual futurista aplicado exclusivamente a tela de login; demais funcoes, PDV e LIA permanecem preservados.",
+  "Notes": "V10.259: novo visual futurista aplicado exclusivamente a tela de login; demais funcoes, PDV e LIA permanecem preservados.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.259/Setup_LEAL_INFO_PDV_V10_259_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.259/LEAL_INFO_PDV_V10_259_UPDATE.zip",
+  "Sha256": "21339769dd551524fde3d76bee8d41c88bd34c7b237f9b359c0beeb10efa1a50",
+  "Version": "10.259"
 }
