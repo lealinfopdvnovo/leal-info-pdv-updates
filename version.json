@@ -1,9 +1,9 @@
 {
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.261/Setup_LEAL_INFO_PDV_V10_261_FINAL.exe",
   "Mandatory": false,
   "Version": "10.261",
+  "Sha256": "0d8e18a0927d501115f1f5f8162985d935f319ee5adfb7b92237f859f95d622a",
   "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.261/LEAL_INFO_PDV_V10_261_UPDATE.zip",
-  "Sha256": "f46faeb705301aecef5973211556048a2364caf9948f40c4220d1d935544dfe4",
-  "Message": "V10.261: refatoracao visual profunda e exclusiva da tela de login com vidro, neon, cromo 3D, cantos arredondados e inputs minimalistas; logica funcional preservada.",
   "Notes": "V10.261: refatoracao visual profunda e exclusiva da tela de login com vidro, neon, cromo 3D, cantos arredondados e inputs minimalistas; logica funcional preservada.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.261/Setup_LEAL_INFO_PDV_V10_261_FINAL.exe"
+  "Message": "V10.261: refatoracao visual profunda e exclusiva da tela de login com vidro, neon, cromo 3D, cantos arredondados e inputs minimalistas; logica funcional preservada."
 }
