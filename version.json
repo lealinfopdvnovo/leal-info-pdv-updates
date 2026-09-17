@@ -1,9 +1,9 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.249/Setup_LEAL_INFO_PDV_V10_249_FINAL.exe",
-  "Version": "10.249",
-  "Notes": "V10.249: corrige a protecao antieco da LIA e impede janelas de erro repetidas.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.249/LEAL_INFO_PDV_V10_249_UPDATE.zip",
-  "Sha256": "05b934e4d54bbc865822775491e2dc4a8353f953cbbb33f0b6e4cc462f922f8f",
-  "Message": "V10.249: corrige a protecao antieco da LIA e impede janelas de erro repetidas.",
-  "Mandatory": false
+  "Version": "10.254",
+  "Mandatory": false,
+  "Notes": "V10.254: corrige definitivamente a protecao antieco da LIA, impede janelas repetidas e preserva a fila de audio em velocidade natural.",
+  "Message": "V10.254: corrige definitivamente a protecao antieco da LIA, impede janelas repetidas e preserva a fila de audio em velocidade natural.",
+  "Sha256": "2ecb159cca0caf738ce8683fa139b6bb14ba3531ef020a2adf55db3c83ce2f9a",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.254/LEAL_INFO_PDV_V10_254_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.254/Setup_LEAL_INFO_PDV_V10_254_FINAL.exe"
 }
