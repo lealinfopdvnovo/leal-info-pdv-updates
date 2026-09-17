@@ -1,9 +1,9 @@
 {
+  "Message": "V10.251: republica a correcao de continuidade da voz da LIA para garantir entrega pelo atualizador; demais funcoes preservadas.",
+  "Version": "10.251",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.251/LEAL_INFO_PDV_V10_251_UPDATE.zip",
+  "Sha256": "9a629836746b7723019d170ef121282244e62b5e120d07e67d4b090e504c8632",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.250/LEAL_INFO_PDV_V10_250_UPDATE.zip",
-  "Version": "10.250",
-  "Message": "V10.250: adiciona tolerancia de 1,8 s entre chunks da voz da LIA para eliminar soluços, mantendo ritmo 1x e demais funcoes preservadas.",
-  "Notes": "V10.250: adiciona tolerancia de 1,8 s entre chunks da voz da LIA para eliminar soluços, mantendo ritmo 1x e demais funcoes preservadas.",
-  "Sha256": "8f7fff146e8e93f6e68869f1d7aec83050a52d971acb35864e2143022c305bf7",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.250/Setup_LEAL_INFO_PDV_V10_250_FINAL.exe"
+  "Notes": "V10.251: republica a correcao de continuidade da voz da LIA para garantir entrega pelo atualizador; demais funcoes preservadas.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.251/Setup_LEAL_INFO_PDV_V10_251_FINAL.exe"
 }
