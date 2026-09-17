@@ -1,9 +1,9 @@
 {
-  "Sha256": "8ca336c1e34b4d18e98707b1ecf8d042c24c7153e609eb3cb3005abe1c8d522c",
-  "Notes": "V10.263: login flutuante 900x500 com acabamento GDI+ futurista, cantos arredondados, neon, botoes customizados e textos corrigidos; autenticacao preservada.",
-  "Version": "10.263",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.263/LEAL_INFO_PDV_V10_263_UPDATE.zip",
   "Message": "V10.263: login flutuante 900x500 com acabamento GDI+ futurista, cantos arredondados, neon, botoes customizados e textos corrigidos; autenticacao preservada.",
+  "Sha256": "bca5f6a84660d36291eb9b71f4e47ec26c6345f67f68f0dd63a89dcfc036bb2e",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.263/Setup_LEAL_INFO_PDV_V10_263_FINAL.exe"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.263/LEAL_INFO_PDV_V10_263_UPDATE.zip",
+  "Notes": "V10.263: login flutuante 900x500 com acabamento GDI+ futurista, cantos arredondados, neon, botoes customizados e textos corrigidos; autenticacao preservada.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.263/Setup_LEAL_INFO_PDV_V10_263_FINAL.exe",
+  "Version": "10.263"
 }
