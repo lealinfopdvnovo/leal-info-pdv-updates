@@ -1,8 +1,8 @@
 {
-  "Version": "10.280",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.280/LEAL_INFO_PDV_V10_280_UPDATE.zip",
+  "Notes": "V10.281: adiciona perfis PATRÃO, GERENTE, FUNCIONÁRIO e CAIXA com controle de acesso; mantém correções anteriores.",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.280/Setup_LEAL_INFO_PDV_V10_280_FINAL.exe",
-  "Notes": "V10.280: corrige travamento ao verificar atualizacoes e corrige permissao da chave local; demais funcoes preservadas.",
-  "Sha256": "1ade3dbe8e8355dbe8f895b3cd0d38890395f924e929a48c63b37b41f22475b0"
+  "Version": "10.281",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.281/Setup_LEAL_INFO_PDV_V10_281_FINAL.exe",
+  "Sha256": "79ef5e0112fe807c5a62042d9d9c462e831fa98106b30f93dadcceef94c15857",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.281/LEAL_INFO_PDV_V10_281_UPDATE.zip"
 }
