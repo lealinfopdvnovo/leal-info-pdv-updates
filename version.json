@@ -1,8 +1,8 @@
 {
-  "Version": "10.284",
-  "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.284/Setup_LEAL_INFO_PDV_V10_284_FINAL.exe",
-  "Notes": "V10.284: corrige o atualizador para encerrar PDV e LIA antes de aplicar o pacote; mantém modo offline e correções anteriores.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.284/LEAL_INFO_PDV_V10_284_UPDATE.zip",
-  "Sha256": "39f4296d498d36572dfe06fa1fe9757f0181359fa485427af4c83801c528f6df"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.285/Setup_LEAL_INFO_PDV_V10_285_FINAL.exe",
+  "Notes": "V10.285: integra Gemini 3.5 Flash-Lite como modo basico e conecta COMANDO ao navegador interno do PDV.",
+  "Version": "10.285",
+  "Sha256": "16c0f4ccb564216e790d252efeeee12d1e63d88846b0786999de36573f27c88f",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.285/LEAL_INFO_PDV_V10_285_UPDATE.zip",
+  "Mandatory": false
 }
