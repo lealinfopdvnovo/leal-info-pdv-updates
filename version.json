@@ -1,8 +1,8 @@
 {
-  "Sha256": "996d882bd309ab6ab7d7910c07e89d6ff266c5dc736f857848e54f3310fad081",
-  "Notes": "V10.282: força encerramento do PDV e LIA antes da instalação para evitar arquivos bloqueados; mantém perfis e correções anteriores.",
-  "Version": "10.282",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.282/LEAL_INFO_PDV_V10_282_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.282/Setup_LEAL_INFO_PDV_V10_282_FINAL.exe",
-  "Mandatory": false
+  "Version": "10.283",
+  "Notes": "V10.283: adiciona modo offline gratuito da LIA para comandos locais quando a API estiver sem créditos; mantém correções anteriores.",
+  "Sha256": "5ade5e2467cbe21037270b73f0ee874e7db697dbca4228c67d066302881e6f84",
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.283/LEAL_INFO_PDV_V10_283_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.283/Setup_LEAL_INFO_PDV_V10_283_FINAL.exe"
 }
