@@ -1,8 +1,8 @@
 {
-  "Version": "10.283",
-  "Notes": "V10.283: adiciona modo offline gratuito da LIA para comandos locais quando a API estiver sem créditos; mantém correções anteriores.",
-  "Sha256": "5ade5e2467cbe21037270b73f0ee874e7db697dbca4228c67d066302881e6f84",
+  "Version": "10.284",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.283/LEAL_INFO_PDV_V10_283_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.283/Setup_LEAL_INFO_PDV_V10_283_FINAL.exe"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.284/Setup_LEAL_INFO_PDV_V10_284_FINAL.exe",
+  "Notes": "V10.284: corrige o atualizador para encerrar PDV e LIA antes de aplicar o pacote; mantém modo offline e correções anteriores.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.284/LEAL_INFO_PDV_V10_284_UPDATE.zip",
+  "Sha256": "39f4296d498d36572dfe06fa1fe9757f0181359fa485427af4c83801c528f6df"
 }
