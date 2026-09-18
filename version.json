@@ -1,8 +1,8 @@
 {
-  "Version": "10.270",
-  "Notes": "V10.270: somente centralizacao nativa da janela de login; demais funcoes preservadas.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.270/LEAL_INFO_PDV_V10_270_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.270/Setup_LEAL_INFO_PDV_V10_270_FINAL.exe",
   "Mandatory": false,
-  "Sha256": "96142224f6faffb0691160c00811a7e636c7e4c372ed7670a74b2d8a57ee5041"
+  "Sha256": "2b84f639e4f1809dd738506d58e6e492441113b63262ed3ca482d942a937e963",
+  "Notes": "V10.271: somente centralizacao nativa da janela de login; demais funcoes preservadas.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.271/Setup_LEAL_INFO_PDV_V10_271_FINAL.exe",
+  "Version": "10.271",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.271/LEAL_INFO_PDV_V10_271_UPDATE.zip"
 }
