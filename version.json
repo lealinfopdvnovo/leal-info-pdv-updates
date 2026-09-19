@@ -1,8 +1,8 @@
 {
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.294/LEAL_INFO_PDV_V10_294_UPDATE.zip",
-  "Notes": "V10.294: adiciona diagnóstico técnico do pipeline de voz da LIA.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.294/Setup_LEAL_INFO_PDV_V10_294_FINAL.exe",
-  "Version": "10.294",
-  "Sha256": "3e8aeaa09b105b99808b7b546889e6d2c5bf26550634caba3b93ea477d747279"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.295/LEAL_INFO_PDV_V10_295_UPDATE.zip",
+  "Version": "10.295",
+  "Notes": "V10.295: adiciona infraestrutura de pagamento PIX dinâmico com confirmação automática.",
+  "Sha256": "21b8edeed65d1d8923502d2193546d673ef67b7419d8b1ecb267d870374c9f55",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.295/Setup_LEAL_INFO_PDV_V10_295_FINAL.exe"
 }
