@@ -1,8 +1,8 @@
 {
+  "Version": "10.297",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.297/LEAL_INFO_PDV_V10_297_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.297/Setup_LEAL_INFO_PDV_V10_297_FINAL.exe",
   "Mandatory": false,
-  "Sha256": "169028b8117d0ca2496c9946c43590b5f48a830d78acf2ee34d408f4a2e7a2dd",
-  "Notes": "V10.296: adiciona F10 Venda Avulsa e sincroniza o auto-update do PDV.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.296/Setup_LEAL_INFO_PDV_V10_296_FINAL.exe",
-  "Version": "10.296",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.296/LEAL_INFO_PDV_V10_296_UPDATE.zip"
+  "Notes": "V10.297: adiciona F10 Venda Avulsa e sincroniza o auto-update do PDV.",
+  "Sha256": "9d132f47f1d83c16c15274acd9107a4d293ed5818a1cbb42c478064b6199e9c8"
 }
