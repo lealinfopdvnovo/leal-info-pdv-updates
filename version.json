@@ -1,8 +1,8 @@
 {
-  "Sha256": "121aa9c4959bca27db63934b77ed4d9189e4c6d776c54bf5e0d0950d3dc3d841",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.287/Setup_LEAL_INFO_PDV_V10_287_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.288/LEAL_INFO_PDV_V10_288_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.288/Setup_LEAL_INFO_PDV_V10_288_FINAL.exe",
+  "Sha256": "e08baa5ed285c944fa5b057c53ddfab7201f9dea7b4a9572f47bfa52334f9869",
+  "Notes": "V10.288: adiciona diagnóstico técnico do pipeline de voz da LIA.",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.287/LEAL_INFO_PDV_V10_287_UPDATE.zip",
-  "Version": "10.287",
-  "Notes": "V10.287: corrige esfera azul travada e ativa reconhecimento local de voz no modo Gemini."
+  "Version": "10.288"
 }
