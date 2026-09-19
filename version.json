@@ -1,8 +1,8 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.295/LEAL_INFO_PDV_V10_295_UPDATE.zip",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.295/Setup_LEAL_INFO_PDV_V10_295_FINAL.exe",
-  "Version": "10.295",
-  "Notes": "V10.295: adiciona infraestrutura de pagamento PIX dinâmico com confirmação automática.",
-  "Sha256": "aa0fe99c7a8274c7f90005157f78cf49489dd2cb25da9ee006343312fc6ba812"
+  "Sha256": "169028b8117d0ca2496c9946c43590b5f48a830d78acf2ee34d408f4a2e7a2dd",
+  "Notes": "V10.296: adiciona F10 Venda Avulsa e sincroniza o auto-update do PDV.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.296/Setup_LEAL_INFO_PDV_V10_296_FINAL.exe",
+  "Version": "10.296",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.296/LEAL_INFO_PDV_V10_296_UPDATE.zip"
 }
