@@ -1,8 +1,8 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.291/LEAL_INFO_PDV_V10_291_UPDATE.zip",
-  "Notes": "V10.291: adiciona diagnóstico técnico do pipeline de voz da LIA.",
-  "Sha256": "e034a25e08580e8fadda137b97e3425c0f36a417e237a475247e5b9a7a787f38",
-  "Version": "10.291",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.291/Setup_LEAL_INFO_PDV_V10_291_FINAL.exe",
-  "Mandatory": false
+  "Version": "10.292",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.292/Setup_LEAL_INFO_PDV_V10_292_FINAL.exe",
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.292/LEAL_INFO_PDV_V10_292_UPDATE.zip",
+  "Notes": "V10.292: adiciona diagnóstico técnico do pipeline de voz da LIA.",
+  "Sha256": "d464d253b9d2276777b3596641857a7b9b57d1051894016b423d5525a5d014e8"
 }
