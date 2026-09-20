@@ -1,8 +1,8 @@
 {
+  "Notes": "V10.299: PIX simples por chave, QR Code e confirmação manual; Mercado Pago automático opcional.",
+  "Version": "10.299",
   "Mandatory": false,
-  "Notes": "V10.298: Configuração PIX completa com chave, Asaas, teste de conexão e indicador verde.",
-  "Sha256": "3879e65e84e5fcfacc9dd783962af72f225eb0e63ce9dd2e345ae536dc2656aa",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.298/LEAL_INFO_PDV_V10_298_UPDATE.zip",
-  "Version": "10.298",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.298/Setup_LEAL_INFO_PDV_V10_298_FINAL.exe"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.299/Setup_LEAL_INFO_PDV_V10_299_FINAL.exe",
+  "Sha256": "dee826f59dcc7ac8cf7e0dd283c0b93034fe786e9444e61491b75519cbc8deba",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.299/LEAL_INFO_PDV_V10_299_UPDATE.zip"
 }
