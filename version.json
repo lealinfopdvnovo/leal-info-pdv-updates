@@ -1,8 +1,8 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.300/LEAL_INFO_PDV_V10_300_UPDATE.zip",
-  "Version": "10.300",
-  "Notes": "V10.300: F2 PIX com botão Gerar QR Code, PIX por chave e Mercado Pago automático opcional.",
-  "Mandatory": false,
-  "Sha256": "57e8eeffe00646de73e248ecdb79d8303c5ee2c5cb63023b639f651932c135b7",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.300/Setup_LEAL_INFO_PDV_V10_300_FINAL.exe"
+  "Version": "10.301",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.301/LEAL_INFO_PDV_V10_301_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.301/Setup_LEAL_INFO_PDV_V10_301_FINAL.exe",
+  "Sha256": "69e7c504dbb8cc9c83fab9ebeb4cdae6230209c79fd1afa81baab612ea861256",
+  "Notes": "V10.301: balão pós-login com mensagem de boas-vindas, fechamento automático em 5 segundos.",
+  "Mandatory": false
 }
