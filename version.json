@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.302/Setup_LEAL_INFO_PDV_V10_302_FINAL.exe",
-  "Version": "10.302",
+  "Sha256": "4c62c646ff4d94b718fb39b20736a6134e37ada04edbffdc6bddc91b37125398",
+  "Notes": "V10.303: fade holografico corrigido, tamanho fixo e sem zoom/piscadas; permanece 5 segundos.",
   "Mandatory": false,
-  "Notes": "V10.302: boas-vindas holografica premium, vidro/neon e animacao suave; fechamento automatico em 5 segundos.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.302/LEAL_INFO_PDV_V10_302_UPDATE.zip",
-  "Sha256": "9c6bb7d03465a3582e9c1ae7c0fdb45b7854e19ea7c0a9a959d6be61201b23d3"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.303/Setup_LEAL_INFO_PDV_V10_303_FINAL.exe",
+  "Version": "10.303",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.303/LEAL_INFO_PDV_V10_303_UPDATE.zip"
 }
