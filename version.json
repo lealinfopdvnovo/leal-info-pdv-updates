@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.307/Setup_LEAL_INFO_PDV_V10_307_FINAL.exe",
-  "Sha256": "4a0b26361bc556b727645001dd0f38e0d47e410f56e3a57a7dae8e6a41029342",
-  "Notes": "V10.307: Azul Texturizado reposicionado para a terceira linha, ao lado do PDV Rosa.",
+  "Sha256": "7603fa945b7afe71702f803cc0d5297c43c6d32dee6128016ea461cba991c266",
   "Mandatory": false,
-  "Version": "10.307",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.307/LEAL_INFO_PDV_V10_307_UPDATE.zip"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.308/LEAL_INFO_PDV_V10_308_UPDATE.zip",
+  "Notes": "V10.308: LIA Realtime com inicio de voz mais rapido e streaming PCM16 preservado.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.308/Setup_LEAL_INFO_PDV_V10_308_FINAL.exe",
+  "Version": "10.308"
 }
