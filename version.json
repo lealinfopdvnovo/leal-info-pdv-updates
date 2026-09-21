@@ -1,8 +1,8 @@
 {
-  "Sha256": "78be898c290992c247aa0cde2c8d55682a32f11e4737e247e41957eae91d439f",
-  "Version": "10.309",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.309/Setup_LEAL_INFO_PDV_V10_309_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.309/LEAL_INFO_PDV_V10_309_UPDATE.zip",
+  "Sha256": "27e7e6ffa2d7c9b16e219a0172f98326252737b63847424c075292f78c0be461",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.310/Setup_LEAL_INFO_PDV_V10_310_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.310/LEAL_INFO_PDV_V10_310_UPDATE.zip",
+  "Version": "10.310",
   "Mandatory": false,
-  "Notes": "V10.309: corrige a finalizacao de venda avulsa e servico sem falha de chave estrangeira."
+  "Notes": "V10.310: restaura a opcao Azul Texturizado na tela Estilo do PDV."
 }
