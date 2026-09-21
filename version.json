@@ -1,8 +1,8 @@
 {
-  "Version": "10.306",
-  "Notes": "V10.306: tema Azul Texturizado adicionado na aba Estilo. O fundo fica atras dos elementos e preserva botoes, icones, textos e operacao da tela.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.306/Setup_LEAL_INFO_PDV_V10_306_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.306/LEAL_INFO_PDV_V10_306_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.307/Setup_LEAL_INFO_PDV_V10_307_FINAL.exe",
+  "Sha256": "4a0b26361bc556b727645001dd0f38e0d47e410f56e3a57a7dae8e6a41029342",
+  "Notes": "V10.307: Azul Texturizado reposicionado para a terceira linha, ao lado do PDV Rosa.",
   "Mandatory": false,
-  "Sha256": "7cb1976bcede9afc3aa1a7e8e7b3cde7cbf76dea162aa9f401d8a36707c8c821"
+  "Version": "10.307",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.307/LEAL_INFO_PDV_V10_307_UPDATE.zip"
 }
