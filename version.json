@@ -1,8 +1,8 @@
 {
+  "Notes": "V10.306: tema Azul Texturizado adicionado na aba Estilo. O fundo fica atras dos elementos e preserva botoes, icones, textos e operacao da tela.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.306/Setup_LEAL_INFO_PDV_V10_306_FINAL.exe",
+  "Version": "10.306",
   "Mandatory": false,
-  "Sha256": "e3e738702170597733c42d532c20fc124a390cb746e0e769bc7c586dd18e282f",
-  "Version": "10.305",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.305/LEAL_INFO_PDV_V10_305_UPDATE.zip",
-  "Notes": "V10.305: PRODUTOS com fundo laranja e TELA DE VENDAS com fundo vermelho. Icones, textos, bordas e demais botoes preservados.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.305/Setup_LEAL_INFO_PDV_V10_305_FINAL.exe"
+  "Sha256": "71ac38e0797348930a750d737e91d75f8a55b11c7b1babcad6ff791b2c513599",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.306/LEAL_INFO_PDV_V10_306_UPDATE.zip"
 }
