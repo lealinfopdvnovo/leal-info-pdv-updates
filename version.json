@@ -1,8 +1,8 @@
 {
-  "Sha256": "4c62c646ff4d94b718fb39b20736a6134e37ada04edbffdc6bddc91b37125398",
-  "Notes": "V10.303: fade holografico corrigido, tamanho fixo e sem zoom/piscadas; permanece 5 segundos.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.305/LEAL_INFO_PDV_V10_305_UPDATE.zip",
+  "Version": "10.305",
+  "Sha256": "79e43e5dcadb66f90fba11c2f555b6bbb028b24a20ee687b3139f5ddd3f5a1de",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.305/Setup_LEAL_INFO_PDV_V10_305_FINAL.exe",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.303/Setup_LEAL_INFO_PDV_V10_303_FINAL.exe",
-  "Version": "10.303",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.303/LEAL_INFO_PDV_V10_303_UPDATE.zip"
+  "Notes": "V10.305: PRODUTOS com fundo laranja e TELA DE VENDAS com fundo vermelho. Icones, textos, bordas e demais botoes preservados."
 }
