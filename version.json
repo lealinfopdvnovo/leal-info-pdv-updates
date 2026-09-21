@@ -1,8 +1,8 @@
 {
-  "Sha256": "7603fa945b7afe71702f803cc0d5297c43c6d32dee6128016ea461cba991c266",
+  "Sha256": "78be898c290992c247aa0cde2c8d55682a32f11e4737e247e41957eae91d439f",
+  "Version": "10.309",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.309/Setup_LEAL_INFO_PDV_V10_309_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.309/LEAL_INFO_PDV_V10_309_UPDATE.zip",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.308/LEAL_INFO_PDV_V10_308_UPDATE.zip",
-  "Notes": "V10.308: LIA Realtime com inicio de voz mais rapido e streaming PCM16 preservado.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.308/Setup_LEAL_INFO_PDV_V10_308_FINAL.exe",
-  "Version": "10.308"
+  "Notes": "V10.309: corrige a finalizacao de venda avulsa e servico sem falha de chave estrangeira."
 }
