@@ -1,8 +1,8 @@
 {
-  "Sha256": "713cc44d45bd307a11ae64230005deb925e6706824454ee8f93bebc7735427f0",
-  "Version": "10.312",
-  "Notes": "V10.312: novo Cadastro de Produtos completo, integrado ao estoque e com visual LEAL INFO.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.313/Setup_LEAL_INFO_PDV_V10_313_FINAL.exe",
+  "Sha256": "55523190a4f59f3625f51c3367dc5126cc326298f4a12d0bcee53f14fc5b0922",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.312/LEAL_INFO_PDV_V10_312_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.312/Setup_LEAL_INFO_PDV_V10_312_FINAL.exe"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.313/LEAL_INFO_PDV_V10_313_UPDATE.zip",
+  "Version": "10.313",
+  "Notes": "V10.313: adiciona botoes + e cadastros manuais de Marca, Categoria, Grupo e Subgrupo."
 }
