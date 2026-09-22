@@ -1,8 +1,8 @@
 {
-  "Sha256": "23006e4effff95c5c01db8e2bd08f9293e8305465a32cef9b56d99628162ef9a",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.314/Setup_LEAL_INFO_PDV_V10_314_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.314/LEAL_INFO_PDV_V10_314_UPDATE.zip",
+  "Sha256": "ae2bad8ce5eed7485117f35bf4394afbaae084a8645e5f9549bd049b47eb7383",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.315/Setup_LEAL_INFO_PDV_V10_315_FINAL.exe",
+  "Notes": "V10.315: Central de Equipamentos compacta, centralizada e com visual mais profissional.",
   "Mandatory": false,
-  "Notes": "V10.314: Central de Equipamentos com impressora termica, bobinas, teste de impressao, perfis de balanca e tutorial de instalacao.",
-  "Version": "10.314"
+  "Version": "10.315",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.315/LEAL_INFO_PDV_V10_315_UPDATE.zip"
 }
