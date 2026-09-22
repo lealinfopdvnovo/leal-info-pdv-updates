@@ -1,8 +1,8 @@
 {
-  "Sha256": "ae2bad8ce5eed7485117f35bf4394afbaae084a8645e5f9549bd049b47eb7383",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.315/Setup_LEAL_INFO_PDV_V10_315_FINAL.exe",
-  "Notes": "V10.315: Central de Equipamentos compacta, centralizada e com visual mais profissional.",
+  "Sha256": "16d5ccd72e291330d1393e1d3c52d02f68ec69aaa29a61a2c62cd419fbbe6c74",
   "Mandatory": false,
-  "Version": "10.315",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.315/LEAL_INFO_PDV_V10_315_UPDATE.zip"
+  "Version": "10.316",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.316/Setup_LEAL_INFO_PDV_V10_316_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.316/LEAL_INFO_PDV_V10_316_UPDATE.zip",
+  "Notes": "V10.316: escolha automatica da impressora quando houver duas ou mais instaladas."
 }
