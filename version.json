@@ -1,8 +1,8 @@
 {
-  "Sha256": "8bea20984d85140a15cfe2bf14e5dbb39307ff5cf49765c736b6d2a7792f8d74",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.321/LEAL_INFO_PDV_V10_321_UPDATE.zip",
-  "Notes": "V10.321: LIA volta a ouvir pelo microfone e responder com voz natural, sem exigir digitacao e sem usar a voz Maria.",
-  "Version": "10.321",
-  "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.321/Setup_LEAL_INFO_PDV_V10_321_FINAL.exe"
+  "Notes": "V10.322: corrige a janela oculta e mostra a configuracao da chave da LIA na frente do PDV.",
+  "Version": "10.322",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.322/Setup_LEAL_INFO_PDV_V10_322_FINAL.exe",
+  "Sha256": "1212e9df85068ebf60cf18bb4fbaaa7e887b85ba3556eee0a0d39c020aa66683",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.322/LEAL_INFO_PDV_V10_322_UPDATE.zip",
+  "Mandatory": false
 }
