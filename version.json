@@ -1,8 +1,8 @@
 {
+  "Sha256": "713cc44d45bd307a11ae64230005deb925e6706824454ee8f93bebc7735427f0",
+  "Version": "10.312",
+  "Notes": "V10.312: novo Cadastro de Produtos completo, integrado ao estoque e com visual LEAL INFO.",
   "Mandatory": false,
-  "Version": "10.311",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.311/Setup_LEAL_INFO_PDV_V10_311_FINAL.exe",
-  "Notes": "V10.311: restaura a esfera da LIA na tela principal e preserva o estilo Azul Texturizado.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.311/LEAL_INFO_PDV_V10_311_UPDATE.zip",
-  "Sha256": "64c381246d1f3f225144347fb762730de45d11b0845579ab97ce46bd0baaaeb6"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.312/LEAL_INFO_PDV_V10_312_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.312/Setup_LEAL_INFO_PDV_V10_312_FINAL.exe"
 }
