@@ -1,8 +1,8 @@
 {
-  "Sha256": "27e7e6ffa2d7c9b16e219a0172f98326252737b63847424c075292f78c0be461",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.310/Setup_LEAL_INFO_PDV_V10_310_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.310/LEAL_INFO_PDV_V10_310_UPDATE.zip",
-  "Version": "10.310",
   "Mandatory": false,
-  "Notes": "V10.310: restaura a opcao Azul Texturizado na tela Estilo do PDV."
+  "Version": "10.311",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.311/Setup_LEAL_INFO_PDV_V10_311_FINAL.exe",
+  "Notes": "V10.311: restaura a esfera da LIA na tela principal e preserva o estilo Azul Texturizado.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.311/LEAL_INFO_PDV_V10_311_UPDATE.zip",
+  "Sha256": "64c381246d1f3f225144347fb762730de45d11b0845579ab97ce46bd0baaaeb6"
 }
