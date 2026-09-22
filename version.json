@@ -1,8 +1,8 @@
 {
-  "Sha256": "16d5ccd72e291330d1393e1d3c52d02f68ec69aaa29a61a2c62cd419fbbe6c74",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.317/Setup_LEAL_INFO_PDV_V10_317_FINAL.exe",
   "Mandatory": false,
-  "Version": "10.316",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.316/Setup_LEAL_INFO_PDV_V10_316_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.316/LEAL_INFO_PDV_V10_316_UPDATE.zip",
-  "Notes": "V10.316: escolha automatica da impressora quando houver duas ou mais instaladas."
+  "Version": "10.317",
+  "Notes": "V10.317: tecla ESC fecha a tela ativa em todo o PDV, desde o login.",
+  "Sha256": "5354851b2d76ac3273d2929b0bf56bdef0a348cee944f44e0c488479cbf226ec",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.317/LEAL_INFO_PDV_V10_317_UPDATE.zip"
 }
