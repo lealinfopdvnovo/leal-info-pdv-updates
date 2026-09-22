@@ -1,8 +1,8 @@
 {
-  "Notes": "V10.322: corrige a janela oculta e mostra a configuracao da chave da LIA na frente do PDV.",
-  "Version": "10.322",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.322/Setup_LEAL_INFO_PDV_V10_322_FINAL.exe",
-  "Sha256": "1212e9df85068ebf60cf18bb4fbaaa7e887b85ba3556eee0a0d39c020aa66683",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.322/LEAL_INFO_PDV_V10_322_UPDATE.zip",
-  "Mandatory": false
+  "Mandatory": false,
+  "Sha256": "aaf17b9ae7f28cbd79372e1760c54f3be98262aa3afb21805f095c2aeda5548a",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.323/LEAL_INFO_PDV_V10_323_UPDATE.zip",
+  "Notes": "V10.323: conversa continua por voz; a LIA volta a ouvir apos cada resposta e encerra pelo comando encerrar voz.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.323/Setup_LEAL_INFO_PDV_V10_323_FINAL.exe",
+  "Version": "10.323"
 }
