@@ -1,8 +1,8 @@
 {
+  "Sha256": "bf41e5c1f19c26afbd60a1f2f6968ddaa847f95949601f9fdd0ad18c52960419",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.324/LEAL_INFO_PDV_V10_324_UPDATE.zip",
   "Mandatory": false,
-  "Sha256": "aaf17b9ae7f28cbd79372e1760c54f3be98262aa3afb21805f095c2aeda5548a",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.323/LEAL_INFO_PDV_V10_323_UPDATE.zip",
-  "Notes": "V10.323: conversa continua por voz; a LIA volta a ouvir apos cada resposta e encerra pelo comando encerrar voz.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.323/Setup_LEAL_INFO_PDV_V10_323_FINAL.exe",
-  "Version": "10.323"
+  "Notes": "V10.324: resposta mais rapida com deteccao de silencio e retomada automatica da conversa por voz.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.324/Setup_LEAL_INFO_PDV_V10_324_FINAL.exe",
+  "Version": "10.324"
 }
