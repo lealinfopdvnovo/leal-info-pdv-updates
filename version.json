@@ -1,8 +1,8 @@
 {
+  "Sha256": "8bea20984d85140a15cfe2bf14e5dbb39307ff5cf49765c736b6d2a7792f8d74",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.321/LEAL_INFO_PDV_V10_321_UPDATE.zip",
+  "Notes": "V10.321: LIA volta a ouvir pelo microfone e responder com voz natural, sem exigir digitacao e sem usar a voz Maria.",
+  "Version": "10.321",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.320/LEAL_INFO_PDV_V10_320_UPDATE.zip",
-  "Sha256": "89e5189a97c89b4f58861bd611698443698a3af0dfe55c68165bb3cccfa80ab7",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.320/Setup_LEAL_INFO_PDV_V10_320_FINAL.exe",
-  "Notes": "V10.320: corrige LIA sem resposta e adiciona modo local funcional sem chave ou internet.",
-  "Version": "10.320"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.321/Setup_LEAL_INFO_PDV_V10_321_FINAL.exe"
 }
