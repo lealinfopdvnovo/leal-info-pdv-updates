@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.317/Setup_LEAL_INFO_PDV_V10_317_FINAL.exe",
-  "Mandatory": false,
-  "Version": "10.317",
-  "Notes": "V10.317: tecla ESC fecha a tela ativa em todo o PDV, desde o login.",
-  "Sha256": "5354851b2d76ac3273d2929b0bf56bdef0a348cee944f44e0c488479cbf226ec",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.317/LEAL_INFO_PDV_V10_317_UPDATE.zip"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.318/Setup_LEAL_INFO_PDV_V10_318_FINAL.exe",
+  "Version": "10.318",
+  "Notes": "V10.318: sistema de carga de produtos para balancas, com PLU, preco, validade, exportacao e envio COM/TCP.",
+  "Sha256": "07f9a2fcffe95a460fc7477f52f646441aee2f5243b8ed8a779d62d37e701cec",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.318/LEAL_INFO_PDV_V10_318_UPDATE.zip",
+  "Mandatory": false
 }
