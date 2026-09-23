@@ -1,8 +1,8 @@
 {
-  "Version": "10.331",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.332/LEAL_INFO_PDV_V10_332_UPDATE.zip",
   "Mandatory": false,
-  "Notes": "V10.331: restaura os destaques laranja em Produtos e vermelho em Tela de Vendas.",
-  "Sha256": "8fe7f97f8fbf17906283430f15a0683f2462947ee925022424bbd083702f6906",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.331/LEAL_INFO_PDV_V10_331_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.331/Setup_LEAL_INFO_PDV_V10_331_FINAL.exe"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.332/Setup_LEAL_INFO_PDV_V10_332_FINAL.exe",
+  "Sha256": "1368d5ad18314ffe920d19138546da8c2cb674ec95813545b83b76f78de67914",
+  "Notes": "V10.332: adiciona restricoes completas por usuario, limite de desconto e bloqueio por modulo.",
+  "Version": "10.332"
 }
