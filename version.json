@@ -1,8 +1,8 @@
 {
-  "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.327/LEAL_INFO_PDV_V10_327_UPDATE.zip",
-  "Notes": "V10.327: acelera a conversa da LIA, melhora o reconhecimento de voz baixa e limita respostas a uma frase.",
-  "Version": "10.327",
-  "Sha256": "cbd35bb8164d155248d5b1255a1af321ef279db2ab384fb7613fb952c95a2d42",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.327/Setup_LEAL_INFO_PDV_V10_327_FINAL.exe"
+  "Sha256": "a69810920dee8ffc5557e9d4b85be16da60d33337de83a599d9b9bac1b9726a8",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.328/Setup_LEAL_INFO_PDV_V10_328_FINAL.exe",
+  "Notes": "V10.328: interpreta pedidos naturais e abre corretamente as diferentes telas do PDV.",
+  "Version": "10.328",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.328/LEAL_INFO_PDV_V10_328_UPDATE.zip",
+  "Mandatory": false
 }
