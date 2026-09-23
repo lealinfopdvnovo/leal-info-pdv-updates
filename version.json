@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.329/Setup_LEAL_INFO_PDV_V10_329_FINAL.exe",
-  "Sha256": "d2b52a5d4b54fcfc596a3930bfbc50283d9cc737fa8a5358e2be1fa77436a4ca",
-  "Notes": "V10.329: integra impressora, balanca, carga e tutorial diretamente na aba Equipamentos.",
+  "Version": "10.330",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.330/LEAL_INFO_PDV_V10_330_UPDATE.zip",
   "Mandatory": false,
-  "Version": "10.329",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.329/LEAL_INFO_PDV_V10_329_UPDATE.zip"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.330/Setup_LEAL_INFO_PDV_V10_330_FINAL.exe",
+  "Sha256": "440396d248c4f096121212f6ecf93c53dea4539baa71fe2f2050b77fc4b373aa",
+  "Notes": "V10.330: adiciona Logout na barra superior para trocar operador sem fechar o PDV."
 }
