@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.333/Setup_LEAL_INFO_PDV_V10_333_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.333/LEAL_INFO_PDV_V10_333_UPDATE.zip",
-  "Sha256": "452c4bcb8904669af29a10486cba8eaa4cf709d7c47c90c9d2864ebfb4b12051",
-  "Version": "10.333",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.334/Setup_LEAL_INFO_PDV_V10_334_FINAL.exe",
+  "Notes": "V10.334: corrige a grade da Central de Motoboy e elimina o erro de conversao de texto para imagem.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.334/LEAL_INFO_PDV_V10_334_UPDATE.zip",
+  "Sha256": "71bb8c348123d422c8faa7497578ae30e92cf071681d6d309268259d8e3deefa",
   "Mandatory": false,
-  "Notes": "V10.333: adiciona central de motoboys, entregas, status, taxas e abertura de rota no Google Maps."
+  "Version": "10.334"
 }
