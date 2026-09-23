@@ -1,8 +1,8 @@
 {
-  "Sha256": "bf41e5c1f19c26afbd60a1f2f6968ddaa847f95949601f9fdd0ad18c52960419",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.324/LEAL_INFO_PDV_V10_324_UPDATE.zip",
   "Mandatory": false,
-  "Notes": "V10.324: resposta mais rapida com deteccao de silencio e retomada automatica da conversa por voz.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.324/Setup_LEAL_INFO_PDV_V10_324_FINAL.exe",
-  "Version": "10.324"
+  "Sha256": "1f3ee648fcc6e9e729c7b65783563f316566c5fb3d167ac8555df710c83906fc",
+  "Notes": "V10.325: corrige o ciclo mostrado no video, aumenta a sensibilidade do microfone e retoma a escuta em 60 ms.",
+  "Version": "10.325",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.325/LEAL_INFO_PDV_V10_325_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.325/Setup_LEAL_INFO_PDV_V10_325_FINAL.exe"
 }
