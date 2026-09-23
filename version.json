@@ -1,8 +1,8 @@
 {
-  "Mandatory": false,
-  "Sha256": "1f3ee648fcc6e9e729c7b65783563f316566c5fb3d167ac8555df710c83906fc",
-  "Notes": "V10.325: corrige o ciclo mostrado no video, aumenta a sensibilidade do microfone e retoma a escuta em 60 ms.",
-  "Version": "10.325",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.325/LEAL_INFO_PDV_V10_325_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.325/Setup_LEAL_INFO_PDV_V10_325_FINAL.exe"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.326/Setup_LEAL_INFO_PDV_V10_325_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.326/LEAL_INFO_PDV_V10_325_UPDATE.zip",
+  "Sha256": "97c3a8ec83a6307d7de50062d6ee02fae1c21377de8a0644077494f3b80fa4ea",
+  "Notes": "V10.326: usa o microfone padrao do Windows e deixa de descartar falas com volume baixo.",
+  "Version": "10.326",
+  "Mandatory": false
 }
