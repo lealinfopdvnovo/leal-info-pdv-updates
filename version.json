@@ -1,8 +1,8 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.332/LEAL_INFO_PDV_V10_332_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.333/Setup_LEAL_INFO_PDV_V10_333_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.333/LEAL_INFO_PDV_V10_333_UPDATE.zip",
+  "Sha256": "452c4bcb8904669af29a10486cba8eaa4cf709d7c47c90c9d2864ebfb4b12051",
+  "Version": "10.333",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.332/Setup_LEAL_INFO_PDV_V10_332_FINAL.exe",
-  "Sha256": "1368d5ad18314ffe920d19138546da8c2cb674ec95813545b83b76f78de67914",
-  "Notes": "V10.332: adiciona restricoes completas por usuario, limite de desconto e bloqueio por modulo.",
-  "Version": "10.332"
+  "Notes": "V10.333: adiciona central de motoboys, entregas, status, taxas e abertura de rota no Google Maps."
 }
