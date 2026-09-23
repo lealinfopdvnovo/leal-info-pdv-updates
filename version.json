@@ -1,8 +1,8 @@
 {
-  "Sha256": "a69810920dee8ffc5557e9d4b85be16da60d33337de83a599d9b9bac1b9726a8",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.328/Setup_LEAL_INFO_PDV_V10_328_FINAL.exe",
-  "Notes": "V10.328: interpreta pedidos naturais e abre corretamente as diferentes telas do PDV.",
-  "Version": "10.328",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.328/LEAL_INFO_PDV_V10_328_UPDATE.zip",
-  "Mandatory": false
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.329/Setup_LEAL_INFO_PDV_V10_329_FINAL.exe",
+  "Sha256": "d2b52a5d4b54fcfc596a3930bfbc50283d9cc737fa8a5358e2be1fa77436a4ca",
+  "Notes": "V10.329: integra impressora, balanca, carga e tutorial diretamente na aba Equipamentos.",
+  "Mandatory": false,
+  "Version": "10.329",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.329/LEAL_INFO_PDV_V10_329_UPDATE.zip"
 }
