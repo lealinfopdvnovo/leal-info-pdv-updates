@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.334/Setup_LEAL_INFO_PDV_V10_334_FINAL.exe",
-  "Notes": "V10.334: corrige a grade da Central de Motoboy e elimina o erro de conversao de texto para imagem.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.334/LEAL_INFO_PDV_V10_334_UPDATE.zip",
-  "Sha256": "71bb8c348123d422c8faa7497578ae30e92cf071681d6d309268259d8e3deefa",
+  "Notes": "V10.335: usa o endereco cadastrado da empresa como origem da rota de entrega.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.335/Setup_LEAL_INFO_PDV_V10_335_FINAL.exe",
   "Mandatory": false,
-  "Version": "10.334"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.335/LEAL_INFO_PDV_V10_335_UPDATE.zip",
+  "Version": "10.335",
+  "Sha256": "77eadb65a4ddb5e5235722360f8ad32d48226b9f51557dd842c06ed4ff916550"
 }
