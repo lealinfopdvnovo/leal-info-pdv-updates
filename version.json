@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.326/Setup_LEAL_INFO_PDV_V10_325_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.326/LEAL_INFO_PDV_V10_325_UPDATE.zip",
-  "Sha256": "97c3a8ec83a6307d7de50062d6ee02fae1c21377de8a0644077494f3b80fa4ea",
-  "Notes": "V10.326: usa o microfone padrao do Windows e deixa de descartar falas com volume baixo.",
-  "Version": "10.326",
-  "Mandatory": false
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.327/LEAL_INFO_PDV_V10_327_UPDATE.zip",
+  "Notes": "V10.327: acelera a conversa da LIA, melhora o reconhecimento de voz baixa e limita respostas a uma frase.",
+  "Version": "10.327",
+  "Sha256": "cbd35bb8164d155248d5b1255a1af321ef279db2ab384fb7613fb952c95a2d42",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.327/Setup_LEAL_INFO_PDV_V10_327_FINAL.exe"
 }
