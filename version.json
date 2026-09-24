@@ -1,8 +1,8 @@
 {
-  "Version": "10.337",
-  "Notes": "V10.337: central de relatorios financeiros com buscas, filtros, indicadores, exportacao e impressao.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.337/Setup_LEAL_INFO_PDV_V10_337_FINAL.exe",
-  "Mandatory": false,
-  "Sha256": "b9497bf68f89b6f7410e6b77a3a51de119feb76a36eed19b4231496fad5de622",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.337/LEAL_INFO_PDV_V10_337_UPDATE.zip"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.338/Setup_LEAL_INFO_PDV_V10_338_FINAL.exe",
+  "Sha256": "a66207943dcff9a382e41812674d0a27860727e882fa2c7a43de416900ae8107",
+  "Notes": "V10.338: corrige o encaixe da tela de relatorios e mantem os botoes de impressao, exportacao e fechar sempre visiveis.",
+  "Version": "10.338",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.338/LEAL_INFO_PDV_V10_338_UPDATE.zip",
+  "Mandatory": false
 }
