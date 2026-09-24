@@ -1,8 +1,8 @@
 {
-  "Notes": "V10.336: fechamento da venda em F4 e acionamento do PIX em F3.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.336/Setup_LEAL_INFO_PDV_V10_336_FINAL.exe",
+  "Version": "10.337",
+  "Notes": "V10.337: central de relatorios financeiros com buscas, filtros, indicadores, exportacao e impressao.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.337/Setup_LEAL_INFO_PDV_V10_337_FINAL.exe",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.336/LEAL_INFO_PDV_V10_336_UPDATE.zip",
-  "Version": "10.336",
-  "Sha256": "ac9fea02a5b3cf96405a358f3bc76ff25ce5a8e7ff1ad99d4d7d45a34675dd7f"
+  "Sha256": "b9497bf68f89b6f7410e6b77a3a51de119feb76a36eed19b4231496fad5de622",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.337/LEAL_INFO_PDV_V10_337_UPDATE.zip"
 }
