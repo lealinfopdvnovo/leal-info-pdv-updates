@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.338/Setup_LEAL_INFO_PDV_V10_338_FINAL.exe",
-  "Sha256": "a66207943dcff9a382e41812674d0a27860727e882fa2c7a43de416900ae8107",
-  "Notes": "V10.338: corrige o encaixe da tela de relatorios e mantem os botoes de impressao, exportacao e fechar sempre visiveis.",
-  "Version": "10.338",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.338/LEAL_INFO_PDV_V10_338_UPDATE.zip",
-  "Mandatory": false
+  "Notes": "V10.339: impressao completa e paginada do relatorio com escolha da impressora do Windows.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.339/Setup_LEAL_INFO_PDV_V10_339_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.339/LEAL_INFO_PDV_V10_339_UPDATE.zip",
+  "Version": "10.339",
+  "Mandatory": false,
+  "Sha256": "b9e70aeb9ba830a6eb2288cfb3d3591631c13561e88a166f9f6f8a48eec8cc60"
 }
