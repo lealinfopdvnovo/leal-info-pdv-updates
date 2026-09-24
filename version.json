@@ -1,8 +1,8 @@
 {
-  "Notes": "V10.339: impressao completa e paginada do relatorio com escolha da impressora do Windows.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.339/Setup_LEAL_INFO_PDV_V10_339_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.339/LEAL_INFO_PDV_V10_339_UPDATE.zip",
-  "Version": "10.339",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.340/Setup_LEAL_INFO_PDV_V10_340_FINAL.exe",
+  "Sha256": "af4545c1289e629fc6f6d4a4389719868fb6ff03ba3b06ebe249970bb9d4b74b",
   "Mandatory": false,
-  "Sha256": "b9e70aeb9ba830a6eb2288cfb3d3591631c13561e88a166f9f6f8a48eec8cc60"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.340/LEAL_INFO_PDV_V10_340_UPDATE.zip",
+  "Version": "10.340",
+  "Notes": "V10.340: Internet lenta ou indisponivel nao bloqueia mais a abertura do PDV."
 }
