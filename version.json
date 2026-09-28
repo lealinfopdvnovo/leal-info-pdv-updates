@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.341/Setup_LEAL_INFO_PDV_V10_341_FINAL.exe",
-  "Version": "10.341",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.341/LEAL_INFO_PDV_V10_341_UPDATE.zip",
-  "Mandatory": false,
-  "Notes": "V10.341: Preco do cadastro de produtos com virgula automatica ao digitar.",
-  "Sha256": "6b54d09d41e72e97e84db7a9c3943f349e9ce8770d5f5b778049197f2a29d91c"
+  "Sha256": "0380db81507bdc246ab57e4904928c12016ea4101f5dac7c3f999222582fe4ad",
+  "Notes": "V10.342: Venda avulsa F10 com virgula automatica ao digitar o valor.",
+  "Version": "10.342",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.342/Setup_LEAL_INFO_PDV_V10_342_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.342/LEAL_INFO_PDV_V10_342_UPDATE.zip",
+  "Mandatory": false
 }
