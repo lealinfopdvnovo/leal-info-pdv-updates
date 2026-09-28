@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.340/Setup_LEAL_INFO_PDV_V10_340_FINAL.exe",
-  "Sha256": "af4545c1289e629fc6f6d4a4389719868fb6ff03ba3b06ebe249970bb9d4b74b",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.341/Setup_LEAL_INFO_PDV_V10_341_FINAL.exe",
+  "Version": "10.341",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.341/LEAL_INFO_PDV_V10_341_UPDATE.zip",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.340/LEAL_INFO_PDV_V10_340_UPDATE.zip",
-  "Version": "10.340",
-  "Notes": "V10.340: Internet lenta ou indisponivel nao bloqueia mais a abertura do PDV."
+  "Notes": "V10.341: Preco do cadastro de produtos com virgula automatica ao digitar.",
+  "Sha256": "6b54d09d41e72e97e84db7a9c3943f349e9ce8770d5f5b778049197f2a29d91c"
 }
