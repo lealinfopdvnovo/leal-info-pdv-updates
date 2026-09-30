@@ -1,8 +1,8 @@
 {
-  "Notes": "V10.345: Botao ESTILO visivel no topo da tela de venda, acima de SAIR.",
-  "Version": "10.345",
-  "Sha256": "d1d8a5b86dd5d5518d08ac737d0867760afedbfc42da19625d579b2f2d084ee2",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.345/Setup_LEAL_INFO_PDV_V10_345_FINAL.exe",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.346/Setup_LEAL_INFO_PDV_V10_346_FINAL.exe",
+  "Notes": "V10.346: ESTILO sincroniza cores, molduras, campos e tabela; tema persistente ao reabrir.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.346/LEAL_INFO_PDV_V10_346_UPDATE.zip",
+  "Sha256": "714e05f6f281a8ee7c10767e412f4df4729854a4944fe85d93e40dc31cf3c66e",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.345/LEAL_INFO_PDV_V10_345_UPDATE.zip"
+  "Version": "10.346"
 }
