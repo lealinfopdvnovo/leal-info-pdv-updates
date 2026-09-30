@@ -1,8 +1,8 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.348/LEAL_INFO_PDV_V10_348_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.348/Setup_LEAL_INFO_PDV_V10_348_FINAL.exe",
-  "Notes": "V10.348: Janelas de consulta, quantidade, pagamento, PIX e venda avulsa acompanham o ESTILO do PDV.",
-  "Version": "10.348",
-  "Sha256": "335c1706b1b9ef214278744a20752090e299dc5bb25340926c93580b2cdf4878",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.349/Setup_LEAL_INFO_PDV_V10_349_FINAL.exe",
+  "Version": "10.349",
+  "Notes": "V10.349: Painel do tempo sincronizado com a cidade da empresa, atualizacao online e indicacao de dados offline.",
+  "Sha256": "b75a8691e1b148f35fee48a2cd76184ba608f4bf2c099aff4aee2568eb43594a",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.349/LEAL_INFO_PDV_V10_349_UPDATE.zip",
   "Mandatory": false
 }
