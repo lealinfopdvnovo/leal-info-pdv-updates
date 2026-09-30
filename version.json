@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.346/Setup_LEAL_INFO_PDV_V10_346_FINAL.exe",
-  "Notes": "V10.346: ESTILO sincroniza cores, molduras, campos e tabela; tema persistente ao reabrir.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.346/LEAL_INFO_PDV_V10_346_UPDATE.zip",
-  "Sha256": "714e05f6f281a8ee7c10767e412f4df4729854a4944fe85d93e40dc31cf3c66e",
+  "Notes": "V10.347: Texturas originais do PDV Rosa e Azul Texturizado restauradas com cores sincronizadas.",
   "Mandatory": false,
-  "Version": "10.346"
+  "Sha256": "cbee26cd7650bad3976692a522b9f549897aef212309c2e0df3b0d1b9c6376c0",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.347/Setup_LEAL_INFO_PDV_V10_347_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.347/LEAL_INFO_PDV_V10_347_UPDATE.zip",
+  "Version": "10.347"
 }
