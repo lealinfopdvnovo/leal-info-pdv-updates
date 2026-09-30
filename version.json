@@ -1,8 +1,8 @@
 {
-  "Notes": "V10.343: Tela de venda conforme referencia, sem menus marcados, preservando estoque, pagamentos, F4, F5, F7 e F10.",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.343/Setup_LEAL_INFO_PDV_V10_343_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.343/LEAL_INFO_PDV_V10_343_UPDATE.zip",
-  "Mandatory": false,
-  "Sha256": "601cd134cbeffcd722254392108766cb886af6de15ff8826e994bd412deb451e",
-  "Version": "10.343"
+  "Notes": "V10.344: Tela de venda conforme referencia, sem menus marcados, preservando estoque, pagamentos, F4, F5, F7 e F10.",
+  "Version": "10.344",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.344/Setup_LEAL_INFO_PDV_V10_344_FINAL.exe",
+  "Sha256": "a1839a1673db4c1422b1110c89502c9e9af04a28b50ebfaf67c817ec09a572ed",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.344/LEAL_INFO_PDV_V10_344_UPDATE.zip",
+  "Mandatory": false
 }
