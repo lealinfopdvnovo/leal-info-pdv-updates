@@ -1,8 +1,8 @@
 {
-  "Sha256": "0380db81507bdc246ab57e4904928c12016ea4101f5dac7c3f999222582fe4ad",
-  "Notes": "V10.342: Venda avulsa F10 com virgula automatica ao digitar o valor.",
-  "Version": "10.342",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.342/Setup_LEAL_INFO_PDV_V10_342_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.342/LEAL_INFO_PDV_V10_342_UPDATE.zip",
-  "Mandatory": false
+  "Notes": "V10.343: Tela de venda conforme referencia, sem menus marcados, preservando estoque, pagamentos, F4, F5, F7 e F10.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.343/Setup_LEAL_INFO_PDV_V10_343_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.343/LEAL_INFO_PDV_V10_343_UPDATE.zip",
+  "Mandatory": false,
+  "Sha256": "601cd134cbeffcd722254392108766cb886af6de15ff8826e994bd412deb451e",
+  "Version": "10.343"
 }
