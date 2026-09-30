@@ -1,8 +1,8 @@
 {
-  "Notes": "V10.347: Texturas originais do PDV Rosa e Azul Texturizado restauradas com cores sincronizadas.",
-  "Mandatory": false,
-  "Sha256": "cbee26cd7650bad3976692a522b9f549897aef212309c2e0df3b0d1b9c6376c0",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.347/Setup_LEAL_INFO_PDV_V10_347_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.347/LEAL_INFO_PDV_V10_347_UPDATE.zip",
-  "Version": "10.347"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.348/LEAL_INFO_PDV_V10_348_UPDATE.zip",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.348/Setup_LEAL_INFO_PDV_V10_348_FINAL.exe",
+  "Notes": "V10.348: Janelas de consulta, quantidade, pagamento, PIX e venda avulsa acompanham o ESTILO do PDV.",
+  "Version": "10.348",
+  "Sha256": "335c1706b1b9ef214278744a20752090e299dc5bb25340926c93580b2cdf4878",
+  "Mandatory": false
 }
