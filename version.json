@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.349/Setup_LEAL_INFO_PDV_V10_349_FINAL.exe",
-  "Version": "10.349",
-  "Notes": "V10.349: Painel do tempo sincronizado com a cidade da empresa, atualizacao online e indicacao de dados offline.",
-  "Sha256": "b75a8691e1b148f35fee48a2cd76184ba608f4bf2c099aff4aee2568eb43594a",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.349/LEAL_INFO_PDV_V10_349_UPDATE.zip",
-  "Mandatory": false
+  "Notes": "V10.350: Botao F5 com cantos arredondados, brilho e relevo acompanhando o ESTILO da venda.",
+  "Version": "10.350",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.350/LEAL_INFO_PDV_V10_350_UPDATE.zip",
+  "Sha256": "14b1a19e29231cbd6f1c2042a09dc3327303b465efa191f976dc550ffcea0e5b",
+  "Mandatory": false,
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.350/Setup_LEAL_INFO_PDV_V10_350_FINAL.exe"
 }
