@@ -1,8 +1,8 @@
 {
-  "Notes": "V10.350: Botao F5 com cantos arredondados, brilho e relevo acompanhando o ESTILO da venda.",
-  "Version": "10.350",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.350/LEAL_INFO_PDV_V10_350_UPDATE.zip",
-  "Sha256": "14b1a19e29231cbd6f1c2042a09dc3327303b465efa191f976dc550ffcea0e5b",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.351/Setup_LEAL_INFO_PDV_V10_351_FINAL.exe",
+  "Notes": "V10.351: F10 com descricao VENDA AVULSA preenchida e botao + para escrever descricao personalizada.",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.350/Setup_LEAL_INFO_PDV_V10_350_FINAL.exe"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.351/LEAL_INFO_PDV_V10_351_UPDATE.zip",
+  "Sha256": "faf179e35cae238289dc37b77eab51c5c05452760976637ac56777dbd5825e22",
+  "Version": "10.351"
 }
