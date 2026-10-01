@@ -1,8 +1,8 @@
 {
-  "Version": "10.354",
+  "Notes": "V10.355: Rede local com servidor e terminais. Licenca inicial para 2 computadores, pontos adicionais, pagamento unico ou mensalidade e aviso ao exceder a quantidade contratada.",
   "Mandatory": false,
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.354/Setup_LEAL_INFO_PDV_V10_354_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.354/LEAL_INFO_PDV_V10_354_UPDATE.zip",
-  "Sha256": "0d7ae3157e836bf3720785e333988e8d49622e22c8227b57bb50b7ee57c39fdc",
-  "Notes": "V10.354: Clima reconhece cadastro Bairro - Municipio - UF e valida municipio e estado automaticamente."
+  "Sha256": "3cdb9a5323bb657bb12be859b94bf07383493bd699641e3996b85f204a274073",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.355/Setup_LEAL_INFO_PDV_V10_355_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.355/LEAL_INFO_PDV_V10_355_UPDATE.zip",
+  "Version": "10.355"
 }
