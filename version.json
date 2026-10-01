@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.352/Setup_LEAL_INFO_PDV_V10_352_FINAL.exe",
-  "Notes": "V10.352: Tela de venda proporcional a area util e DPI, com status centralizado, foto e clima sem cortes.",
+  "Sha256": "f1f225296963a54846d053e48988841a744274e3cce3c4cfa2d3a219eabcb0bd",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.352/LEAL_INFO_PDV_V10_352_UPDATE.zip",
-  "Sha256": "84f2294fbbc944694fe897592ccf3b2f20e79665ffa7631a508b19b840940e30",
-  "Version": "10.352"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.353/Setup_LEAL_INFO_PDV_V10_353_FINAL.exe",
+  "Notes": "V10.353: Clima no proprio card, sem janela tecnica, com cidade do cadastro e nova tentativa automatica.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.353/LEAL_INFO_PDV_V10_353_UPDATE.zip",
+  "Version": "10.353"
 }
