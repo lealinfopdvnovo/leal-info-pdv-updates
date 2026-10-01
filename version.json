@@ -1,8 +1,8 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.351/Setup_LEAL_INFO_PDV_V10_351_FINAL.exe",
-  "Notes": "V10.351: F10 com descricao VENDA AVULSA preenchida e botao + para escrever descricao personalizada.",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.352/Setup_LEAL_INFO_PDV_V10_352_FINAL.exe",
+  "Notes": "V10.352: Tela de venda proporcional a area util e DPI, com status centralizado, foto e clima sem cortes.",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.351/LEAL_INFO_PDV_V10_351_UPDATE.zip",
-  "Sha256": "faf179e35cae238289dc37b77eab51c5c05452760976637ac56777dbd5825e22",
-  "Version": "10.351"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.352/LEAL_INFO_PDV_V10_352_UPDATE.zip",
+  "Sha256": "84f2294fbbc944694fe897592ccf3b2f20e79665ffa7631a508b19b840940e30",
+  "Version": "10.352"
 }
