@@ -1,14 +1,14 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.358/LEAL_INFO_PDV_V10_358_UPDATE.zip",
-  "Version": "10.358",
+  "Sha256": "b9ad1a4a0fe7b87f3c8f25edc9a94feda0701dcbfb364724e89eb7346bf39284",
+  "Mandatory": false,
+  "Notes": "V10.358: Atualizador com canal global e atualizacoes isoladas por ID numerico do cliente.",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
   "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.358/Setup_LEAL_INFO_PDV_V10_358_FINAL.exe",
-  "Notes": "V10.358: Atualizador com canal global e atualizacoes isoladas por ID numerico do cliente.",
-  "SourceCommit": "4f5b5807522cb6d7cdded9cd2bf3ce0a4cf99a28",
-  "Sha256": "034e07c4cdbfc50aa373de4b7f6dd30295dc2a5a62363a690eb49838b8e1ebb5",
-  "Mandatory": false
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.358/LEAL_INFO_PDV_V10_358_UPDATE.zip",
+  "SourceCommit": "e58db493cd27f906693d1b63eb59f8b0b276608f",
+  "Version": "10.358"
 }
