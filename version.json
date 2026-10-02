@@ -1,8 +1,14 @@
 {
-  "Notes": "V10.355: Rede local com servidor e terminais. Licenca inicial para 2 computadores, pontos adicionais, pagamento unico ou mensalidade e aviso ao exceder a quantidade contratada.",
+  "Editions": [
+    "STANDARD",
+    "PLUS",
+    "PRO"
+  ],
+  "Sha256": "41909995c9a3fe5c9c22d60ec41c6bcaac76fbed4f9ca812f0906118708d45e8",
   "Mandatory": false,
-  "Sha256": "3cdb9a5323bb657bb12be859b94bf07383493bd699641e3996b85f204a274073",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.355/Setup_LEAL_INFO_PDV_V10_355_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.355/LEAL_INFO_PDV_V10_355_UPDATE.zip",
-  "Version": "10.355"
+  "SourceCommit": "fd58ab339ec1f3ae311612017763ab7bf7581f6c",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.356/Setup_LEAL_INFO_PDV_V10_356_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.356/LEAL_INFO_PDV_V10_356_UPDATE.zip",
+  "Notes": "V10.356: Ativacao por cliente e edicao, Standard sem LIA, logotipo local e atualizacao preservando dados.",
+  "Version": "10.356"
 }
