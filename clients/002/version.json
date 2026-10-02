@@ -1,9 +1,9 @@
 {
-  "Version": "10.361",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.361/LEAL_INFO_PDV_002_V10_361_UPDATE.zip",
-  "Sha256": "d488f338ae78e103d22217c50cd95d8a62886dab58334d73754c2cdd130b4a5d",
-  "SourceCommit": "77b04966b8fd7b3ed2944c21df9eee535995964f",
+  "Version": "10.362",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.362/LEAL_INFO_PDV_002_V10_362_UPDATE.zip",
+  "Sha256": "af408edd787adddf4731583064d69d4423c8a21e7e2b5c3f0047105cee9a20ff",
+  "SourceCommit": "abe4b68403b1f981f5812211b6f8c49afb09ad8e",
   "TargetClientCode": "002",
-  "Notes": "Cliente 002: destaca o botao para escolher ou trocar o logotipo em Dados da Empresa; a imagem salva aparece no login e na tela principal.",
+  "Notes": "Cliente 002: compacta o painel de login e reposiciona o logotipo da empresa para que fique visível, mantendo campos e ações.",
   "Mandatory": false
 }
