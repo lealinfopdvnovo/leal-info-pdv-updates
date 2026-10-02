@@ -1,9 +1,9 @@
 {
-  "Version": "10.362",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.362/LEAL_INFO_PDV_002_V10_362_UPDATE.zip",
-  "Sha256": "af408edd787adddf4731583064d69d4423c8a21e7e2b5c3f0047105cee9a20ff",
-  "SourceCommit": "abe4b68403b1f981f5812211b6f8c49afb09ad8e",
+  "Version": "10.363",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.363/LEAL_INFO_PDV_002_V10_363_UPDATE.zip",
+  "Sha256": "8c35d5dfee6cf6473d00069331f449fcb13766274c74578762b10e236c8fe699",
+  "SourceCommit": "60ba2a5d7cf638927e1de14e82581e1a7f9a0d44",
   "TargetClientCode": "002",
-  "Notes": "Cliente 002: compacta o painel de login e reposiciona o logotipo da empresa para que fique visível, mantendo campos e ações.",
+  "Notes": "Cliente 002: usa o logotipo salvo no cadastro da empresa no cabeçalho da tela de vendas e na vitrine vazia de produtos; preserva a marca padrão quando nao houver logo cadastrado.",
   "Mandatory": false
 }
