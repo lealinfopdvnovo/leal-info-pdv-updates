@@ -1,9 +1,9 @@
 {
-  "Mandatory": false,
+  "Version": "10.360",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.360/LEAL_INFO_PDV_002_V10_360_UPDATE.zip",
+  "Sha256": "aeb736035cb3f61271ff4032ea9f358e9ac8810c4ebae26545c9a5f41fb0c904",
+  "SourceCommit": "6a4741186c9df6f4e77d750be12f74c5da26ef88",
   "TargetClientCode": "002",
-  "Sha256": "19a30031ffc0b2df09355c48a6899ee05eebb771069e6e58cde94346a2f71db1",
-  "Version": "10.359",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.359/LEAL_INFO_PDV_002_V10_359_UPDATE.zip",
-  "Notes": "Cliente 002: personaliza a abertura e o tutorial com o nome cadastrado da empresa e permite continuar quando o WebView2 nao esta disponivel.",
-  "SourceCommit": "c95fedfbd8208826d383fdfc021567594829dd6c"
+  "Notes": "Cliente 002: exibe o logo cadastrado no login e na tela principal, personaliza o cabeçalho do tutorial e permite continuar quando o WebView2 nao esta disponivel.",
+  "Mandatory": false
 }
