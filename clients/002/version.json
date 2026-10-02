@@ -1,9 +1,9 @@
 {
-  "Version": "10.364",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.364/LEAL_INFO_PDV_002_V10_364_UPDATE.zip",
-  "Sha256": "8c299764806f249a34faea11bbfa7a200f794f95d3053664a4f7256c96760eae",
-  "SourceCommit": "937e4c3030d09a1249072c14e8bd5247e9068d11",
+  "Version": "10.365",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.365/LEAL_INFO_PDV_002_V10_365_UPDATE.zip",
+  "Sha256": "3bc414e040b7544e4ed8bbcee2e2155c926472f0aa025933fdf87b8a825a89e5",
+  "SourceCommit": "9805e09aebd7322ab7b6dc24580d6e489f8ba6d3",
   "TargetClientCode": "002",
-  "Notes": "Cliente 002: tutorial de primeiro acesso por slides no Standard, sem vídeo; Motoboy disponível somente nos planos Plus e Pro. Preserva também as correções visuais já incluídas nesta versão.",
+  "Notes": "Cliente 002: padroniza telas administrativas e subtelas (cadastros, consultas, relatórios e configurações) com o tema escolhido, painéis e controles arredondados e tabelas de leitura mais clara; não altera a tela do PDV.",
   "Mandatory": false
 }
