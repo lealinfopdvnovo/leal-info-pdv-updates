@@ -1,14 +1,14 @@
 {
+  "SourceCommit": "d05830db8ccdfcd5c56f2f88b30037b5289e0442",
+  "Sha256": "f1bd9c6764dbf1618b27b436154a340e2ca46fe9508f6b1d7ad24a15ed50f30e",
+  "Version": "10.357",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.357/LEAL_INFO_PDV_V10_357_UPDATE.zip",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "Sha256": "41909995c9a3fe5c9c22d60ec41c6bcaac76fbed4f9ca812f0906118708d45e8",
   "Mandatory": false,
-  "SourceCommit": "fd58ab339ec1f3ae311612017763ab7bf7581f6c",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.356/Setup_LEAL_INFO_PDV_V10_356_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.356/LEAL_INFO_PDV_V10_356_UPDATE.zip",
-  "Notes": "V10.356: Ativacao por cliente e edicao, Standard sem LIA, logotipo local e atualizacao preservando dados.",
-  "Version": "10.356"
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.357/Setup_LEAL_INFO_PDV_V10_357_FINAL.exe",
+  "Notes": "V10.357: Todos os planos incluem 2 computadores; pontos adicionais independentes; correcao de ativacao sem perder dados."
 }
