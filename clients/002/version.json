@@ -1,9 +1,9 @@
 {
-  "Version": "10.360",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.360/LEAL_INFO_PDV_002_V10_360_UPDATE.zip",
-  "Sha256": "aeb736035cb3f61271ff4032ea9f358e9ac8810c4ebae26545c9a5f41fb0c904",
-  "SourceCommit": "6a4741186c9df6f4e77d750be12f74c5da26ef88",
+  "Version": "10.361",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.361/LEAL_INFO_PDV_002_V10_361_UPDATE.zip",
+  "Sha256": "d488f338ae78e103d22217c50cd95d8a62886dab58334d73754c2cdd130b4a5d",
+  "SourceCommit": "77b04966b8fd7b3ed2944c21df9eee535995964f",
   "TargetClientCode": "002",
-  "Notes": "Cliente 002: exibe o logo cadastrado no login e na tela principal, personaliza o cabeçalho do tutorial e permite continuar quando o WebView2 nao esta disponivel.",
+  "Notes": "Cliente 002: destaca o botao para escolher ou trocar o logotipo em Dados da Empresa; a imagem salva aparece no login e na tela principal.",
   "Mandatory": false
 }
