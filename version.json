@@ -1,14 +1,14 @@
 {
-  "Sha256": "b9ad1a4a0fe7b87f3c8f25edc9a94feda0701dcbfb364724e89eb7346bf39284",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.359/LEAL_INFO_PDV_V10_359_UPDATE.zip",
+  "Notes": "V10.359: Código de entrega gerado pelo PDV, envio ao motoboy e link de rastreamento ao cliente.",
   "Mandatory": false,
-  "Notes": "V10.358: Atualizador com canal global e atualizacoes isoladas por ID numerico do cliente.",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.358/Setup_LEAL_INFO_PDV_V10_358_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.358/LEAL_INFO_PDV_V10_358_UPDATE.zip",
-  "SourceCommit": "e58db493cd27f906693d1b63eb59f8b0b276608f",
-  "Version": "10.358"
+  "Sha256": "aae8c23aebc4b0963a343689b75d31e82f46410057c8eb51cf0ec06c0f64d16c",
+  "SourceCommit": "734084a3453f69d92bb66deb1f011a9b290520e6",
+  "Version": "10.359",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.359/Setup_LEAL_INFO_PDV_V10_359_FINAL.exe"
 }
