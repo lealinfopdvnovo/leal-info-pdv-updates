@@ -1,9 +1,9 @@
 {
-  "Version": "10.365",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.365/LEAL_INFO_PDV_002_V10_365_UPDATE.zip",
-  "Sha256": "3bc414e040b7544e4ed8bbcee2e2155c926472f0aa025933fdf87b8a825a89e5",
-  "SourceCommit": "9805e09aebd7322ab7b6dc24580d6e489f8ba6d3",
+  "Version": "10.366",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.366/LEAL_INFO_PDV_002_V10_366_UPDATE.zip",
+  "Sha256": "470af85b7adddab28a286b747840b755446d903b383e80bc81a6ec096eb6e22f",
+  "SourceCommit": "20eefb1e77c2116f1718c033a6a165bc3fbe809b",
   "TargetClientCode": "002",
-  "Notes": "Cliente 002: padroniza telas administrativas e subtelas (cadastros, consultas, relatórios e configurações) com o tema escolhido, painéis e controles arredondados e tabelas de leitura mais clara; não altera a tela do PDV.",
+  "Notes": "Cliente 002: ENTRADA e SAÍDA manual validadas no Fluxo de Caixa, histórico persistente e resumo com saldo final. Preserva os ajustes visuais existentes da V10.365 e demais funções.",
   "Mandatory": false
 }
