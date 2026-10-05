@@ -1,9 +1,9 @@
 {
-  "SourceCommit": "f3abaf6444a536d9f25ed27cc321c67f08923cd9",
-  "Version": "10.369",
+  "TargetClientCode": "002",
+  "Sha256": "1f4c8cc23da33b77bdce84338fdb9e24f237ef8f74952a9936282935b0991082",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.370/LEAL_INFO_PDV_002_V10_370_UPDATE.zip",
+  "Version": "10.370",
   "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.369/LEAL_INFO_PDV_002_V10_369_UPDATE.zip",
-  "Sha256": "c48b4d1475544939a7d1584b4dcbb29f55301c8e020732d02d302a845eb220db",
-  "Notes": "Novo módulo NOTA DE SERVIÇO: cliente por ID e F11, itens com cálculos e máscara monetária, histórico persistente, finalização/garantia/valor pago, visualização e impressão A4 nativa com paginação automática. Sem movimentar vendas, estoque ou caixa.",
-  "TargetClientCode": "002"
+  "Notes": "Correção pontual na Central de Motoboy: restaura e salva o ID real do motoboy na entrega, recupera automaticamente o telefone cadastrado e separa os avisos de entrega sem motoboy e motoboy sem telefone. Preserva endereço, código, envio ao Firebase, rastreamento e demais módulos. Atualização exclusiva do cliente 002.",
+  "SourceCommit": "b88ca80f6cc0c14cd27eb0cc149348704d58fb54"
 }
