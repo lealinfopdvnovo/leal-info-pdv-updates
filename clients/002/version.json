@@ -1,9 +1,9 @@
 {
-  "TargetClientCode": "002",
-  "Version": "10.368",
-  "Notes": "Correção pontual no Fluxo de Caixa: campo Valor de Entrada/Saída com máscara monetária brasileira automática, centavos da direita para a esquerda e Backspace. Cálculos e banco preservados.",
-  "SourceCommit": "1c078c6c8de71da48efea292bd8e08e60b20db7d",
+  "SourceCommit": "f3abaf6444a536d9f25ed27cc321c67f08923cd9",
+  "Version": "10.369",
   "Mandatory": false,
-  "Sha256": "346bf8b8e30d58c2eb5444b94bec71ead21f05440b7ccc564098bfc7b24e69a5",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.368/LEAL_INFO_PDV_002_V10_368_UPDATE.zip"
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.369/LEAL_INFO_PDV_002_V10_369_UPDATE.zip",
+  "Sha256": "c48b4d1475544939a7d1584b4dcbb29f55301c8e020732d02d302a845eb220db",
+  "Notes": "Novo módulo NOTA DE SERVIÇO: cliente por ID e F11, itens com cálculos e máscara monetária, histórico persistente, finalização/garantia/valor pago, visualização e impressão A4 nativa com paginação automática. Sem movimentar vendas, estoque ou caixa.",
+  "TargetClientCode": "002"
 }
