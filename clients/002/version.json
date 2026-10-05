@@ -1,9 +1,9 @@
 {
-  "Mandatory": false,
   "TargetClientCode": "002",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.367/LEAL_INFO_PDV_002_V10_367_UPDATE.zip",
-  "SourceCommit": "846bb1f916dd399b770ea9cfdec1d4795b5564c8",
-  "Sha256": "eb5f3603e42595b93d225526de55044d766639a0990fad19a3bdbe4996007d27",
-  "Notes": "Cliente 002 V10.367: novo módulo RETIRADA DE PEÇAS, com confirmação, histórico, cliente opcional vinculado por ID e busca F8. Sem baixa de estoque, venda ou movimento financeiro. Preserva Fluxo de Caixa e demais funções.",
-  "Version": "10.367"
+  "Version": "10.368",
+  "Notes": "Correção pontual no Fluxo de Caixa: campo Valor de Entrada/Saída com máscara monetária brasileira automática, centavos da direita para a esquerda e Backspace. Cálculos e banco preservados.",
+  "SourceCommit": "1c078c6c8de71da48efea292bd8e08e60b20db7d",
+  "Mandatory": false,
+  "Sha256": "346bf8b8e30d58c2eb5444b94bec71ead21f05440b7ccc564098bfc7b24e69a5",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.368/LEAL_INFO_PDV_002_V10_368_UPDATE.zip"
 }
