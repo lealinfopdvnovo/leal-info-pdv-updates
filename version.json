@@ -1,14 +1,14 @@
 {
-  "SourceCommit": "c12bae4c065f4f141d3035a19506d13ca48b30c2",
-  "Mandatory": false,
-  "Sha256": "18748e279760430529b9a4bd93e2f8cb8f4d52c831415d779efda88137c0b40a",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.360/LEAL_INFO_PDV_V10_360_UPDATE.zip",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.360/Setup_LEAL_INFO_PDV_V10_360_FINAL.exe",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.361/Setup_LEAL_INFO_PDV_V10_361_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.361/LEAL_INFO_PDV_V10_361_UPDATE.zip",
+  "Notes": "V10.361: Corrige somente a consulta autenticada do link de rastreamento da entrega existente no Firebase.",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "Version": "10.360",
-  "Notes": "V10.360: PDV publica código e endereço no Firebase antes de enviar ao motoboy; preserva as demais funções."
+  "Sha256": "1d8e87ea5386aea93a9e22301239777df333b6ddde60bdeb6aaa2710f4671609",
+  "SourceCommit": "3e3deb254f30a0f5f0cbca50d12240172d34e15c",
+  "Mandatory": false,
+  "Version": "10.361"
 }
