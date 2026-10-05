@@ -1,14 +1,14 @@
 {
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.361/Setup_LEAL_INFO_PDV_V10_361_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.361/LEAL_INFO_PDV_V10_361_UPDATE.zip",
-  "Notes": "V10.361: Corrige somente a consulta autenticada do link de rastreamento da entrega existente no Firebase.",
+  "Sha256": "bcac021ea2d1ed9691761836f570e85c272000df59ae241812710de4fcb6ced1",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "Sha256": "1d8e87ea5386aea93a9e22301239777df333b6ddde60bdeb6aaa2710f4671609",
-  "SourceCommit": "3e3deb254f30a0f5f0cbca50d12240172d34e15c",
   "Mandatory": false,
-  "Version": "10.361"
+  "Version": "10.362",
+  "Notes": "V10.362: Adiciona EXCLUIR PEDIDO somente na Central de Motoboy do PDV desktop, com confirmação e seleção segura.",
+  "SourceCommit": "fbdd6ab9113199cbf5c24c18f6e022af740df48a",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.362/Setup_LEAL_INFO_PDV_V10_362_FINAL.exe",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.362/LEAL_INFO_PDV_V10_362_UPDATE.zip"
 }
