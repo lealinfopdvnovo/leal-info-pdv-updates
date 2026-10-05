@@ -1,14 +1,14 @@
 {
-  "Sha256": "bcac021ea2d1ed9691761836f570e85c272000df59ae241812710de4fcb6ced1",
+  "Notes": "V10.363: Corrige CEP e endereço completo em Nova Entrega no PDV, com preenchimento automático e campos editáveis. Preserva exclusão e rastreamento.",
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.363/LEAL_INFO_PDV_V10_363_UPDATE.zip",
+  "SourceCommit": "804968fab0d0fea9b311e5bc284a14789415c696",
+  "Sha256": "0f7d758772aa2727ac12a44d52c03f3b5530617ecb1949cbf273cba0d7dc1e98",
+  "Version": "10.363",
+  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.363/Setup_LEAL_INFO_PDV_V10_363_FINAL.exe",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
-  ],
-  "Mandatory": false,
-  "Version": "10.362",
-  "Notes": "V10.362: Adiciona EXCLUIR PEDIDO somente na Central de Motoboy do PDV desktop, com confirmação e seleção segura.",
-  "SourceCommit": "fbdd6ab9113199cbf5c24c18f6e022af740df48a",
-  "DownloadUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.362/Setup_LEAL_INFO_PDV_V10_362_FINAL.exe",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.362/LEAL_INFO_PDV_V10_362_UPDATE.zip"
+  ]
 }
