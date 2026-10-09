@@ -1,13 +1,13 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.377/LEAL_INFO_PDV_V10_377_UPDATE.zip",
-  "Sha256": "6b6dfd35983f96837f73b88200bbcd882c82a4b7f49315e0ff501ab7a6d131d2",
+  "Mandatory": false,
+  "Version": "10.378",
+  "Sha256": "6cf5941fce32747843bc52271f749a74868096c3557c2d9f61793d23494f3ef5",
+  "SourceCommit": "b8f7c52f2ecadea9eb829398f9fc53be3bd12cc5",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.378/LEAL_INFO_PDV_V10_378_UPDATE.zip",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "SourceCommit": "84d6d1353391953422ed160c4f16d01a881e1c8f",
-  "Mandatory": false,
-  "Notes": "V10.377 GLOBAL: somente icone proprio azul 3D do botao COZINHA. SERVICOS e comportamento do modal inalterados. Pacotes compativeis 001/002/003 preservam suas personalizacoes. Sem dados, licencas ou configuracoes no pacote.",
-  "Version": "10.377"
+  "Notes": "V10.378 GLOBAL: verificacao apos login com consultas independentes e recuperacao de falhas transitorias; textos dos atalhos menores e centralizados. Pacotes compativeis 001/002/003 preservam particularidades. Sem dados, licencas, configuracoes ou icones no pacote."
 }
