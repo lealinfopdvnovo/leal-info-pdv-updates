@@ -1,13 +1,13 @@
 {
-  "SourceCommit": "58d736c0e556cf69e38d1a9329d2c23b236aceba",
-  "Notes": "V10.371 global: promove somente a correcao validada do vinculo/telefone do motoboy e compara versoes global e direcionada. Mantem canais por ID. Pacote compativel do 002 preserva seus modulos existentes; nenhum dado particular incluido.",
-  "Version": "10.371",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.371/LEAL_INFO_PDV_V10_371_UPDATE.zip",
-  "Sha256": "7c11d390fa334498c4ead4fadea2395332078e9632257a669a78738f0595a140",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "Mandatory": false
+  "Version": "10.374",
+  "Sha256": "063bd64f1a90c093a72631bcef7e96d6fd4666d3a5098cae7ccd70c05b732d99",
+  "SourceCommit": "230ee1d78d47261fc74597d1f63e7684f7b6e917",
+  "Mandatory": false,
+  "Notes": "V10.374 GLOBAL: novo botao COZINHA no padrao do PDV. Ao clicar: Em desenvolvimento para proxima atualizacao. Preserva dados, licencas e configuracoes. Cliente 002 recebe pacote compativel proprio na mesma versao.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.374/LEAL_INFO_PDV_V10_374_UPDATE.zip"
 }
