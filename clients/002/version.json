@@ -1,9 +1,9 @@
 {
-  "Mandatory": false,
+  "Version": "10.378",
+  "Sha256": "a911abd78c8309236cde06d70e58edf43ca2ad2c9e3f6b11e4f30a684a215e37",
+  "SourceCommit": "0c095570035147cc300292be81eea93d7cd10ced",
+  "Notes": "V10.378: verificacao GLOBAL apos login com recuperacao de falhas transitorias; fonte dos atalhos menor e centralizada. Preserva todas as particularidades deste cliente, icones, dados e licenca.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.378/LEAL_INFO_PDV_002_V10_378_UPDATE.zip",
   "TargetClientCode": "002",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.377/LEAL_INFO_PDV_002_V10_377_UPDATE.zip",
-  "Notes": "V10.377: somente icone proprio azul 3D do botao COZINHA. Preserva SERVICOS, modal, dados, licenca e todas as particularidades deste cliente.",
-  "Sha256": "29fcce66d67c8b9f4d58d11f684ff08b77f096cd0dedb56b7b93d77b6d13479e",
-  "SourceCommit": "41e5072537648a0b878c121668f211e1f78aab68",
-  "Version": "10.377"
+  "Mandatory": false
 }
