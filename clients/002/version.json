@@ -1,9 +1,9 @@
 {
-  "TargetClientCode": "002",
-  "SourceCommit": "3ee24e4563667e148ab9a4e81523454284ab22f3",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.374/LEAL_INFO_PDV_002_V10_374_UPDATE.zip",
   "Mandatory": false,
-  "Notes": "V10.374: adiciona COZINHA com modal temporario. Preserva integralmente os modulos e particularidades da base 002 V10.371. Sem dados de cliente no pacote.",
-  "Sha256": "61690b84dd69692f17214ac2185fe4ddcc43889914d5e9cf49ef081b7fa62ea6",
-  "Version": "10.374"
+  "TargetClientCode": "002",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-002-v10.377/LEAL_INFO_PDV_002_V10_377_UPDATE.zip",
+  "Notes": "V10.377: somente icone proprio azul 3D do botao COZINHA. Preserva SERVICOS, modal, dados, licenca e todas as particularidades deste cliente.",
+  "Sha256": "29fcce66d67c8b9f4d58d11f684ff08b77f096cd0dedb56b7b93d77b6d13479e",
+  "SourceCommit": "41e5072537648a0b878c121668f211e1f78aab68",
+  "Version": "10.377"
 }
