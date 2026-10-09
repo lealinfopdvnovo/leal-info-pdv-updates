@@ -1,9 +1,9 @@
 {
-  "Version": "10.376",
+  "Mandatory": false,
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.376/LEAL_INFO_PDV_003_V10_376_UPDATE.zip",
-  "SourceCommit": "b33c70fdb2e119712ef84defa70305aa7bf56779",
-  "Notes": "V10.376: corrige exclusivamente o acabamento cristal azul e o espaco da marca acima do login. Preserva COZINHA, autenticacao, dados, licenca e configuracoes.",
-  "Sha256": "3c786fc66cafa5074a6afe82034f9d98d97cfae02da93d0b8092865e2c42f671",
-  "Mandatory": false
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.377/LEAL_INFO_PDV_003_V10_377_UPDATE.zip",
+  "Notes": "V10.377: somente icone proprio azul 3D do botao COZINHA. Preserva SERVICOS, modal, dados, licenca e todas as particularidades deste cliente.",
+  "Sha256": "6c54f8e8bfc6cd9b1764e09ac483a8ccb381145f3a28d02ad1f21867e414286e",
+  "SourceCommit": "4ac6741da7bfc9e1d20e5ad63790437c30281a4a",
+  "Version": "10.377"
 }
