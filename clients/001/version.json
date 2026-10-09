@@ -1,0 +1,9 @@
+{
+  "Sha256": "2e88b1baf2030a652353b35c143f5c27e12e31aa9c0b767d9a8b250faa0980f8",
+  "SourceCommit": "8b83638a2fe13364c765d642cf99ec5c1d5a7ed2",
+  "Notes": "V10.375: personalizacao exclusiva de login cristal azul para este cliente. Preserva COZINHA V10.374, autenticacao, dados, licenca e configuracoes.",
+  "Version": "10.375",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.375/LEAL_INFO_PDV_001_V10_375_UPDATE.zip",
+  "Mandatory": false,
+  "TargetClientCode": "001"
+}
