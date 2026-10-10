@@ -1,13 +1,13 @@
 {
   "Mandatory": false,
-  "Version": "10.378",
-  "Sha256": "6cf5941fce32747843bc52271f749a74868096c3557c2d9f61793d23494f3ef5",
-  "SourceCommit": "b8f7c52f2ecadea9eb829398f9fc53be3bd12cc5",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.378/LEAL_INFO_PDV_V10_378_UPDATE.zip",
+  "SourceCommit": "9a3c5eccc283363433fdf9e9e5493925b1ff81f9",
+  "Notes": "V10.379 GLOBAL: legendas completas com quebra controlada e centralizacao, sem cortes de segunda linha. Pacotes compativeis 001/002/003 preservam particularidades. Sem dados, licencas, configuracoes ou icones no pacote.",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "Notes": "V10.378 GLOBAL: verificacao apos login com consultas independentes e recuperacao de falhas transitorias; textos dos atalhos menores e centralizados. Pacotes compativeis 001/002/003 preservam particularidades. Sem dados, licencas, configuracoes ou icones no pacote."
+  "Sha256": "ee100d44ac906d18e1d39be07da96107efd050f8a4d471cf97f0be1268a0bb3b",
+  "Version": "10.379",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.379/LEAL_INFO_PDV_V10_379_UPDATE.zip"
 }
