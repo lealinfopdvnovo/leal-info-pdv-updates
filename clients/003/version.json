@@ -1,9 +1,9 @@
 {
-  "Sha256": "1bfabbe44920854c2255dc993e778af06049bda49637c02ec526c36a5b5d86e7",
-  "SourceCommit": "57ad0f94e0ccb4d86434d5a31c44244647b7092f",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.382/LEAL_INFO_PDV_003_V10_382_UPDATE.zip",
   "Mandatory": false,
+  "Notes": "V10.383 exclusiva 003: 3D com moldura e duas folhas, encontro central e dimensoes fixas do projeto. Rotacao, zoom e reset preservados. 2D original e A4 preservados, fallback seguro, sem dependencias ou alteracao de banco.",
+  "Version": "10.383",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.383/LEAL_INFO_PDV_003_V10_383_UPDATE.zip",
   "TargetClientCode": "003",
-  "Notes": "V10.382 exclusiva 003: visualizacao 3D tecnica complementar e ultraleve, arrastar para girar, zoom e reset. 2D original e A4 preservados, fallback seguro, sem dependencias ou alteracao de banco.",
-  "Version": "10.382"
+  "SourceCommit": "39ad935d693ebafa710f04c822c12bcaef16cea1",
+  "Sha256": "f59cc79e930612125b026ae1cad1ac40387d797466cdf8e4069ffa215e2f4e9a"
 }
