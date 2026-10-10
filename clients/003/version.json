@@ -1,9 +1,9 @@
 {
-  "Version": "10.381",
-  "Notes": "V10.381 exclusiva 003: Novo Projeto, janela de correr 2 folhas parametrica, desenho proporcional com cotas e previa/impressao A4. Sem regras de fabricacao/corte; sem alteracao de banco. Preserva personalizacoes.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.381/LEAL_INFO_PDV_003_V10_381_UPDATE.zip",
+  "Sha256": "1bfabbe44920854c2255dc993e778af06049bda49637c02ec526c36a5b5d86e7",
+  "SourceCommit": "57ad0f94e0ccb4d86434d5a31c44244647b7092f",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.382/LEAL_INFO_PDV_003_V10_382_UPDATE.zip",
   "Mandatory": false,
-  "SourceCommit": "290cd82304e8b3b283c1db6281284f346be07876",
-  "Sha256": "ba502e971763dd5ffa51628fd647c523ef599357434f369c7d4372f712715710",
-  "TargetClientCode": "003"
+  "TargetClientCode": "003",
+  "Notes": "V10.382 exclusiva 003: visualizacao 3D tecnica complementar e ultraleve, arrastar para girar, zoom e reset. 2D original e A4 preservados, fallback seguro, sem dependencias ou alteracao de banco.",
+  "Version": "10.382"
 }
