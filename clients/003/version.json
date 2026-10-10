@@ -1,9 +1,9 @@
 {
-  "Sha256": "e3d56debeefa19401d0a5de536f0a8e37e1604dfec9e5cdd4c5e3f57f82ca8e0",
-  "TargetClientCode": "003",
-  "SourceCommit": "75bd6c55c4985fabbc6bcec19a66cc7dd2b1ba30",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.379/LEAL_INFO_PDV_003_V10_379_UPDATE.zip",
-  "Notes": "V10.379: legendas completas com quebra controlada e centralizacao, sem cortes de segunda linha. Preserva todas as particularidades deste cliente, icones, dados e licenca.",
+  "Sha256": "444b6a46080e8207cbee8c4a73e78179e0359e43080d8c29e2f93f001a3f4948",
+  "Notes": "V10.380 exclusiva 003: botao VIDRACARIA e Central inicial com sete areas preparadas. Sem calculos/regras tecnicas. Preserva personalizacoes, dados e licenca.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.380/LEAL_INFO_PDV_003_V10_380_UPDATE.zip",
+  "SourceCommit": "99e3b6de593f1dce142ad73b689d54dbb8a3702d",
   "Mandatory": false,
-  "Version": "10.379"
+  "Version": "10.380",
+  "TargetClientCode": "003"
 }
