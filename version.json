@@ -1,13 +1,13 @@
 {
-  "Mandatory": false,
-  "SourceCommit": "9a3c5eccc283363433fdf9e9e5493925b1ff81f9",
-  "Notes": "V10.379 GLOBAL: legendas completas com quebra controlada e centralizacao, sem cortes de segunda linha. Pacotes compativeis 001/002/003 preservam particularidades. Sem dados, licencas, configuracoes ou icones no pacote.",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "Sha256": "ee100d44ac906d18e1d39be07da96107efd050f8a4d471cf97f0be1268a0bb3b",
-  "Version": "10.379",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.379/LEAL_INFO_PDV_V10_379_UPDATE.zip"
+  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.384/LEAL_INFO_PDV_V10_384_UPDATE.zip",
+  "SourceCommit": "8b22228a880ef03f518b751a9c744ade83aca17e",
+  "Version": "10.384",
+  "Notes": "V10.384 GLOBAL: CEP no Cadastro da Empresa e Central de Configuracoes, abaixo de telefone/WhatsApp e acima do endereco. Busca automatica de rua/bairro e Cidade/UF, campos editaveis e salvamento aguardando consulta. Pacotes 001/002/003 preservam personalizacoes. Sem dados, licencas ou configuracoes no pacote.",
+  "Sha256": "780110c0966836362a10eceb9abe571ce35b317be82ae4dca19a074ecc994c4c"
 }
