@@ -1,13 +1,13 @@
 {
+  "Mandatory": false,
+  "Sha256": "502dc78ae6143a794ce1f823dacd53bd10a880fab3ef219b1157ffd98bc27f44",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.385/LEAL_INFO_PDV_V10_385_UPDATE.zip",
+  "SourceCommit": "602110dce785a3eff933c8d82b97f99736516f51",
+  "Notes": "V10.385 GLOBAL: logo do cliente automaticamente no topo e na vitrine do PDV, usando logo cadastrado ou imagem personalizada existente da tela principal. Mantem proporcao e fotos dos produtos. CEP e pacotes personalizados 001/002/003 preservados. Sem dados, licencas, imagens ou configuracoes no pacote.",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "Mandatory": false,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.384/LEAL_INFO_PDV_V10_384_UPDATE.zip",
-  "SourceCommit": "8b22228a880ef03f518b751a9c744ade83aca17e",
-  "Version": "10.384",
-  "Notes": "V10.384 GLOBAL: CEP no Cadastro da Empresa e Central de Configuracoes, abaixo de telefone/WhatsApp e acima do endereco. Busca automatica de rua/bairro e Cidade/UF, campos editaveis e salvamento aguardando consulta. Pacotes 001/002/003 preservam personalizacoes. Sem dados, licencas ou configuracoes no pacote.",
-  "Sha256": "780110c0966836362a10eceb9abe571ce35b317be82ae4dca19a074ecc994c4c"
+  "Version": "10.385"
 }
