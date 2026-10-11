@@ -1,9 +1,9 @@
 {
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.384/LEAL_INFO_PDV_003_V10_384_UPDATE.zip",
   "Mandatory": false,
-  "Notes": "V10.383 exclusiva 003: 3D com moldura e duas folhas, encontro central e dimensoes fixas do projeto. Rotacao, zoom e reset preservados. 2D original e A4 preservados, fallback seguro, sem dependencias ou alteracao de banco.",
-  "Version": "10.383",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.383/LEAL_INFO_PDV_003_V10_383_UPDATE.zip",
+  "SourceCommit": "10a568de3c3aa396254c150d120422550c273829",
+  "Sha256": "9556d7ee92887607d0770f80089211c51a0c45a5b50375f5a7e4785a6cbc39b1",
   "TargetClientCode": "003",
-  "SourceCommit": "39ad935d693ebafa710f04c822c12bcaef16cea1",
-  "Sha256": "f59cc79e930612125b026ae1cad1ac40387d797466cdf8e4069ffa215e2f4e9a"
+  "Notes": "V10.384: CEP no Cadastro da Empresa, abaixo do telefone/WhatsApp e acima do endereco. Busca automatica de rua/bairro e Cidade/UF, campos editaveis e salvamento aguardando consulta. Preserva dados, licenca e particularidades deste cliente.",
+  "Version": "10.384"
 }
