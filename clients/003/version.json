@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.384/LEAL_INFO_PDV_003_V10_384_UPDATE.zip",
-  "Mandatory": false,
-  "SourceCommit": "10a568de3c3aa396254c150d120422550c273829",
-  "Sha256": "9556d7ee92887607d0770f80089211c51a0c45a5b50375f5a7e4785a6cbc39b1",
+  "SourceCommit": "1e2990a4191704f2281db078d914335c6d875d5b",
+  "Version": "10.385",
   "TargetClientCode": "003",
-  "Notes": "V10.384: CEP no Cadastro da Empresa, abaixo do telefone/WhatsApp e acima do endereco. Busca automatica de rua/bairro e Cidade/UF, campos editaveis e salvamento aguardando consulta. Preserva dados, licenca e particularidades deste cliente.",
-  "Version": "10.384"
+  "Mandatory": false,
+  "Sha256": "943ac1613566a93a596582fc84fd67bbdb8f018b43c2284e476d37f763e2cee8",
+  "Notes": "V10.385: logo do cliente automaticamente no topo e na vitrine do PDV. Usa o logo cadastrado ou a imagem personalizada existente da tela principal. Preserva proporcao, foto do produto, aviso sem foto, CEP, dados, licenca e particularidades deste cliente.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.385/LEAL_INFO_PDV_003_V10_385_UPDATE.zip"
 }
