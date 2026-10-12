@@ -1,9 +1,9 @@
 {
-  "Version": "10.386",
-  "Notes": "V10.386 exclusiva 003: previa de orcamento da Vidracaria ligada ao projeto e medidas; area m2, preco por m2, servico, desconto e acrescimo. Cadastro de clientes existente. Previa em memoria; 2D/3D, impressao tecnica, licenciamento, dados e particularidades preservados. Aguardando homologacao fisica.",
   "Mandatory": false,
-  "SourceCommit": "640ac793fa3a65adce547b2aed692d5b5ff93a0c",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.386/LEAL_INFO_PDV_003_V10_386_UPDATE.zip",
+  "Sha256": "562eed0c9b569f4222a65bb9409d36dbc9c5bd1c970c58f6d6242bfd4828603f",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.387/LEAL_INFO_PDV_003_V10_387_UPDATE.zip",
+  "Version": "10.387",
+  "SourceCommit": "29c33b12b7d4336274cbf29c1c3fb011ed020840",
   "TargetClientCode": "003",
-  "Sha256": "b1354654ff5c6508a488df04087fecb76cfe0e6c0031a160f72f1de94b96a87c"
+  "Notes": "V10.387 exclusiva 003: projeto, cliente, medidas e calculos organizados nas abas da Central de Vidracaria; campos e botoes com tema nativo do PDV. Fonte unica, 2D/3D e A4 preservados. Sem alteracao de calculos, licenciamento ou banco. Homologacao fisica pendente."
 }
