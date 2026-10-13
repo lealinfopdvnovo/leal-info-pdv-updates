@@ -1,9 +1,9 @@
 {
+  "Sha256": "63c594976eed5bec65f6b92f8903d9b630f982b82ccfcc2b6b4298117a03f3dc",
   "Mandatory": false,
-  "Sha256": "562eed0c9b569f4222a65bb9409d36dbc9c5bd1c970c58f6d6242bfd4828603f",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.387/LEAL_INFO_PDV_003_V10_387_UPDATE.zip",
-  "Version": "10.387",
-  "SourceCommit": "29c33b12b7d4336274cbf29c1c3fb011ed020840",
   "TargetClientCode": "003",
-  "Notes": "V10.387 exclusiva 003: projeto, cliente, medidas e calculos organizados nas abas da Central de Vidracaria; campos e botoes com tema nativo do PDV. Fonte unica, 2D/3D e A4 preservados. Sem alteracao de calculos, licenciamento ou banco. Homologacao fisica pendente."
+  "Notes": "V10.388 exclusiva 003: componentes nativos da venda, busca informativa de materiais existentes, orçamento comercial PDF/A4 local. Fonte unica, 2D/3D e A4 preservados. Sem alteracao de calculos, licenciamento ou banco. Homologacao fisica pendente.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.388/LEAL_INFO_PDV_003_V10_388_UPDATE.zip",
+  "SourceCommit": "50f8a3754f40b107f7fc46b4b13141a4eddc695a",
+  "Version": "10.388"
 }
