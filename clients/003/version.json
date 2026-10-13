@@ -1,9 +1,9 @@
 {
-  "Sha256": "63c594976eed5bec65f6b92f8903d9b630f982b82ccfcc2b6b4298117a03f3dc",
-  "Mandatory": false,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.389/LEAL_INFO_PDV_003_V10_389_UPDATE.zip",
+  "SourceCommit": "d2f99f3ffa6820ae3b5bb41c2f8519077af71bb4",
+  "Version": "10.389",
   "TargetClientCode": "003",
-  "Notes": "V10.388 exclusiva 003: componentes nativos da venda, busca informativa de materiais existentes, orçamento comercial PDF/A4 local. Fonte unica, 2D/3D e A4 preservados. Sem alteracao de calculos, licenciamento ou banco. Homologacao fisica pendente.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.388/LEAL_INFO_PDV_003_V10_388_UPDATE.zip",
-  "SourceCommit": "50f8a3754f40b107f7fc46b4b13141a4eddc695a",
-  "Version": "10.388"
+  "Notes": "V10.389 exclusiva 003: plano geométrico de corte editável, chapas 2D, rotação explícita e prévia A4; cotas opcionais de largura/altura no 3D e orientação ilustrativa. 2D, 3D limpo, cálculos, PDF comercial, impressão técnica, licença e banco preservados. Sem regras de fabricação inventadas. Plano em memória; homologação física pendente.",
+  "Sha256": "eceb78a65927d2857c437caac390f1570e7e3fee8666a597a178ef051b97fd87",
+  "Mandatory": false
 }
