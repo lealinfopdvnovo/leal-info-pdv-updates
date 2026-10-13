@@ -1,9 +1,9 @@
 {
-  "TargetClientCode": "003",
-  "Sha256": "fb0a038e274485648193354b24e48625cfce23e7220ebd26710b4562d4479457",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.390/LEAL_INFO_PDV_003_V10_390_UPDATE.zip",
   "Mandatory": false,
-  "SourceCommit": "e14429525c457210b233e80ce3bc268d0b89019d",
-  "Notes": "V10.390 exclusiva 003: seletor mm/cm/m individual nas dimensões editáveis do projeto, chapa e peças, com conversão interna em mm preservando dimensão física; botão EDITAR PEÇA e edição direta na grade mantida. Packing, 2D/3D, cotas, impressões, PDF, cálculos, banco, licença e lógica do updater preservados. Aguardando homologação real do usuário.",
-  "Version": "10.390"
+  "TargetClientCode": "003",
+  "Version": "10.393",
+  "Notes": "V10.393 exclusiva 003: SALVAR/ABRIR projetos editáveis de Vidraçaria, persistência transacional no SQLite existente, unidades individuais, materiais, orçamento e entradas do Plano de Corte preservados; reabertura e recálculo pelos motores aprovados. Backup normal inclui projetos; snapshot antes da tabela aditiva; revisão protege contra sobrescrita concorrente. Banco operacional, licença, updater e demais módulos preservados. Aguardando homologação real do usuário.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.393/LEAL_INFO_PDV_003_V10_393_UPDATE.zip",
+  "SourceCommit": "7794222e9204f88eac747df5c6a09ca8518da1a4",
+  "Sha256": "cf7decc7ff0a3ed981c29c83f1a889cbf3b33fd4a8f98fd83d1432c55b166de0"
 }
