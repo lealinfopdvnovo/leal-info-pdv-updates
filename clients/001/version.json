@@ -1,9 +1,9 @@
 {
-  "Sha256": "6a1654417537dbf22b4dc032ee55ea8786f59877aa151ffddfd50344c07e6fef",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.392/LEAL_INFO_PDV_001_V10_392_UPDATE.zip",
+  "SourceCommit": "e210bd4dc7a02a3992432046a98de43250c39488",
+  "Notes": "V10.392 exclusiva 001: SALVAR/ABRIR projetos editáveis de Vidraçaria, persistência transacional no SQLite existente, unidades individuais, materiais, orçamento e entradas do Plano de Corte preservados; reabertura e recálculo pelos motores aprovados. Backup normal inclui projetos; snapshot antes da tabela aditiva; revisão protege contra sobrescrita concorrente. Banco operacional, licença, updater e demais módulos preservados. Aguardando homologação real do usuário.",
   "Mandatory": false,
-  "SourceCommit": "0a8e083f07f466c501ead977289b123c863dc946",
+  "Sha256": "b2dffdec03445295bebed8c6d8c1033642ae16ead6f9e751b243d8e71a64c0f3",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.391/LEAL_INFO_PDV_001_V10_391_UPDATE.zip",
-  "Version": "10.391",
-  "Notes": "V10.391 exclusiva 001: portabilidade seletiva da Vidraçaria existente no 003 V10.390, incluindo Projeto/Medidas/Materiais/Cálculos, 2D/3D, orçamento/PDF, Plano de Corte, mm/cm/m individuais e EDITAR PEÇA. Personalizações do 001 preservadas; banco, licença e lógica do updater intactos. Aguardando homologação real do usuário."
+  "Version": "10.392"
 }
