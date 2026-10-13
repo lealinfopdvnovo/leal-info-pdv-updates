@@ -1,9 +1,9 @@
 {
-  "SourceCommit": "121021377266444344f3545cdfc253a0604b0163",
-  "Version": "10.385",
-  "TargetClientCode": "001",
+  "Sha256": "6a1654417537dbf22b4dc032ee55ea8786f59877aa151ffddfd50344c07e6fef",
   "Mandatory": false,
-  "Sha256": "5866bb086adf2cd0f61b523f2da6f27313470f2b06620d631aea9e88dae23308",
-  "Notes": "V10.385: logo do cliente automaticamente no topo e na vitrine do PDV. Usa o logo cadastrado ou a imagem personalizada existente da tela principal. Preserva proporcao, foto do produto, aviso sem foto, CEP, dados, licenca e particularidades deste cliente.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.385/LEAL_INFO_PDV_001_V10_385_UPDATE.zip"
+  "SourceCommit": "0a8e083f07f466c501ead977289b123c863dc946",
+  "TargetClientCode": "001",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.391/LEAL_INFO_PDV_001_V10_391_UPDATE.zip",
+  "Version": "10.391",
+  "Notes": "V10.391 exclusiva 001: portabilidade seletiva da Vidraçaria existente no 003 V10.390, incluindo Projeto/Medidas/Materiais/Cálculos, 2D/3D, orçamento/PDF, Plano de Corte, mm/cm/m individuais e EDITAR PEÇA. Personalizações do 001 preservadas; banco, licença e lógica do updater intactos. Aguardando homologação real do usuário."
 }
