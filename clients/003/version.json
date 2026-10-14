@@ -1,9 +1,9 @@
 {
-  "Sha256": "f976000c2a493ce5abb3c0d654961c5943c86f0273bda53ef9083f6578339125",
-  "Mandatory": false,
-  "SourceCommit": "355a81f36ab561779b1b7e88cdc51ac95615b668",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.395/LEAL_INFO_PDV_003_V10_395_UPDATE.zip",
+  "SourceCommit": "46f4203902a16c5061891d4c702f10ae3a317a71",
+  "Sha256": "f9411f436ec23114c77d2ce3dd3cac9eb802147f665e88459498344beff3b462",
+  "Version": "10.396",
   "TargetClientCode": "003",
-  "Version": "10.395",
-  "Notes": "V10.395 exclusiva 003: seletor mm/cm/m legível sem truncar mm; troca de unidade valida texto ainda pendente usando a unidade anterior e mantém a fonte canônica em milímetros. Conversões individuais, precisão, cenário chapa 3x2m/peça 1,2x1m e persistência testados. Packing, +CADASTRAR CLIENTE e demais funções da 10.394 preservados. Aguardando homologação física do usuário."
+  "Notes": "V10.396 exclusiva 003: campos monetários da Vidraçaria em reais/pt-BR, vírgula decimal independente da cultura do Windows; subtotal/totais coerentes com GlassQuote real, valores comerciais A4 e persistência validados no cenário R$132,00. Acesso à prévia comercial A4/PDF explicitado. Plano de Corte homologado, unidades, +CADASTRAR CLIENTE, banco, backup e demais funções preservados. Aguardando homologação física do usuário.",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.396/LEAL_INFO_PDV_003_V10_396_UPDATE.zip",
+  "Mandatory": false
 }
