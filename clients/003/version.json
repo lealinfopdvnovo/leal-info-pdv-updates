@@ -1,9 +1,9 @@
 {
-  "Notes": "Correcao EXCLUSIVA passo05: ordem Dock impede resumo de encobrir primeiras linhas do historico; entradas/saidas independentes preservadas. Valor reutiliza controle monetario brasileiro aprovado, aceita 50,00/60,00/20,00/100,00. Sem alteracao de totais, SQL, schema, passos01-04 ou Agenda06. Aguardando homologacao fisica.",
-  "Mandatory": false,
-  "SourceCommit": "c52fb75e97ac8c805a05d383ed3ca1eecee9b95a",
-  "Sha256": "329b52b956ec1247a7cd6c11decfd364940b63326653f38cce1d6050e51f36de",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.402/LEAL_INFO_PDV_003_V10_402_UPDATE.zip",
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.401/LEAL_INFO_PDV_003_V10_401_UPDATE.zip",
-  "Version": "10.401"
+  "Mandatory": false,
+  "Notes": "Passos07/08 Vidracaria: recibos individuais exclusivamente de ENTRADA financeira real, reimpressao sem novo recebimento; contratos comerciais editaveis vinculados ao projeto/cliente com revisoes preservadas, backup antes de schema aditivo e PDF/A4 pelo motor existente. Documentos nao geram pagamento, venda ou estoque.01-06 e particularidades preservados. Aguardando homologacao fisica07/08.",
+  "SourceCommit": "2630a738470c8a2c0badc25c184f9369fcba4df8",
+  "Sha256": "b1e0c1ccadad39f130d0480a43e2d621af691eb9cea7dcad174a84feb6afa592",
+  "Version": "10.402"
 }
