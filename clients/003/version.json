@@ -1,9 +1,9 @@
 {
-  "Version": "10.394",
+  "Sha256": "f976000c2a493ce5abb3c0d654961c5943c86f0273bda53ef9083f6578339125",
   "Mandatory": false,
-  "Notes": "V10.394 exclusiva 003: botão + CADASTRAR CLIENTE na Vidraçaria abre o cadastro original do PDV com as permissões existentes; ao retornar atualiza a lista mantendo seleção. Persistência homologada da 10.393, corte, unidades, orçamento, materiais, 2D/3D, cotas, PDFs, backup e personalizações preservados. Aguardando homologação real do usuário.",
-  "Sha256": "31dd3ce2b551e48b55c703698fd65a44cbe5eba0c3c73aa0f40c68db6801e780",
+  "SourceCommit": "355a81f36ab561779b1b7e88cdc51ac95615b668",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.395/LEAL_INFO_PDV_003_V10_395_UPDATE.zip",
   "TargetClientCode": "003",
-  "SourceCommit": "4682a439c7d15bd80b08ed2e4ba6fbe1eae5badd",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.394/LEAL_INFO_PDV_003_V10_394_UPDATE.zip"
+  "Version": "10.395",
+  "Notes": "V10.395 exclusiva 003: seletor mm/cm/m legível sem truncar mm; troca de unidade valida texto ainda pendente usando a unidade anterior e mantém a fonte canônica em milímetros. Conversões individuais, precisão, cenário chapa 3x2m/peça 1,2x1m e persistência testados. Packing, +CADASTRAR CLIENTE e demais funções da 10.394 preservados. Aguardando homologação física do usuário."
 }
