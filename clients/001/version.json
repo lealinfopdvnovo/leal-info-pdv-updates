@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.402/LEAL_INFO_PDV_001_V10_402_UPDATE.zip",
+  "SourceCommit": "3dfab93e04ebb1cfef72606c2d52a76c05eead94",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.403/LEAL_INFO_PDV_001_V10_403_UPDATE.zip",
+  "Notes": "Restauracao exclusiva acesso3D original na Central: botoes2D/3D reintegrados as abas existentes; mesmo motor, medidas, rotacao/zoom/reset e cotas. Sem novos recursos ou alteracoes01-08, banco, financeiro, agenda, recibos, contratos ou Plano de Corte. Particularidades individuais preservadas. Aguardando homologacao fisica da restauracao3D.",
   "TargetClientCode": "001",
-  "Mandatory": false,
-  "Notes": "Passos07/08 Vidracaria: recibos individuais exclusivamente de ENTRADA financeira real, reimpressao sem novo recebimento; contratos comerciais editaveis vinculados ao projeto/cliente com revisoes preservadas, backup antes de schema aditivo e PDF/A4 pelo motor existente. Documentos nao geram pagamento, venda ou estoque.01-06 e particularidades preservados. Aguardando homologacao fisica07/08.",
-  "SourceCommit": "3a2ecce364305b4a1d1e6ad039223c73db417fb1",
-  "Sha256": "225be5616fa3cfeb644e5105c4c578733be6968a853d4fec9bb0e85b8cdc4b26",
-  "Version": "10.402"
+  "Version": "10.403",
+  "Sha256": "e0000807521304983c4d6b323c91aed4e0ce9eaebdace191460f0a9c066e57f1",
+  "Mandatory": false
 }
