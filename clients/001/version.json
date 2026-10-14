@@ -1,9 +1,9 @@
 {
+  "Sha256": "0535c48e2e9592698e8c625583b9fa2d04b3e3fffa1f0a076a9fe58df0544a7d",
   "TargetClientCode": "001",
-  "Version": "10.399",
+  "SourceCommit": "3644bcfc3fe324949600f8f8b9b3b9ce98e6365b",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.400/LEAL_INFO_PDV_001_V10_400_UPDATE.zip",
+  "Version": "10.400",
   "Mandatory": false,
-  "Sha256": "d3b516b792b2ffd8f003c26147b0af3da674377caf0b4bb53587da365cbbd9e4",
-  "SourceCommit": "3d076f7bdd53903ec4b6560b52cb8965ad918532",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.399/LEAL_INFO_PDV_001_V10_399_UPDATE.zip",
-  "Notes": "V10.399 exclusiva001: port seletivo da Vidracaria003/10.398, unidades mm/cm/m, moeda brasileira com centavos, cadastro original e vinculo, subtotal e A4/PDF. Persistencia/schema existente, dados e personalizacoes do001 preservados; 003 inalterado. Aguardando homologacao fisica."
+  "Notes": "Passos05/06 Vidracaria: Financeiro integrado ao Fluxo de Caixa real com vinculo transacional/idempotente, recebimentos/saidas e saldo derivado sem receita por orcamento; agenda MEDICAO/INSTALACAO no SQLite existente com backup aditivo, cliente por ID e abertura do projeto. Passos01-04 e particularidades individuais preservados. Aguardando homologacao fisica."
 }

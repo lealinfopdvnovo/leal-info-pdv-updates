@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.398/LEAL_INFO_PDV_003_V10_398_UPDATE.zip",
-  "Mandatory": false,
-  "SourceCommit": "f3d855709810ab63d60a63b56e2dfadda5541463",
-  "Notes": "V10.398 exclusiva 003: SELECIONAR CLIENTE na propria janela CLIENTES do cadastro original, devolvendo ID legitimo ao projeto e confirmando nome/ID na Central. Cliente existente e recem cadastrado, persistencia em novo processo e A4/PDF validados. Sem segunda lista, cadastro ou tabela. Moeda homologada e Plano de Corte intactos. Aguardando homologacao fisica do usuario.",
-  "Version": "10.398",
+  "Sha256": "9b6b1b03b4bceebfb996f308aec49a984f42bf02ae8462acd99b0d401d115c9b",
   "TargetClientCode": "003",
-  "Sha256": "67e1d092994a2a1ff2877400e1363865de7c70856882114249b3fe97e5cbd432"
+  "SourceCommit": "ae9bec3a758d5548ded8534d0bece0fa9bded6b2",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.400/LEAL_INFO_PDV_003_V10_400_UPDATE.zip",
+  "Version": "10.400",
+  "Mandatory": false,
+  "Notes": "Passos05/06 Vidracaria: Financeiro integrado ao Fluxo de Caixa real com vinculo transacional/idempotente, recebimentos/saidas e saldo derivado sem receita por orcamento; agenda MEDICAO/INSTALACAO no SQLite existente com backup aditivo, cliente por ID e abertura do projeto. Passos01-04 e particularidades individuais preservados. Aguardando homologacao fisica."
 }
