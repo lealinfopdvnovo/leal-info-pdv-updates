@@ -1,9 +1,9 @@
 {
+  "Version": "10.394",
   "Mandatory": false,
+  "Notes": "V10.394 exclusiva 003: botão + CADASTRAR CLIENTE na Vidraçaria abre o cadastro original do PDV com as permissões existentes; ao retornar atualiza a lista mantendo seleção. Persistência homologada da 10.393, corte, unidades, orçamento, materiais, 2D/3D, cotas, PDFs, backup e personalizações preservados. Aguardando homologação real do usuário.",
+  "Sha256": "31dd3ce2b551e48b55c703698fd65a44cbe5eba0c3c73aa0f40c68db6801e780",
   "TargetClientCode": "003",
-  "Version": "10.393",
-  "Notes": "V10.393 exclusiva 003: SALVAR/ABRIR projetos editáveis de Vidraçaria, persistência transacional no SQLite existente, unidades individuais, materiais, orçamento e entradas do Plano de Corte preservados; reabertura e recálculo pelos motores aprovados. Backup normal inclui projetos; snapshot antes da tabela aditiva; revisão protege contra sobrescrita concorrente. Banco operacional, licença, updater e demais módulos preservados. Aguardando homologação real do usuário.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.393/LEAL_INFO_PDV_003_V10_393_UPDATE.zip",
-  "SourceCommit": "7794222e9204f88eac747df5c6a09ca8518da1a4",
-  "Sha256": "cf7decc7ff0a3ed981c29c83f1a889cbf3b33fd4a8f98fd83d1432c55b166de0"
+  "SourceCommit": "4682a439c7d15bd80b08ed2e4ba6fbe1eae5badd",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.394/LEAL_INFO_PDV_003_V10_394_UPDATE.zip"
 }
