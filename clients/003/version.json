@@ -1,9 +1,9 @@
 {
-  "SourceCommit": "46f4203902a16c5061891d4c702f10ae3a317a71",
-  "Sha256": "f9411f436ec23114c77d2ce3dd3cac9eb802147f665e88459498344beff3b462",
-  "Version": "10.396",
+  "Mandatory": false,
+  "Version": "10.397",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.397/LEAL_INFO_PDV_003_V10_397_UPDATE.zip",
   "TargetClientCode": "003",
-  "Notes": "V10.396 exclusiva 003: campos monetários da Vidraçaria em reais/pt-BR, vírgula decimal independente da cultura do Windows; subtotal/totais coerentes com GlassQuote real, valores comerciais A4 e persistência validados no cenário R$132,00. Acesso à prévia comercial A4/PDF explicitado. Plano de Corte homologado, unidades, +CADASTRAR CLIENTE, banco, backup e demais funções preservados. Aguardando homologação física do usuário.",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.396/LEAL_INFO_PDV_003_V10_396_UPDATE.zip",
-  "Mandatory": false
+  "Sha256": "35ebee3e2cb011ef93f02fdcaecc6853422eb7642e2f3db6e68cf27c9134745e",
+  "SourceCommit": "4973d858e7b54767ac3ff527ba581ad06d2a9d70",
+  "Notes": "V10.397 exclusiva 003: entrada brasileira com centavos automaticos (10050 = R$100,50), preservando virgula explicita, limpeza/zeragem e matematica comercial. Acao SELECIONAR CLIENTE com vinculacao por ID do cadastro original e confirmacao visual; persistencia e A4/PDF em novo processo validados. Plano de Corte e demais funcoes homologadas preservados. Aguardando homologacao fisica do usuario."
 }
