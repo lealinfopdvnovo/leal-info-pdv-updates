@@ -1,9 +1,9 @@
 {
-  "Sha256": "0535c48e2e9592698e8c625583b9fa2d04b3e3fffa1f0a076a9fe58df0544a7d",
-  "TargetClientCode": "001",
-  "SourceCommit": "3644bcfc3fe324949600f8f8b9b3b9ce98e6365b",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.400/LEAL_INFO_PDV_001_V10_400_UPDATE.zip",
-  "Version": "10.400",
+  "Notes": "Correcao EXCLUSIVA passo05: ordem Dock impede resumo de encobrir primeiras linhas do historico; entradas/saidas independentes preservadas. Valor reutiliza controle monetario brasileiro aprovado, aceita 50,00/60,00/20,00/100,00. Sem alteracao de totais, SQL, schema, passos01-04 ou Agenda06. Aguardando homologacao fisica.",
   "Mandatory": false,
-  "Notes": "Passos05/06 Vidracaria: Financeiro integrado ao Fluxo de Caixa real com vinculo transacional/idempotente, recebimentos/saidas e saldo derivado sem receita por orcamento; agenda MEDICAO/INSTALACAO no SQLite existente com backup aditivo, cliente por ID e abertura do projeto. Passos01-04 e particularidades individuais preservados. Aguardando homologacao fisica."
+  "SourceCommit": "536b9a49e2142ba12d8583e9383f39986b51f25b",
+  "Sha256": "293305ffa6d0b51b56d84b2034ea93bbffc0f814acc1db83be01c0fe632333da",
+  "TargetClientCode": "001",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.401/LEAL_INFO_PDV_001_V10_401_UPDATE.zip",
+  "Version": "10.401"
 }
