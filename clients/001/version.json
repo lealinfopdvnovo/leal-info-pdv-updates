@@ -1,9 +1,9 @@
 {
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.392/LEAL_INFO_PDV_001_V10_392_UPDATE.zip",
-  "SourceCommit": "e210bd4dc7a02a3992432046a98de43250c39488",
-  "Notes": "V10.392 exclusiva 001: SALVAR/ABRIR projetos editáveis de Vidraçaria, persistência transacional no SQLite existente, unidades individuais, materiais, orçamento e entradas do Plano de Corte preservados; reabertura e recálculo pelos motores aprovados. Backup normal inclui projetos; snapshot antes da tabela aditiva; revisão protege contra sobrescrita concorrente. Banco operacional, licença, updater e demais módulos preservados. Aguardando homologação real do usuário.",
-  "Mandatory": false,
-  "Sha256": "b2dffdec03445295bebed8c6d8c1033642ae16ead6f9e751b243d8e71a64c0f3",
   "TargetClientCode": "001",
-  "Version": "10.392"
+  "Version": "10.399",
+  "Mandatory": false,
+  "Sha256": "d3b516b792b2ffd8f003c26147b0af3da674377caf0b4bb53587da365cbbd9e4",
+  "SourceCommit": "3d076f7bdd53903ec4b6560b52cb8965ad918532",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.399/LEAL_INFO_PDV_001_V10_399_UPDATE.zip",
+  "Notes": "V10.399 exclusiva001: port seletivo da Vidracaria003/10.398, unidades mm/cm/m, moeda brasileira com centavos, cadastro original e vinculo, subtotal e A4/PDF. Persistencia/schema existente, dados e personalizacoes do001 preservados; 003 inalterado. Aguardando homologacao fisica."
 }
