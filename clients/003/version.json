@@ -1,9 +1,11 @@
 {
-  "Version": "10.406",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.406/LEAL_INFO_PDV_003_V10_406_UPDATE.zip",
-  "Sha256": "59f1a6194bb45c76eb7ee67892c50075b7e55e2eece378577680142c3240f649",
-  "SourceCommit": "49529cbaf21a56c4744a7cedf229b728c021f7d9",
-  "TargetClientCode": "003",
+  "Version": "10.407",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.407/LEAL_INFO_PDV_003_V10_407_UPDATE.zip",
+  "Sha256": "9a6f680839074703bd2bba7e718128a5b6bcdf9bbc2b5602cca3dbef9b7b39c2",
+  "SourceCommit": "b39c4fdb84fba4ae9ac3774368c0f1bea3a2c8ff",
   "Mandatory": false,
-  "Notes": "V10.406: estrutura reutilizável para cadastros e consultas, busca integrada, resumo da lista, formulários com rolagem e ações adaptáveis ao tamanho da janela. Ajustes de espaçamento e limites da área útil nas telas internas. Preserva tela principal, módulos aprovados, dados, licença e o atualizador existente."
+  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
+  "DistributionRevision": "a5c00d71a519d129773c86657e67ae9e50b749cb",
+  "BuildRunId": "38979263839",
+  "TargetClientCode": "003"
 }
