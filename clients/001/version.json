@@ -1,9 +1,9 @@
 {
-  "Version": "10.404",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.404/LEAL_INFO_PDV_001_V10_404_UPDATE.zip",
-  "Sha256": "a6dc443af7c8a26c191487744ce3039441363ec6670bc4759002dcefbd5b967c",
-  "SourceCommit": "4ece3ee51754539d71d6a913e29760d03c4e3835",
+  "Version": "10.405",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.405/LEAL_INFO_PDV_001_V10_405_UPDATE.zip",
+  "Sha256": "d40cdbefb66f932d44c851dd2b2159fcf02a14b26b322e91f391ab74c25f5321",
+  "SourceCommit": "febcbde2a682fe7020b3060bcf2da70c02aa4954",
   "TargetClientCode": "001",
   "Mandatory": false,
-  "Notes": "Restauração automática de backup exclusiva do 001: seleção e validação do arquivo, fechamento controlado, cópia de segurança, restauração verificada e reinício automático. Proteção externa da primeira atualização ativada localmente e confirmada pelo proprietário. Banco, licença, configurações e funcionalidades aprovadas preservados."
+  "Notes": "V10.405 exclusiva do 001: padrão visual compartilhado em azul profundo e ciano, tabelas com contraste, cabeçalhos e botões com relevo nas telas existentes. Preserva controles, atalhos, dados, licença, configurações e funções aprovadas. Entrega pelo atualizador já instalado."
 }
