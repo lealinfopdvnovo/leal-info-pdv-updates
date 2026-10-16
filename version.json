@@ -1,16 +1,13 @@
 {
-  "Version": "10.407",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.407-channels/LEAL_INFO_PDV_V10_407_CHANNELS_UPDATE.zip",
-  "Sha256": "f693bfb8c5f2fcf654c3d45c2cca99900826c2aa22257b8e6e8958a8d11b2aa6",
-  "SourceCommit": "36d28a8f0ac4f34bd65a666f026b4780f8bc732d",
   "Mandatory": false,
+  "Sha256": "502dc78ae6143a794ce1f823dacd53bd10a880fab3ef219b1157ffd98bc27f44",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.385/LEAL_INFO_PDV_V10_385_UPDATE.zip",
+  "SourceCommit": "602110dce785a3eff933c8d82b97f99736516f51",
+  "Notes": "V10.385 GLOBAL: logo do cliente automaticamente no topo e na vitrine do PDV, usando logo cadastrado ou imagem personalizada existente da tela principal. Mantem proporcao e fotos dos produtos. CEP e pacotes personalizados 001/002/003 preservados. Sem dados, licencas, imagens ou configuracoes no pacote.",
   "Editions": [
     "STANDARD",
     "PLUS",
     "PRO"
   ],
-  "Notes": "Canais de atualizacao independentes. Preserva o programa personalizado, banco, licenca e configuracoes. Atualize pelo proprio PDV.",
-  "Delivery": "preserve-existing-core",
-  "DistributionRevision": "7fe2a7e186b26c21a7cb5cd415e7f7466398d8bb",
-  "BuildRunId": "38980489202"
+  "Version": "10.385"
 }
