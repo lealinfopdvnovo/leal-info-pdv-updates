@@ -1,9 +1,9 @@
 {
-  "SourceCommit": "d1525b64db03bc4608aabe020ecfc6e200ec2f05",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.403/LEAL_INFO_PDV_003_V10_403_UPDATE.zip",
-  "Notes": "Restauracao exclusiva acesso3D original na Central: botoes2D/3D reintegrados as abas existentes; mesmo motor, medidas, rotacao/zoom/reset e cotas. Sem novos recursos ou alteracoes01-08, banco, financeiro, agenda, recibos, contratos ou Plano de Corte. Particularidades individuais preservadas. Aguardando homologacao fisica da restauracao3D.",
+  "Version": "10.406",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.406/LEAL_INFO_PDV_003_V10_406_UPDATE.zip",
+  "Sha256": "59f1a6194bb45c76eb7ee67892c50075b7e55e2eece378577680142c3240f649",
+  "SourceCommit": "49529cbaf21a56c4744a7cedf229b728c021f7d9",
   "TargetClientCode": "003",
-  "Version": "10.403",
-  "Sha256": "4dbf912f043f2ec1c30775a62fd67f045da761d9957736725467a424eace671d",
-  "Mandatory": false
+  "Mandatory": false,
+  "Notes": "V10.406: estrutura reutilizável para cadastros e consultas, busca integrada, resumo da lista, formulários com rolagem e ações adaptáveis ao tamanho da janela. Ajustes de espaçamento e limites da área útil nas telas internas. Preserva tela principal, módulos aprovados, dados, licença e o atualizador existente."
 }
