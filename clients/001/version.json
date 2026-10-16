@@ -1,9 +1,9 @@
 {
-  "Version": "10.405",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.405/LEAL_INFO_PDV_001_V10_405_UPDATE.zip",
-  "Sha256": "d40cdbefb66f932d44c851dd2b2159fcf02a14b26b322e91f391ab74c25f5321",
-  "SourceCommit": "febcbde2a682fe7020b3060bcf2da70c02aa4954",
+  "Version": "10.406",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.406/LEAL_INFO_PDV_001_V10_406_UPDATE.zip",
+  "Sha256": "76251d67f10a69e6f8e217868039786b4bfb31c74fee32a0f4d89631d07e6818",
+  "SourceCommit": "6cca62be4682660691590da8d9ab20da54330144",
   "TargetClientCode": "001",
   "Mandatory": false,
-  "Notes": "V10.405 exclusiva do 001: padrão visual compartilhado em azul profundo e ciano, tabelas com contraste, cabeçalhos e botões com relevo nas telas existentes. Preserva controles, atalhos, dados, licença, configurações e funções aprovadas. Entrega pelo atualizador já instalado."
+  "Notes": "V10.406: estrutura reutilizável para cadastros e consultas, busca integrada, resumo da lista, formulários com rolagem e ações adaptáveis ao tamanho da janela. Ajustes de espaçamento e limites da área útil nas telas internas. Preserva tela principal, módulos aprovados, dados, licença e o atualizador existente."
 }
