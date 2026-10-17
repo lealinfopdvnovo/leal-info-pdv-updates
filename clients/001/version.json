@@ -4,7 +4,7 @@
   "Sha256": "409450cff480eee7263cba08c4065bff78e343747a0959a030de8e5401604bdf",
   "SourceCommit": "36ae2ed661c98dd59fe506ab844cdada9a5e67be",
   "Mandatory": false,
-  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
+  "Notes": "Integração ANGRA VIDROS: busca de clientes do PDV e envio de projetos, medidas, materiais e orçamentos. Fila de reenvio, revisão de conflitos e vínculo autorizado preservados. Requer ANGRA VIDROS 0.3.2. Banco, licença, configurações e atualizador preservados.",
   "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
   "BuildRunId": "39032253112",
   "TargetClientCode": "001"
