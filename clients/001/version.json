@@ -4,7 +4,7 @@
   "Sha256": "0f3b466a87f1e0871c47268d7eec041f65b8456380cb581be7a9c5421ad1959c",
   "SourceCommit": "d4797103e9e612c37c9814459078339e1321868c",
   "Mandatory": false,
-  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
+  "Notes": "Integração ANGRA VIDROS: código seguro com validade de 10 minutos, status do vínculo, renovação e revogação. Etapa somente de vinculação, sem transferência de projetos ou cadastros. Use o app 0.3.1 para status e reconexão após revogação. Banco, licença e configurações preservados.",
   "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
   "BuildRunId": "38986363614",
   "TargetClientCode": "001"
