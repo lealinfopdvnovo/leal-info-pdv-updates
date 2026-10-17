@@ -1,11 +1,11 @@
 {
-  "Version": "10.410",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.410/LEAL_INFO_PDV_001_V10_410_UPDATE.zip",
-  "Sha256": "0f3b466a87f1e0871c47268d7eec041f65b8456380cb581be7a9c5421ad1959c",
-  "SourceCommit": "d4797103e9e612c37c9814459078339e1321868c",
+  "Version": "10.411",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.411/LEAL_INFO_PDV_001_V10_411_UPDATE.zip",
+  "Sha256": "409450cff480eee7263cba08c4065bff78e343747a0959a030de8e5401604bdf",
+  "SourceCommit": "36ae2ed661c98dd59fe506ab844cdada9a5e67be",
   "Mandatory": false,
-  "Notes": "Integração ANGRA VIDROS: código seguro com validade de 10 minutos, status do vínculo, renovação e revogação. Etapa somente de vinculação, sem transferência de projetos ou cadastros. Use o app 0.3.1 para status e reconexão após revogação. Banco, licença e configurações preservados.",
+  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
   "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
-  "BuildRunId": "38986363614",
+  "BuildRunId": "39032253112",
   "TargetClientCode": "001"
 }
