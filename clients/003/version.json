@@ -4,7 +4,7 @@
   "Sha256": "1f0a61c46c4c3b7aa9ad10d80e1234fcb4ff734147ca89f7cecd7a3974ca2053",
   "SourceCommit": "a5365a367fb02db2fb0a9e2bf0dbeb34b18bb998",
   "Mandatory": false,
-  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
+  "Notes": "Correção do alerta ANGRA VIDROS: novos projetos importados aparecem automaticamente na tela principal e durante vendas, acima da barra azul, com cliente, ABRIR PROJETO e contador persistente de não visualizados. Durante vendas, o aviso ocupa espaço próprio e mantém finalizar/cancelar acessíveis. Sem roubar foco, duplicar avisos ou abrir a Central automaticamente. Sincronização, banco, licença, configurações e atualizador preservados.",
   "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
   "BuildRunId": "39050971753",
   "TargetClientCode": "003"
