@@ -4,7 +4,7 @@
   "Sha256": "5c32bedc6048761dda99ece5e201c913294b3cad5a9375ce62b27e48d1374c5c",
   "SourceCommit": "01da0073d08b2d487a33f5b5ce77daae7f669d90",
   "Mandatory": false,
-  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
+  "Notes": "ANGRA VIDROS: código de conexão de 6 dígitos e envio direto de projetos/orçamentos com cliente, fotos, medidas, materiais e valores. Status PENDENTE / ENVIADO / RECEBIDO, com recebimento automático quando o PDV voltar. Vínculos existentes preservados. Requer ANGRA VIDROS 0.3.4. Banco, licença, configurações e atualizador preservados.",
   "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
   "BuildRunId": "39040176971",
   "TargetClientCode": "003"
