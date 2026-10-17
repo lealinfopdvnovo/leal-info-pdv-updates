@@ -4,7 +4,7 @@
   "Sha256": "47b9b9c198a77da261da6e5f54516e6270bcafdcd7d5d6bc53c3b05dcbf917ac",
   "SourceCommit": "85b3c98efeb204d8ff06b10a7170d5f927cba60d",
   "Mandatory": false,
-  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
+  "Notes": "ANGRA VIDROS: geração de código e sincronização mais rápidas, preservando os vínculos existentes. Novos projetos importados aparecem no canto inferior direito, acima da barra azul, com cliente, ABRIR PROJETO e contador de não visualizados. Avisos persistentes, sem repetição nem abertura automática de janelas. Envio de projetos, fotos, medidas e valores preservado. Banco, licença, configurações e atualizador preservados.",
   "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
   "BuildRunId": "39045294896",
   "TargetClientCode": "001"
