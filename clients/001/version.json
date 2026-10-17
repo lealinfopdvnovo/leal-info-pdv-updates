@@ -1,11 +1,11 @@
 {
-  "Version": "10.412",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.412/LEAL_INFO_PDV_001_V10_412_UPDATE.zip",
-  "Sha256": "4491c32f047a4f172002105b2e19007cc391ab95dcd063f0f4dc10d5eaa829e5",
-  "SourceCommit": "c900bdb46cbec0e7c497cfbdf57250753960d414",
+  "Version": "10.413",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.413/LEAL_INFO_PDV_001_V10_413_UPDATE.zip",
+  "Sha256": "47b9b9c198a77da261da6e5f54516e6270bcafdcd7d5d6bc53c3b05dcbf917ac",
+  "SourceCommit": "85b3c98efeb204d8ff06b10a7170d5f927cba60d",
   "Mandatory": false,
-  "Notes": "ANGRA VIDROS: código de conexão de 6 dígitos e envio direto de projetos/orçamentos com cliente, fotos, medidas, materiais e valores. Status PENDENTE / ENVIADO / RECEBIDO, com recebimento automático quando o PDV voltar. Vínculos existentes preservados. Requer ANGRA VIDROS 0.3.4. Banco, licença, configurações e atualizador preservados.",
+  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
   "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
-  "BuildRunId": "39040175328",
+  "BuildRunId": "39045294896",
   "TargetClientCode": "001"
 }
