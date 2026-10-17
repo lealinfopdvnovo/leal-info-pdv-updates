@@ -1,11 +1,11 @@
 {
-  "Version": "10.414",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.414/LEAL_INFO_PDV_001_V10_414_UPDATE.zip",
-  "Sha256": "b55cd5736a99e4b0a4b336480cd2737a33fbc7082fadb92458ab942e172d57a9",
-  "SourceCommit": "016bbe9f044b994b8e151c33640cf5c515cbf574",
+  "Version": "10.415",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.415/LEAL_INFO_PDV_001_V10_415_UPDATE.zip",
+  "Sha256": "dd4256fbd7406a8acbcb1b6615144d941b57a948ad9dc73eee409b05b12b663c",
+  "SourceCommit": "55e3a10d2c1b32b7db1a980e7f462a1d07f5a87c",
   "Mandatory": false,
-  "Notes": "Correção do alerta ANGRA VIDROS: novos projetos importados aparecem automaticamente na tela principal e durante vendas, acima da barra azul, com cliente, ABRIR PROJETO e contador persistente de não visualizados. Durante vendas, o aviso ocupa espaço próprio e mantém finalizar/cancelar acessíveis. Sem roubar foco, duplicar avisos ou abrir a Central automaticamente. Sincronização, banco, licença, configurações e atualizador preservados.",
+  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
   "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
-  "BuildRunId": "39050744849",
+  "BuildRunId": "39057752012",
   "TargetClientCode": "001"
 }
