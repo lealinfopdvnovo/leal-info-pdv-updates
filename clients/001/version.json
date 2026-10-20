@@ -1,11 +1,11 @@
 {
-  "Version": "10.421",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.421/LEAL_INFO_PDV_001_V10_421_UPDATE.zip",
-  "Sha256": "cc244e005ef8bf9b86f8ab19ca5bf8641dab2f3275962463ea933e540162f56f",
-  "SourceCommit": "41c8d6c7c0df5ce5778431344445599558a07848",
+  "Version": "10.422",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.422/LEAL_INFO_PDV_001_V10_422_UPDATE.zip",
+  "Sha256": "e06cee577a7dbddedf800271e55ed68f6053062d0b92d8d3aadc3e901b085e8f",
+  "SourceCommit": "b156dc46d8b7e2d71e533f23449545c65f4e99ab",
   "Mandatory": false,
   "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
   "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
-  "BuildRunId": "39482139297",
+  "BuildRunId": "39501475840",
   "TargetClientCode": "001"
 }
