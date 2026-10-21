@@ -1,13 +1,13 @@
 {
-  "Version": "10.429",
+  "Version": "10.430",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.429/LEAL_INFO_PDV_001_V10_429_UPDATE.zip",
-  "Sha256": "2de669051dfe4a86abac57aea010463c12d0becf0f42f122549e38e0ce27326e",
-  "SourceCommit": "8ff95a56116bd00f9d56c8e30de2d07323782942",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.430/LEAL_INFO_PDV_001_V10_430_UPDATE.zip",
+  "Sha256": "375c9767158bfe7a647ae6435d08426f25217b34fe8747197d982df9be7b6dc7",
+  "SourceCommit": "3cb3dc3d877f2e8cec2c67df98dc8246060d0539",
   "Mandatory": false,
-  "Notes": "Contador estável, pagamento da mesa integrado ao PDV, catálogo separado por classificação obrigatória Cozinha SIM/NÃO, importação com avisos e comanda com impressora térmica/A4. Dados e licença preservados.",
-  "BuildRunId": "39625707599",
-  "ValidationRunId": "39625707599",
+  "Notes": "Catálogo Pronto ampliado para 258 itens de bar e cozinha, com preços sugeridos editáveis, busca e filtro por categoria. Fotos existentes e ilustrações identificadas. Cadastros e preços existentes preservados.",
+  "BuildRunId": "39635866425",
+  "ValidationRunId": "39635866425",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.428"
+  "PublishedBaselineVersion": "10.429"
 }
