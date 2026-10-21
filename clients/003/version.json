@@ -1,11 +1,13 @@
 {
-  "Version": "10.415",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.415/LEAL_INFO_PDV_003_V10_415_UPDATE.zip",
-  "Sha256": "3d8f48bb50642e1f21152b9c01295c035f1728191d6095609c464cdb7df5b734",
-  "SourceCommit": "137612d259a0fcecdbc2c2165893ba73988eb847",
+  "Version": "10.423",
+  "TargetClientCode": "003",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.423/LEAL_INFO_PDV_003_V10_423_UPDATE.zip",
+  "Sha256": "53076441f304f102fbde9091ed794cca46f7fd5516f6452c25b0aae23f9e06f4",
+  "SourceCommit": "8d3ec93138ee8962700369da51bdfaf96c112b83",
   "Mandatory": false,
-  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
-  "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
-  "BuildRunId": "39057753604",
-  "TargetClientCode": "003"
+  "Notes": "Cozinha Premium: correção de textos cortados, botões e mesas; preservação do tema Black Premium. Exclusivo 003. Banco, estoque, licença e configurações preservados.",
+  "BuildRunId": "39519486382",
+  "ValidationRunId": "39519903363",
+  "ProtectedUpdaterRequired": true,
+  "ConfirmedInstalledVersion": "10.422"
 }
