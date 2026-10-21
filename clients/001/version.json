@@ -1,13 +1,13 @@
 {
-  "Version": "10.430",
+  "Version": "10.431",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.430/LEAL_INFO_PDV_001_V10_430_UPDATE.zip",
-  "Sha256": "375c9767158bfe7a647ae6435d08426f25217b34fe8747197d982df9be7b6dc7",
-  "SourceCommit": "3cb3dc3d877f2e8cec2c67df98dc8246060d0539",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.431/LEAL_INFO_PDV_001_V10_431_UPDATE.zip",
+  "Sha256": "b238ba0c41e296b81222037c275ecb192685e9c9186e8ed83573f67e14ff04a9",
+  "SourceCommit": "7ea2e37803f97b7ea6d6e1bf466dea75da6fa1f2",
   "Mandatory": false,
-  "Notes": "Catálogo Pronto ampliado para 258 itens de bar e cozinha, com preços sugeridos editáveis, busca e filtro por categoria. Fotos existentes e ilustrações identificadas. Cadastros e preços existentes preservados.",
-  "BuildRunId": "39635866425",
-  "ValidationRunId": "39635866425",
+  "Notes": "Fotos ilustrativas nos 258 itens do catálogo, incorporadas para uso offline. Corrige imagens automáticas já importadas, preservando preços, estoque e fotos personalizadas. Somente 001 e 003, pelo atualizador interno.",
+  "BuildRunId": "39645556626",
+  "ValidationRunId": "39645556626",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.429"
+  "PublishedBaselineVersion": "10.430"
 }
