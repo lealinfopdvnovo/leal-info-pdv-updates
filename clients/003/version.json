@@ -1,13 +1,13 @@
 {
-  "Version": "10.427",
+  "Version": "10.428",
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.427/LEAL_INFO_PDV_003_V10_427_UPDATE.zip",
-  "Sha256": "c84d0c525920faa2bf1cb494ac30283de76efdd5a3d8b58a7f47bec682f00a02",
-  "SourceCommit": "14666ed23953586f183483369b2f5f11e3871071",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.428/LEAL_INFO_PDV_003_V10_428_UPDATE.zip",
+  "Sha256": "65b548a43eb2f61fd6f9c5d6b1e714ef027478fcf6338e5e6b8a059cae6a6f99",
+  "SourceCommit": "f82edaeca2dfe49f441ac7a324b2d6e32027a0bf",
   "Mandatory": false,
-  "Notes": "Duplo clique nas mesas abre a janela flutuante da mesa: incluir, editar e retirar itens do rascunho, consultar pedidos enviados e usar suas ações. Visual aprovado, dados, licença e personalizações preservados.",
-  "BuildRunId": "39603337952",
-  "ValidationRunId": "39603337952",
+  "Notes": "Contador estável, pagamento da mesa integrado ao PDV, catálogo separado por classificação obrigatória Cozinha SIM/NÃO, importação com avisos e comanda com impressora térmica/A4. Dados e licença preservados.",
+  "BuildRunId": "39624722724",
+  "ValidationRunId": "39624722724",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.426"
+  "PublishedBaselineVersion": "10.427"
 }
