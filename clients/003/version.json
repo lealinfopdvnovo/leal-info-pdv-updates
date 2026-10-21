@@ -1,14 +1,14 @@
 {
-  "Version": "10.433",
+  "Version": "10.434",
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.433/LEAL_INFO_PDV_003_V10_433_UPDATE.zip",
-  "Sha256": "ff7fef2027236de6c95c7f9a474bed632137f2a9511a40dc04123721e896110a",
-  "SourceCommit": "1a8fd9770b6a2bf87307fa31d002d3126b22747e",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.434/LEAL_INFO_PDV_003_V10_434_UPDATE.zip",
+  "Sha256": "9de3d26df92789e284679c1fe743643ef735307b67aba10212c20c03db15219f",
+  "SourceCommit": "ffd58131f8dcd1279a019c50a78d2cc83913f133",
   "Mandatory": false,
-  "Notes": "Cozinha Premium: atualiza imediatamente o pedido da mesa após enviar e adiciona seta para abrir o menu de status com clique esquerdo, mantendo botão direito. Somente correções 01 e 02; dados e personalizações preservados. Atualização interna exclusiva do cliente 003.",
-  "BuildRunId": "39683851812",
-  "ValidationRunId": "39683851812",
-  "KitchenValidationRunId": "39680892505",
+  "Notes": "Cozinha Premium: ADICIONAR À MESA registra consumo sem preparo; ENVIAR À COZINHA mantém preparos independentes. Conta agrupada por mesa, cancelamento por item com histórico, recálculo imediato e proteção de pagamentos concluídos. Exclusivo cliente 003.",
+  "BuildRunId": "39686513270",
+  "ValidationRunId": "39686513270",
+  "KitchenValidationRunId": "39686513270",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.432"
+  "PublishedBaselineVersion": "10.433"
 }
