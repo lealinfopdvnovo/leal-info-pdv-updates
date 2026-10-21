@@ -1,11 +1,13 @@
 {
-  "Version": "10.422",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.422/LEAL_INFO_PDV_001_V10_422_UPDATE.zip",
-  "Sha256": "e06cee577a7dbddedf800271e55ed68f6053062d0b92d8d3aadc3e901b085e8f",
-  "SourceCommit": "b156dc46d8b7e2d71e533f23449545c65f4e99ab",
+  "Version": "10.426",
+  "TargetClientCode": "001",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.426/LEAL_INFO_PDV_001_V10_426_UPDATE.zip",
+  "Sha256": "07a184aebd571bb25e716b4605a62c817780242d9d61398e83aacef5fb43651c",
+  "SourceCommit": "2fd04619c33dfa6774e1700461e1a8b3e40a5bf9",
   "Mandatory": false,
-  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
-  "DistributionRevision": "b95da478624312a5070e9ee512e156b3a9dcb858",
-  "BuildRunId": "39501475840",
-  "TargetClientCode": "001"
+  "Notes": "Cozinha Premium: acabamento 3D, mesas coloridas, fotografias, pedido escuro e Novo Pedido em janela própria. Atualização pelo PDV; dados, licença e personalizações preservados.",
+  "BuildRunId": "39600930552",
+  "ValidationRunId": "39600930552",
+  "ProtectedUpdaterRequired": true,
+  "PublishedBaselineVersion": "10.422"
 }
