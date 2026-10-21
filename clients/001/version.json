@@ -1,13 +1,13 @@
 {
-  "Version": "10.431",
+  "Version": "10.432",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.431/LEAL_INFO_PDV_001_V10_431_UPDATE.zip",
-  "Sha256": "b238ba0c41e296b81222037c275ecb192685e9c9186e8ed83573f67e14ff04a9",
-  "SourceCommit": "7ea2e37803f97b7ea6d6e1bf466dea75da6fa1f2",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.432/LEAL_INFO_PDV_001_V10_432_UPDATE.zip",
+  "Sha256": "834e8ee1fa4782b8b46448af6afe2b6c0af6f62c3d8a772f4b32c769c9269242",
+  "SourceCommit": "2cb6f0714884b895d8e574f174353c99840ffebf",
   "Mandatory": false,
-  "Notes": "Fotos ilustrativas nos 258 itens do catálogo, incorporadas para uso offline. Corrige imagens automáticas já importadas, preservando preços, estoque e fotos personalizadas. Somente 001 e 003, pelo atualizador interno.",
-  "BuildRunId": "39645556626",
-  "ValidationRunId": "39645556626",
+  "Notes": "Corrige erro de conversão no Relatório Financeiro ao combinar vendas e movimentações manuais do caixa. Preserva lançamentos, preços, estoque, licença e Cozinha. Exclusivo 001 e 003 pelo atualizador interno.",
+  "BuildRunId": "39653072003",
+  "ValidationRunId": "39653072003",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.430"
+  "PublishedBaselineVersion": "10.431"
 }
