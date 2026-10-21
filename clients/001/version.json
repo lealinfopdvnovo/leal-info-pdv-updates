@@ -1,13 +1,14 @@
 {
-  "Version": "10.432",
+  "Version": "10.433",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.432/LEAL_INFO_PDV_001_V10_432_UPDATE.zip",
-  "Sha256": "834e8ee1fa4782b8b46448af6afe2b6c0af6f62c3d8a772f4b32c769c9269242",
-  "SourceCommit": "2cb6f0714884b895d8e574f174353c99840ffebf",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.433/LEAL_INFO_PDV_001_V10_433_UPDATE.zip",
+  "Sha256": "86500be93df7dcd1e50036f24c9bdd912c5d444fa8bc5a98d92d7ce9449b595b",
+  "SourceCommit": "1076a54d560609a2bf251e0e9d1a9d104cd090fe",
   "Mandatory": false,
-  "Notes": "Corrige erro de conversão no Relatório Financeiro ao combinar vendas e movimentações manuais do caixa. Preserva lançamentos, preços, estoque, licença e Cozinha. Exclusivo 001 e 003 pelo atualizador interno.",
-  "BuildRunId": "39653072003",
-  "ValidationRunId": "39653072003",
+  "Notes": "Cozinha Premium: atualiza imediatamente o pedido da mesa após enviar e adiciona seta para abrir o menu de status com clique esquerdo, mantendo botão direito. Somente correções 01 e 02; dados e personalizações preservados. Atualização interna exclusiva do cliente 001.",
+  "BuildRunId": "39683851812",
+  "ValidationRunId": "39683851812",
+  "KitchenValidationRunId": "39680892505",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.431"
+  "PublishedBaselineVersion": "10.432"
 }
