@@ -1,14 +1,14 @@
 {
-  "Version": "10.424",
+  "Version": "10.425",
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.424/LEAL_INFO_PDV_003_V10_424_UPDATE.zip",
-  "Sha256": "120e85f3c03d9266b3867e8a6d6b8185dbbf320cbe266589b54816894251bbaa",
-  "SourceCommit": "a6462ce82b8d55e0d2a0f9646238423038f7a5d8",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.425/LEAL_INFO_PDV_003_V10_425_UPDATE.zip",
+  "Sha256": "47db067c2bb796b1a7c9515bd939bc5063c40ea9e8607e58c24667a8bda23cc5",
+  "SourceCommit": "66b473648998bb7f4e2f9595c72cff82157dd9be",
   "Mandatory": false,
-  "Notes": "Cozinha Premium: centralização dos títulos, categorias e preços; correção do cabeçalho duplicado e dos cortes no título e rodapé do NOVO PEDIDO. Exclusivo 003. Banco, estoque, licença e configurações preservados.",
-  "BuildRunId": "39521451223",
-  "ValidationRunId": "39521805378",
+  "Notes": "Cozinha Premium conforme referência: mesas 3D, pedido integrado, envio, prévia de comanda, marcação de pronto e pedidos em andamento com cronômetros. Exclusivo 003. Banco, estoque, licença e configurações preservados.",
+  "BuildRunId": "39527535881",
+  "ValidationRunId": "39529160429",
   "ProtectedUpdaterRequired": true,
   "LastUserConfirmedProtectedVersion": "10.422",
-  "PublishedBaselineVersion": "10.423"
+  "PublishedBaselineVersion": "10.424"
 }
