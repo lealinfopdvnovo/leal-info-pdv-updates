@@ -1,13 +1,13 @@
 {
-  "Version": "10.426",
+  "Version": "10.427",
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.426/LEAL_INFO_PDV_003_V10_426_UPDATE.zip",
-  "Sha256": "04877d5ad399520eea2fa1dc4cc2010a02124d4d2b057335831175d1742a4ac9",
-  "SourceCommit": "c6e3eb9ff4c87fa089c55078804311ee6fb88d23",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.427/LEAL_INFO_PDV_003_V10_427_UPDATE.zip",
+  "Sha256": "c84d0c525920faa2bf1cb494ac30283de76efdd5a3d8b58a7f47bec682f00a02",
+  "SourceCommit": "14666ed23953586f183483369b2f5f11e3871071",
   "Mandatory": false,
-  "Notes": "Cozinha Premium: acabamento 3D, mesas coloridas, fotografias, pedido escuro e Novo Pedido em janela própria. Atualização pelo PDV; dados, licença e personalizações preservados.",
-  "BuildRunId": "39539006348",
-  "ValidationRunId": "39600930552",
+  "Notes": "Duplo clique nas mesas abre a janela flutuante da mesa: incluir, editar e retirar itens do rascunho, consultar pedidos enviados e usar suas ações. Visual aprovado, dados, licença e personalizações preservados.",
+  "BuildRunId": "39603337952",
+  "ValidationRunId": "39603337952",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.425"
+  "PublishedBaselineVersion": "10.426"
 }
