@@ -1,14 +1,14 @@
 {
-  "Version": "10.441",
+  "Version": "10.442",
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.441/LEAL_INFO_PDV_003_V10_441_UPDATE.zip",
-  "Sha256": "08d56ba50b8787ff0ad853542a7d528b418855d74ba038602bc2d6b2504a630f",
-  "SourceCommit": "8210e6ef5777d96fc3317711b034ed86647b16e7",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.442/LEAL_INFO_PDV_003_V10_442_UPDATE.zip",
+  "Sha256": "f2ae291b7ce0f5a2bf8e4cb139bf08304f0973e2db593ed495a9b78aae72c0e9",
+  "SourceCommit": "ba86aa4089a9dfa4a2f081d4d3a5b4f1da3ec4f4",
   "Mandatory": false,
   "Notes": "Cozinha Premium 003: alinhamento responsivo dos botões de recebimento. Cálculos, quantidades, preparo e histórico de pagamentos preservados.",
-  "BuildRunId": "39722060808",
-  "ValidationRunId": "39722060808",
-  "KitchenValidationRunId": "39722060808",
+  "BuildRunId": "39722399864",
+  "ValidationRunId": "39722399864",
+  "KitchenValidationRunId": "39722399864",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.440"
+  "PublishedBaselineVersion": "10.441"
 }
