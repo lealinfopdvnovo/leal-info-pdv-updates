@@ -1,14 +1,14 @@
 {
-  "Version": "10.438",
+  "Version": "10.439",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.438/LEAL_INFO_PDV_001_V10_438_UPDATE.zip",
-  "Sha256": "148d0dae40af9eba4f98aa89406ff6fbb7957d6a41d02af297beba7cf9d20f47",
-  "SourceCommit": "f4cf24c069e70883a56a0035c8d885294de19fc2",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.439/LEAL_INFO_PDV_001_V10_439_UPDATE.zip",
+  "Sha256": "2e3b477cdca852cfb073d6a9d2ce3e3949be093a53eb03b555df25c9fba58bf0",
+  "SourceCommit": "35c795bd411642c9aaa5e927bc486af52399385c",
   "Mandatory": false,
-  "Notes": "LOJA LEAL INFO PET V1.2: logotipo maior no cabeçalho da tela de vendas, preservando proporções e imagem cadastrada. Botão de teste removido. Exclusivo 001.",
-  "BuildRunId": "39837273895",
-  "ValidationRunId": "39837273895",
+  "Notes": "LOJA LEAL INFO: identificação PET V1.2 ao lado da versão do PDV no rodapé. Mantidos logotipo ampliado e remoção do botão de teste. Exclusivo 001.",
+  "BuildRunId": "39846811630",
+  "ValidationRunId": "39846811630",
   "KitchenValidationRunId": "39706043559",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.437"
+  "PublishedBaselineVersion": "10.438"
 }
