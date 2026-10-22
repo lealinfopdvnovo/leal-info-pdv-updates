@@ -1,14 +1,14 @@
 {
-  "Version": "10.435",
+  "Version": "10.436",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.435/LEAL_INFO_PDV_001_V10_435_UPDATE.zip",
-  "Sha256": "42112d5f22a94f457654d7c84dc323e2539f8eda5e8a2cf3208aaeeb0bbca40c",
-  "SourceCommit": "a2f7d7e812e30ec25ea71aa43bf9342f734939c2",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.436/LEAL_INFO_PDV_001_V10_436_UPDATE.zip",
+  "Sha256": "8638d6b73a0c96bed046bf3433c746104d9a42a13f6946a7a8413726fc253edd",
+  "SourceCommit": "f2e822fbccbe07b349150a1e8997994c634f9d50",
   "Mandatory": false,
   "Notes": "Cozinha Premium: pagamento parcial por produtos e quantidades, bloqueio de itens não entregues, conta persistente e proteção contra cobrança ou estoque duplicados. Exclusivo cliente 001 pelo atualizador interno.",
-  "BuildRunId": "39706043559",
-  "ValidationRunId": "39706043559",
+  "BuildRunId": "39706945405",
+  "ValidationRunId": "39706945405",
   "KitchenValidationRunId": "39706043559",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.434"
+  "PublishedBaselineVersion": "10.435"
 }
