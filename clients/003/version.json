@@ -1,14 +1,16 @@
 {
-  "Version": "10.443",
+  "Version": "10.444",
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.443/LEAL_INFO_PDV_003_V10_443_UPDATE.zip",
-  "Sha256": "254e7531cd8bb0171afd86521730b7c8b5b0f908939dd77f01051e4eba480998",
-  "SourceCommit": "3907959a57b7fa032b8a58392f27d4962ab64f54",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.444/LEAL_INFO_PDV_CASA_V10_444_UPDATE.zip",
+  "Sha256": "bb8a0e425f3d5b401bc0f12c69e7a4afa61ae1ec78372078bae8ed24c737a6cd",
+  "SourceCommit": "a7ea289f587eb6650fb9d8de152fb7781a20e5ef",
   "Mandatory": false,
-  "Notes": "CASA LEAL INFO PET V1.1: cores originais dos seis indicadores financeiros restauradas, mantendo o layout adaptado. Cálculos e registros preservados. Exclusivo 003.",
-  "BuildRunId": "39859717202",
-  "ValidationRunId": "39859717202",
-  "KitchenValidationRunId": "39722399864",
+  "Notes": "Casa do Leal: migração protegida para base comum 10.444 e PET V1.1 separado. Backup e rollback validados em Windows isolado. Homologação na instalação real pendente. Atualizador independente do PET permanece em etapa posterior.",
+  "BuildRunId": "39871413552",
+  "ValidationRunId": "39871413552",
+  "PublicationRunId": "39872976030",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.442"
+  "PublishedBaselineVersion": "10.443",
+  "PetVersion": "1.1",
+  "RealWindowsHomologated": false
 }
