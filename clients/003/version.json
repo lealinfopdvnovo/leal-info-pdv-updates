@@ -1,14 +1,14 @@
 {
-  "Version": "10.437",
+  "Version": "10.438",
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.437/LEAL_INFO_PDV_003_V10_437_UPDATE.zip",
-  "Sha256": "fc901390f70cd2a98c9f0f8dbfa79186f2c742ddac3c8d9e43fd04dd9d4c1155",
-  "SourceCommit": "c802a5f1d565371e4bb22abe6fa9c9b71322fc70",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.438/LEAL_INFO_PDV_003_V10_438_UPDATE.zip",
+  "Sha256": "2dc5a1b8bfada1c519e17dbe670d712312df74b162f716754fb956dadb405028",
+  "SourceCommit": "1362b1501a9e63dd7605c3a0786c7ea8fad5034e",
   "Mandatory": false,
-  "Notes": "Cozinha Premium 003: classificação individual EXIGE PREPARO ou ENTREGA DIRETA, sugestões automáticas revisáveis, cadastro permanente e confirmação de ações divergentes. Preços, estoque e pagamentos preservados.",
-  "BuildRunId": "39715676511",
-  "ValidationRunId": "39715676511",
-  "KitchenValidationRunId": "39715676511",
+  "Notes": "Cozinha Premium 003: seta de destino por item no NOVO PEDIDO, mesa e preparo no mesmo pedido, sugestões revisáveis e confirmação sem alertas repetidos. Fila protegida contra duplicação, pagamentos e estoque preservados.",
+  "BuildRunId": "39717442132",
+  "ValidationRunId": "39717442132",
+  "KitchenValidationRunId": "39717442132",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.436"
+  "PublishedBaselineVersion": "10.437"
 }
