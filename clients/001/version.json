@@ -1,14 +1,14 @@
 {
-  "Version": "10.436",
+  "Version": "10.437",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.436/LEAL_INFO_PDV_001_V10_436_UPDATE.zip",
-  "Sha256": "8638d6b73a0c96bed046bf3433c746104d9a42a13f6946a7a8413726fc253edd",
-  "SourceCommit": "f2e822fbccbe07b349150a1e8997994c634f9d50",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.437/LEAL_INFO_PDV_001_V10_437_UPDATE.zip",
+  "Sha256": "31451914d505dee691db64ef0777b726573a48add337d9e66c1906fc946170b6",
+  "SourceCommit": "3840167a1729681c87928298ceae0e65bfc83097",
   "Mandatory": false,
-  "Notes": "Cozinha Premium: pagamento parcial por produtos e quantidades, bloqueio de itens não entregues, conta persistente e proteção contra cobrança ou estoque duplicados. Exclusivo cliente 001 pelo atualizador interno.",
-  "BuildRunId": "39706945405",
-  "ValidationRunId": "39706945405",
+  "Notes": "LOJA LEAL INFO PET V1.2: botão EM FASE DE TESTE ao lado de ESTILO na tela de vendas. Ponte exclusiva 001, preservando funções existentes. Atualização protegida pelo próprio PDV.",
+  "BuildRunId": "39815685179",
+  "ValidationRunId": "39815685179",
   "KitchenValidationRunId": "39706043559",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.435"
+  "PublishedBaselineVersion": "10.436"
 }
