@@ -1,14 +1,14 @@
 {
-  "Version": "10.440",
+  "Version": "10.441",
   "TargetClientCode": "003",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.440/LEAL_INFO_PDV_003_V10_440_UPDATE.zip",
-  "Sha256": "9e86a33f24ebb7b3c469d6b569e1f507bc8809c00358aac9448dd9cefe6647c3",
-  "SourceCommit": "6006439d469dfc7af1b60cfbe1ca630d6abb80fa",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.441/LEAL_INFO_PDV_003_V10_441_UPDATE.zip",
+  "Sha256": "08d56ba50b8787ff0ad853542a7d528b418855d74ba038602bc2d6b2504a630f",
+  "SourceCommit": "8210e6ef5777d96fc3317711b034ed86647b16e7",
   "Mandatory": false,
-  "Notes": "Cozinha Premium 003: status Preparando, Pronto e Entregue por produto. A seta e MARCAR PRONTO alteram somente o item selecionado. Outros produtos, seus tempos e pagamentos permanecem independentes.",
-  "BuildRunId": "39720319618",
-  "ValidationRunId": "39720319618",
-  "KitchenValidationRunId": "39720319618",
+  "Notes": "Cozinha Premium 003: alinhamento responsivo dos botões de recebimento. Cálculos, quantidades, preparo e histórico de pagamentos preservados.",
+  "BuildRunId": "39722060808",
+  "ValidationRunId": "39722060808",
+  "KitchenValidationRunId": "39722060808",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.439"
+  "PublishedBaselineVersion": "10.440"
 }
