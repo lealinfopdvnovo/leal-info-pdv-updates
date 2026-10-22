@@ -1,14 +1,14 @@
 {
-  "Version": "10.439",
+  "Version": "10.440",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.439/LEAL_INFO_PDV_001_V10_439_UPDATE.zip",
-  "Sha256": "2e3b477cdca852cfb073d6a9d2ce3e3949be093a53eb03b555df25c9fba58bf0",
-  "SourceCommit": "35c795bd411642c9aaa5e927bc486af52399385c",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.440/LEAL_INFO_PDV_001_V10_440_UPDATE.zip",
+  "Sha256": "336ce021490c2f953cfe58c009ea1c7f001b06ee1810785cd9b60190f3222600",
+  "SourceCommit": "21eaaa4bc40276a22669c726ac73519cae782188",
   "Mandatory": false,
-  "Notes": "LOJA LEAL INFO: identificação PET V1.2 ao lado da versão do PDV no rodapé. Mantidos logotipo ampliado e remoção do botão de teste. Exclusivo 001.",
-  "BuildRunId": "39846811630",
-  "ValidationRunId": "39846811630",
+  "Notes": "LOJA LEAL INFO PET V1.2: rodapé do relatório financeiro adaptado à escala da tela e descrições com mais espaço. Cálculos e registros preservados. Exclusivo 001.",
+  "BuildRunId": "39854148849",
+  "ValidationRunId": "39854148849",
   "KitchenValidationRunId": "39706043559",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.438"
+  "PublishedBaselineVersion": "10.439"
 }
