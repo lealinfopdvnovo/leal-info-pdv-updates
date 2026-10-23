@@ -1,0 +1,15 @@
+{
+  "Version": "10.446",
+  "TargetClientCode": "003",
+  "Component": "GLOBAL",
+  "PetApiVersion": 1,
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.446-casa/LEAL_INFO_PDV_CASA_V10_446_UPDATE.zip",
+  "Sha256": "7019c715477d5b972f6fe75f4fd457fe0babd524bf3d737056c3e900a8c54ba7",
+  "SourceCommit": "e249c200747f0298df916f25bb19b537ae973bae",
+  "Mandatory": false,
+  "Notes": "Teste direcionado Casa do Leal: menu Consulta abre painel flutuante com Produtos, Clientes, Histórico de vendas, Ordens / OS, Motoboy / Entregas e Orçamentos. Funções e permissões preservadas. GLOBAL permanece 10.445.",
+  "BuildRunId": "39880307934",
+  "ValidationRunId": "39880307934",
+  "ProtectedUpdaterRequired": true,
+  "PublishedBaselineVersion": "10.445"
+}
