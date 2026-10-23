@@ -1,0 +1,23 @@
+{
+  "Version": "10.455",
+  "TargetClientCode": "001",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.455/LEAL_INFO_PDV_001_V10_455_UPDATE.zip",
+  "Sha256": "3ec4c5f85aa3ff3c3e0f9d2b6642524a92183fa01f1b718fddda62f6ae8e7eac",
+  "SourceCommit": "91f59a5282e064e7190ed98da1e01c597410dba9",
+  "SourceBase": "7aa5d38336e94659c07f0afc6ddfe40169c41a3a",
+  "PetVersion": "1.2",
+  "Mandatory": false,
+  "Notes": "LIA - etapa 2 de 2: CONFIGURAR CHAVE abre na frente, permite colar, salvar e fechar. Chave protegida pelo Windows. Preserva GLOBAL, PET e dados.",
+  "BuildRunId": "40015881058",
+  "ValidationRunId": "40015881058",
+  "ProtectedUpdaterRequired": true,
+  "PublishedBaselineVersion": "10.454",
+  "InstalledOnRealComputers": false,
+  "GlobalFeatureVersion": "10.453",
+  "DesktopNotifier": true,
+  "PollSeconds": 60,
+  "DeferredMinutes": 30,
+  "PackagesVerifiedBeforeFeed": true,
+  "BridgeStage": 2,
+  "MinimumInstalledVersion": "10.454"
+}
