@@ -1,14 +1,14 @@
 {
-  "Version": "10.441",
+  "Version": "10.445",
   "TargetClientCode": "001",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.441/LEAL_INFO_PDV_001_V10_441_UPDATE.zip",
-  "Sha256": "fb1d91392ccfcfdb8f0fcd1b9155f7697e94550422db921f81dc2c1d9d91abf9",
-  "SourceCommit": "19cd2697fada9e444bef8f23a920aca468abd819",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-001-v10.445/LEAL_INFO_PDV_001_V10_445_UPDATE.zip",
+  "Sha256": "503295404780e74de478a14efc82933440e85e5762854e87dcd1beaee844ae2f",
+  "SourceCommit": "006ecad77168de93d8bf1130c7bbf401e3c4d7b7",
+  "SourceBase": "19cd2697fada9e444bef8f23a920aca468abd819",
   "Mandatory": false,
-  "Notes": "LOJA LEAL INFO PET V1.2: cores originais dos seis indicadores financeiros restauradas, mantendo o layout adaptado. Cálculos e registros preservados. Exclusivo 001.",
-  "BuildRunId": "39856601882",
-  "ValidationRunId": "39856601882",
-  "KitchenValidationRunId": "39706043559",
-  "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.440"
+  "Notes": "Atualização GLOBAL 10.445: botão SAIR vermelho com acabamento 3D e aviso Nova atualização após login com Atualizar agora ou Depois. Distribuição compatível com o atualizador já instalado; preserva funções e personalizações desta instalação. Sem instalador.",
+  "BuildRunId": "39878409513",
+  "ValidationRunId": "39878409513",
+  "GlobalFeatureVersion": "10.445",
+  "PublishedBaselineVersion": "10.441"
 }

@@ -1,11 +1,14 @@
 {
-  "Version": "10.408",
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-004-v10.408/LEAL_INFO_PDV_004_V10_408_UPDATE.zip",
-  "Sha256": "c23598b1ef448d67bba28a1e85f3b7935326e665b08453161e573b12ad845345",
-  "SourceCommit": "2787ea2541261bd68cf1e931ceaa6ed537ddc832",
+  "Version": "10.445",
+  "TargetClientCode": "004",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-004-v10.445/LEAL_INFO_PDV_004_V10_445_UPDATE.zip",
+  "Sha256": "e256a4992cf2b7de801a54b5d1a2f2314cc17f88c8682d8be61852c858f1217f",
+  "SourceCommit": "006ecad77168de93d8bf1130c7bbf401e3c4d7b7",
+  "SourceBase": "2787ea2541261bd68cf1e931ceaa6ed537ddc832",
   "Mandatory": false,
-  "Notes": "Correção da distribuição: canais independentes, sem substituição de personalizações pelo GLOBAL. Banco, licença, configurações e funções preservados. Atualização pelo próprio PDV.",
-  "DistributionRevision": "bd3d98437918bd961077f095ac6671a3f9a0967c",
-  "BuildRunId": "38980960355",
-  "TargetClientCode": "004"
+  "Notes": "Atualização GLOBAL 10.445: botão SAIR vermelho com acabamento 3D e aviso Nova atualização após login com Atualizar agora ou Depois. Distribuição compatível com o atualizador já instalado; preserva funções e personalizações desta instalação. Sem instalador.",
+  "BuildRunId": "39878409513",
+  "ValidationRunId": "39878409513",
+  "GlobalFeatureVersion": "10.445",
+  "PublishedBaselineVersion": "10.408"
 }
