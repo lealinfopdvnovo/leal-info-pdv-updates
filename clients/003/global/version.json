@@ -1,17 +1,17 @@
 {
-  "Version": "10.457",
+  "Version": "10.458",
   "TargetClientCode": "003",
   "Component": "GLOBAL",
   "PetApiVersion": 1,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.457-casa/LEAL_INFO_PDV_CASA_V10_457_UPDATE.zip",
-  "Sha256": "869871bdb0065cbc7fc00f2d3cba61194ecea32a9dbbaae0367c3ec717a65ed8",
-  "SourceCommit": "e691d9e8d548ce30c54653698a98370e0a2838e8",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.458-casa-lia/LEAL_INFO_PDV_CASA_V10_458_UPDATE.zip",
+  "Sha256": "af1e787964c7ec550a991f4dab457e4e6750779579533b495b3b69bedc3fa085",
+  "SourceCommit": "c19a69f50616c652dd89341fa4a07fa311750b61",
   "Mandatory": false,
-  "Notes": "GLOBAL 10.457: somente destaque dourado e legível da versão na tela de login. Preserva PET, funções, banco, licença, estoque e configurações. Atualizador existente sem alteração. Loja 001 intocada.",
-  "BuildRunId": "40027170070",
-  "ValidationRunId": "40027170070",
+  "Notes": "Casa do Adriano: restaura o botão original da LIA omitido no pacote anterior. Preserva PET V1.1, licença, banco, configurações, atualizador e demais clientes. Voz e instalação real ainda exigem conferência no computador.",
+  "BuildRunId": "40589513031",
+  "ValidationRunId": "40589513031",
   "ProtectedUpdaterRequired": true,
-  "PublishedBaselineVersion": "10.453",
+  "PublishedBaselineVersion": "10.457",
   "SourceBase": "874bc1e77fc3fb9b643ed17ceb0e1e1c91ad2ac8",
   "GlobalFeatureVersion": "10.457",
   "InstalledOnRealComputers": false,
@@ -19,5 +19,5 @@
   "PollSeconds": 60,
   "DeferredMinutes": 30,
   "PackagesVerifiedBeforeFeed": true,
-  "PublicationRunId": "40036089203"
+  "PublicationRunId": "40589892120"
 }
