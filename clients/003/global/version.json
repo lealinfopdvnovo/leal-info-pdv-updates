@@ -3,7 +3,7 @@
   "TargetClientCode": "003",
   "Component": "GLOBAL",
   "PetApiVersion": 1,
-  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/client-003-v10.463-selo-original/LEAL_INFO_PDV_CASA_V10_462_UPDATE.zip",
+  "PackageUrl": "https://github.com/lealinfopdvnovo/leal-info-pdv-updates/releases/download/v10.463-casa-selo-original/LEAL_INFO_PDV_CASA_V10_462_UPDATE.zip",
   "Sha256": "fb329c8520339ec8171946c7b4b2e8bae7036c9d49ed0823ed25e8a122680d24",
   "SourceCommit": "8ebd90b91d0213d94edb04d14bc0d5d7ad310d47",
   "Mandatory": false,
